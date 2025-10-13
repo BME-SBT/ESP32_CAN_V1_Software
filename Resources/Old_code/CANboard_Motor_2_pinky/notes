@@ -1,0 +1,32 @@
+
+//read and write prot into controll frame
+
+void CanTask(){
+    twai_receive();
+    if(rx_msg.identifier == ID_CONTROLL){
+        if(read == 1){
+            delay(1 Ms)
+        }
+        write = 1;
+        controll.data = rx_msg.data;
+        write = 0;
+    }
+}
+
+
+
+
+while(){
+    read_motor_data()
+    twai_transmit()
+    if(write == 1){
+        delay(1 Ms)
+    }
+    read = 1
+    position = data_to_pos(controll.data[0])
+    targetAngle = normalizeAngle(data_to_angle(controll.data[1]))
+    read = 0
+    mcpwm_comparator_set_compare_value(comparator, position)
+    anglerotated = rotateToAngle() // max 3 degrees
+    delay(10 - (anglerotated*3))
+}

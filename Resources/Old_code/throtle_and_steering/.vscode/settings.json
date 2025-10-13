@@ -1,0 +1,38 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.espIdfPathWin": "C:\\Users\\gocza\\esp\\v5.3.2\\esp-idf",
+    "idf.pythonInstallPath": "C:\\Users\\gocza\\.espressif\\tools\\idf-python\\3.11.2\\python.exe",
+    "idf.openOcdConfigs": [
+        "board/esp32c6-builtin.cfg"
+    ],
+    "idf.portWin": "COM10",
+    "idf.toolsPathWin": "C:\\Users\\gocza\\.espressif",
+    "idf.customExtraVars": {
+        "IDF_TARGET": "esp32c6"
+    },
+    "files.associations": {
+        "adc.h": "c",
+        "array": "c",
+        "*.tcc": "c",
+        "bitset": "c",
+        "chrono": "c",
+        "string": "c",
+        "vector": "c",
+        "string_view": "c",
+        "functional": "c",
+        "format": "c",
+        "iomanip": "c",
+        "istream": "c",
+        "limits": "c",
+        "ostream": "c",
+        "ratio": "c",
+        "span": "c",
+        "sstream": "c",
+        "stop_token": "c",
+        "streambuf": "c",
+        "regex": "c",
+        "tuple": "c",
+        "*.inc": "c"
+    },
+    "idf.flashType": "JTAG"
+}

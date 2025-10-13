@@ -1,0 +1,20 @@
+
+
+
+
+
+
+while(){
+    readthrottle()
+    readsteering()
+    AMSlogic()
+    twaitransmit()
+    if(read = 1){
+        delay(1 MS)
+    }
+    write = 1
+    data = twaiframe
+    write = 0
+    uart transmit(data)
+    
+}
