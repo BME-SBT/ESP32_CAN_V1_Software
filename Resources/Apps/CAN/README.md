@@ -1,94 +1,103 @@
-| Supported Targets | ESP32 | ESP32-C3 | ESP32-C6 | ESP32-H2 | ESP32-P4 | ESP32-S2 | ESP32-S3 |
-| ----------------- | ----- | -------- | -------- | -------- | -------- | -------- | -------- |
+*Needs proofreading*
 
-# TWAI Alert and Recovery Example
 
-(See the README.md file in the upper level 'examples' directory for more information about examples.)
+# CAN example — usage & extension guide
 
-This example demonstrates how to use the alert and bus recovery features of the TWAI driver. The alert feature allows the TWAI driver to notify the application layer of certain TWAI driver or bus events. The bus recovery feature is used to recover the TWAI driver after it has entered the Bus-Off state. See the TWAI driver reference for more details.
+This app contains a small TWAI (CAN) example, snippets of which all CAN boards will use. The active code transmits and receives two example frames called ``example_frame1`` and ``example_frame2``. These frame variables are defined and initialized (identifier, DLC, data) in your code and can also be found or derived from `solar.h` where the actual project CAN frames are declared.
 
-## How to use example
+This document explains how to use and extend the example, using `example_frame1` as the canonical example.
 
-### Hardware Required
+## Overview
+- `example_frame1` and `example_frame2` are `twai_message_t` variables that hold the CAN ID, DLC and payload bytes.
+- Each shared frame has a mutex named `m_<frameName>`. For `example_frame1` it is `m_example_frame1`.
+- `tx_task` periodically (every 100 ms) copies a frame under its mutex into a local `twai_message_t` and then calls `twai_transmit()` on the local copy (so the mutex is not held during the blocking transmit).
+- `rx_task` receives CAN frames and, when the incoming `identifier` matches a known frame ID, updates the shared `example_frame` under the matching mutex (``example_frame = rx_msg;`` — struct copy).
+- There is a simple CAN error flag protected by `m_can_error` with helper functions in the code: `can_error_set()`, `can_error_clear_one()`, and `can_error_get()`.
 
-This example requires only a single target (e.g., an ESP32 or ESP32-S2). The target must be connected to an external transceiver (e.g., a SN65HVD23X transceiver). This connection usually consists of a TX and an RX signal.
+## Where the frames live
+- Example frames are declared in `main.c` as:
 
-Note: If you don't have an external transceiver, this example can still be run by simply connecting the TX GPIO and RX GPIO with a jumper.
-
-### Configure the project
-
-* Set the target of the build (where `{IDF_TARGET}` stands for the target chip such as `esp32`, `esp32c3`).
-* Then run `menuconfig` to configure the example.
-
-```sh
-idf.py set-target {IDF_TARGET}
-idf.py menuconfig
+```c
+static twai_message_t example_frame1 = {
+    .extd = 0,
+    .rtr = 0,
+    .identifier = example_frame1_ID, // 0x100 in the example
+    .data_length_code = 8,
+    .data = {0}
+};
 ```
 
-* Under `Example Configuration`, configure the pin assignments using the options `TX GPIO Number` and `RX GPIO Number` according to how the target was connected to the transceiver. By default, `TX GPIO Number` and `RX GPIO Number` are set to the following values:
-  * On the ESP32, `TX GPIO Number` and `RX GPIO Number` default to `21` and `22` respectively
-  * On other chips, `TX GPIO Number` and `RX GPIO Number` default to `0` and `2` respectively
+- `solar.h` contains project frames (MotorTemps, MotorData, BMSData, ...) initialized in a similar way. You can reuse the frames in `solar.h` or define new ones in `main.c` (see "Add a new frame").
 
-### Build and Flash
+## Quick example (how TX uses a shared frame — exact code is already in the project):
 
-Build the project and flash it to the board, then run monitor tool to view serial output:
-
-```sh
-idf.py -p PORT flash monitor
+```c
+// copy under mutex
+xSemaphoreTake(m_example_frame1, portMAX_DELAY);
+local = example_frame1; // struct copy copies the data[] array too
+xSemaphoreGive(m_example_frame1);
+// transmit the local copy (mutex not held during transmit)
+twai_transmit(&local, pdMS_TO_TICKS(10));
 ```
 
-(Replace PORT with the name of the serial port to use.)
+## Adding a new frame — checklist
+1. Define the frame ID (choose an unused CAN ID):
+   ```c
+   #define MY_FRAME_ID 0x250
+   ```
 
-(To exit the serial monitor, type ``Ctrl-]``.)
+2. Declare and initialize the shared frame variable (top of file):
+   ```c
+   static twai_message_t my_frame = {
+       .extd = 0,
+       .rtr = 0,
+       .identifier = MY_FRAME_ID,
+       .data_length_code = 8,
+       .data = {0}
+   };
+   ```
 
-See the Getting Started Guide for full steps to configure and use ESP-IDF to build projects.
+3. Declare the mutex for the frame (naming follows the convention used here):
+   ```c
+   static SemaphoreHandle_t m_my_frame = NULL;
+   ```
 
-## Example Output
+4. Create the mutex in `app_main()` (after TWAI driver is installed and before tasks that use it are created):
+   ```c
+   m_my_frame = xSemaphoreCreateMutex();
+   if (!m_my_frame) { ESP_LOGE(TAG, "m_my_frame create failed"); return; }
+   ```
 
-```text
-I (330) TWAI Alert and Recovery: Driver installed
-I (340) TWAI Alert and Recovery: Driver started
-I (340) TWAI Alert and Recovery: Starting transmissions
-W (350) TWAI Alert and Recovery: Trigger TX errors in 3
-W (1350) TWAI Alert and Recovery: Trigger TX errors in 2
-W (2350) TWAI Alert and Recovery: Trigger TX errors in 1
-I (3350) TWAI Alert and Recovery: Trigger errors
-I (3650) TWAI Alert and Recovery: Surpassed Error Warning Limit
-I (3650) TWAI Alert and Recovery: Entered Error Passive state
-I (4300) TWAI Alert and Recovery: Bus Off state
-W (4300) TWAI Alert and Recovery: Initiate bus recovery in 3
-W (5300) TWAI Alert and Recovery: Initiate bus recovery in 2
-W (6300) TWAI Alert and Recovery: Initiate bus recovery in 1
-I (7300) TWAI Alert and Recovery: Initiate bus recovery
-I (7350) TWAI Alert and Recovery: Bus Recovered
-I (7350) TWAI Alert and Recovery: Driver uninstalled
-```
+5. Add TX copy/transmit in `tx_task` (do not hold mutex during twai_transmit):
+   ```c
+   twai_message_t local;
+   xSemaphoreTake(m_my_frame, portMAX_DELAY);
+   local = my_frame;
+   xSemaphoreGive(m_my_frame);
+   local.data_length_code = 8; // enforce sending 8 bytes if desired
+   twai_transmit(&local, pdMS_TO_TICKS(10));
+   ```
 
-## Troubleshooting
+6. Add RX handler in `rx_task` (store received frame into the shared frame under mutex):
+   ```c
+   case MY_FRAME_ID:
+       xSemaphoreTake(m_my_frame, portMAX_DELAY);
+       my_frame = rx_msg; // struct copy
+       xSemaphoreGive(m_my_frame);
+       break;
+   ```
 
-```text
-I (3350) TWAI Alert and Recovery: Trigger errors
-```
+7. If a test harness is desired, create a small task that writes into `my_frame` under `m_my_frame` to exercise transmit and receive.
 
-If the example does not progress pass triggering errors, check that the target is correctly connected to the transceiver.
+## Remove or modify a frame
+- To remove: undo the steps above — remove ID, frame variable and mutex, remove TX transmit copy & RX `case` branch.
+- To change ID: update the frame global declaration `#define` and update the `rx_task` `case` branch accordingly.
 
-```text
-I (3350) TWAI Alert and Recovery: Trigger errors
-I (3650) TWAI Alert and Recovery: Surpassed Error Warning Limit
-I (3650) TWAI Alert and Recovery: Entered Error Passive state
-```
+## Best practices and gotchas
+- Always take the frame mutex before reading or writing the shared `twai_message_t`.
+- Never call `twai_transmit()` while holding the frame mutex — copy under the mutex and transmit the local copy.
+- Keep a consistent lock order if you must lock multiple frame mutexes in one function (e.g., always lock `m_example_frame1` then `m_example_frame2`).
+- Use `m_can_error` helper functions to inspect or clear the CAN error state instead of touching the counter directly.
 
-If the example is able to trigger errors but does not enter the bus off state (i.e., stays in the error passive state), check that the triggering of the bit error is properly set to the examples operating bit rate. By default, the example runs at a bit rate of 25kbits/sec, and the bit error should be triggered after the arbitration phase of each transmitted message.
-
-## Example Breakdown
-
-The TWAI Alert and Recovery Example will do the following...
-
-1. Initialize the TWAI driver in No Acknowledgement mode (so that another node is not required).
-2. Create a transmit task to handle message transmission, and a control task to handle alerts.
-3. Control task starts the TWAI driver, then reconfigures the alerts to trigger when the error passive or bus off state is entered. The control task then waits for those alerts.
-4. The transmit repeatedly transmits single shot messages (i.e., message won't be retried if an error occurs).
-5. When a message is being transmitted, the transmit task will purposely invert the TX pin to trigger a bit error. **Note that the triggering of the bit error is timed to occur after the arbitration phase of the transmitted message**.
-6. The triggering of a bit error on each transmitted message eventually puts the TWAI driver into the Bus-Off state.
-7. Control tasks detects the Bus-Off state via an alert, and triggers the Bus-Off recovery process after a short delay. Alerts are also reconfigured to trigger on the completion of Bus-Off recovery.
-8. Once the Bus-Off recovery completion alert is detected by the control task, the TWAI driver is stopped and uninstalled.
+### Example: test randomizer
+- The project includes a simple test loop that randomly fills `example_frame1.data[]`. This test exercise can be left in during development or moved into its own task for cleanliness.
