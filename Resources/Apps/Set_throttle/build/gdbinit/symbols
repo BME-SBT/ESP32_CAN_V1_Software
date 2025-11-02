@@ -13,8 +13,8 @@ end
 
 # Load bootloader symbols
 set confirm off
-    add-symbol-file /home/kovacsm/solar/set_throttle/build/bootloader/bootloader.elf
+    add-symbol-file /home/kovacsm/can_solar/Resources/Apps/Set_throttle/build/bootloader/bootloader.elf
 set confirm on
 
 # Load application symbols
-file /home/kovacsm/solar/set_throttle/build/set_throttle.elf
+file /home/kovacsm/can_solar/Resources/Apps/Set_throttle/build/set_throttle.elf

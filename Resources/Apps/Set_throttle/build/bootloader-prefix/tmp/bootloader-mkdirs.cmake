@@ -10,18 +10,18 @@ if(NOT EXISTS "/nix/store/3kwgdiamcz3g9z6889bir2lqp0sd6paz-esp-idf-v5.5.1/compon
   file(MAKE_DIRECTORY "/nix/store/3kwgdiamcz3g9z6889bir2lqp0sd6paz-esp-idf-v5.5.1/components/bootloader/subproject")
 endif()
 file(MAKE_DIRECTORY
-  "/home/kovacsm/solar/set_throttle/build/bootloader"
-  "/home/kovacsm/solar/set_throttle/build/bootloader-prefix"
-  "/home/kovacsm/solar/set_throttle/build/bootloader-prefix/tmp"
-  "/home/kovacsm/solar/set_throttle/build/bootloader-prefix/src/bootloader-stamp"
-  "/home/kovacsm/solar/set_throttle/build/bootloader-prefix/src"
-  "/home/kovacsm/solar/set_throttle/build/bootloader-prefix/src/bootloader-stamp"
+  "/home/kovacsm/can_solar/Resources/Apps/Set_throttle/build/bootloader"
+  "/home/kovacsm/can_solar/Resources/Apps/Set_throttle/build/bootloader-prefix"
+  "/home/kovacsm/can_solar/Resources/Apps/Set_throttle/build/bootloader-prefix/tmp"
+  "/home/kovacsm/can_solar/Resources/Apps/Set_throttle/build/bootloader-prefix/src/bootloader-stamp"
+  "/home/kovacsm/can_solar/Resources/Apps/Set_throttle/build/bootloader-prefix/src"
+  "/home/kovacsm/can_solar/Resources/Apps/Set_throttle/build/bootloader-prefix/src/bootloader-stamp"
 )
 
 set(configSubDirs )
 foreach(subDir IN LISTS configSubDirs)
-    file(MAKE_DIRECTORY "/home/kovacsm/solar/set_throttle/build/bootloader-prefix/src/bootloader-stamp/${subDir}")
+    file(MAKE_DIRECTORY "/home/kovacsm/can_solar/Resources/Apps/Set_throttle/build/bootloader-prefix/src/bootloader-stamp/${subDir}")
 endforeach()
 if(cfgdir)
-  file(MAKE_DIRECTORY "/home/kovacsm/solar/set_throttle/build/bootloader-prefix/src/bootloader-stamp${cfgdir}") # cfgdir has leading slash
+  file(MAKE_DIRECTORY "/home/kovacsm/can_solar/Resources/Apps/Set_throttle/build/bootloader-prefix/src/bootloader-stamp${cfgdir}") # cfgdir has leading slash
 endif()

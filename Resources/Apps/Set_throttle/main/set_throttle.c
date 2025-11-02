@@ -36,19 +36,14 @@
 
 #define PULSE_GPIO 8
 
-// CHANGE MAP_SCALER IF YOU CHANGE THESE
 #define MIN_PULSEWIDTH_US 1000  // Minimum pulse width in microsecond
 #define MAX_PULSEWIDTH_US 2500  // Maximum pulse width in microsecond
 #define MIN_REV           1483  // Minimum input
 #define MAX_REV           1982  // Maximum input
-////////////////////////////////////////
 
 #define SERVO_TIMEBASE_RESOLUTION_HZ 1000000  // 1MHz, 1us per tick
 #define SERVO_TIMEBASE_PERIOD        10000    // 10000 ticks, 10ms
 #define GROUP_ID 0 // Same group for all
-
-// Change this aswell if you change MIN_REV, MAX_REV, MIN_PULSEWIDTH_US, MAX_PULSEWIDTH_US !!!
-#define MAP_SCALER 0.33267 // (MAX_REV - MIN_REV) / (MAX_PULSEWIDTH_US - MIN_PULSEWIDTH_US)
 
 //end of definitions
 
@@ -75,24 +70,23 @@ void gpio_set_dir(int gpio, int mode){
     gpio_config(&io_conf);
 }
 
+
 // clamps potmeter data to MAX_REV MIN_REV, and maps it to the same range linearly
-// uses precalculated MAP_SCALER, NEEDS TO BE PRECALCULATED!!!
 static inline uint32_t clamp_map(int x) {
   if (x > MAX_PULSEWIDTH_US) return MAX_REV;
   if (x < MIN_PULSEWIDTH_US) return MIN_REV;
-  return (x - MIN_PULSEWIDTH_US) * MAP_SCALER + MIN_REV;
+  return (x - MIN_PULSEWIDTH_US) * ((MAX_REV - MIN_REV) / (MAX_PULSEWIDTH_US - MIN_PULSEWIDTH_US)) + MIN_REV;
 }
 
+// initializing the timer, operator, generator, comperator for pwm pulse generation
+mcpwm_timer_handle_t timer = NULL;
+mcpwm_oper_handle_t oper = NULL;
+mcpwm_cmpr_handle_t cmpr = NULL;
+mcpwm_gen_handle_t generator = NULL;
 
-
-void app_main(void)
-{
-  int poti = 1671; // TODO get data from potmeter
-
-// start of pwm config
+void init_pwm() {
 
   //Timer config
-  mcpwm_timer_handle_t timer = NULL;
   mcpwm_timer_config_t timer_config = {
     .group_id = GROUP_ID,
     .clk_src = MCPWM_TIMER_CLK_SRC_DEFAULT,
@@ -104,7 +98,6 @@ void app_main(void)
   // TODO error handling for no more timer
 
   // Operator config
-  mcpwm_oper_handle_t oper = NULL;
   mcpwm_operator_config_t oper_config = {
     .group_id = GROUP_ID, // same group ids as timer
   };
@@ -115,7 +108,6 @@ void app_main(void)
   mcpwm_operator_connect_timer(oper, timer);
 
   // Comperator config
-  mcpwm_cmpr_handle_t cmpr = NULL;
   mcpwm_comparator_config_t cmpr_config = {
     .flags.update_cmp_on_tez = true,
   };
@@ -123,7 +115,6 @@ void app_main(void)
   // TODO error handling
 
   // Generator config
-  mcpwm_gen_handle_t generator = NULL;
   mcpwm_generator_config_t generator_config = {
     .gen_gpio_num = PULSE_GPIO,
   };
@@ -131,7 +122,7 @@ void app_main(void)
   // TODO error handling
 
   // initial compare value to the middle of the interval
-  mcpwm_comparator_set_compare_value(cmpr, clamp_map(poti));
+  mcpwm_comparator_set_compare_value(cmpr, (MIN_REV + MAX_REV) / 2);
 
   // go high on counter empty
   mcpwm_generator_set_action_on_timer_event(generator, MCPWM_GEN_TIMER_EVENT_ACTION(MCPWM_TIMER_DIRECTION_UP, MCPWM_TIMER_EVENT_EMPTY, MCPWM_GEN_ACTION_HIGH));
@@ -143,10 +134,36 @@ void app_main(void)
   // start timer
   mcpwm_timer_start_stop(timer, MCPWM_TIMER_START_NO_STOP);
 
-//end of pwm config
+  // set to half the interval initially
+  mcpwm_comparator_set_compare_value(cmpr, (MIN_REV + MAX_REV) / 2);
+}
 
-    while(1){
-        // put your main code here, to run repeatedly:
-    }
+void vTaskSetThrottle(void* pvParameters) {
+  init_pwm();
+
+  // TODO get potmeter (throttle) position from CAN
+  int potmeterData = 123;
+
+  while (1) {
+
+    // Set the compare value of the pwm comperator to the clamped mapped potmeter data
+    mcpwm_comparator_set_compare_value(cmpr, clamp_map(potmeterData));
+
+    vTaskDelay(pdMS_TO_TICKS(100)); // 10 Hz
+  }
+}
+
+void app_main(void)
+{
+
+  // Create the task
+  xTaskCreate(
+    vTaskSetThrottle,
+    "PWM generation",
+    2048,
+    NULL,
+    3,
+    NULL
+  );
 
 }
