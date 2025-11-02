@@ -1,5 +1,5 @@
-# README
+# Set Throttle task
 
-init pwm
+The following task sets the throttle pwm signal based on the potmeter position from the CAN frame.
 
-set throttle 10 times / sec
+Also contains PWM initialization, clamping mapping.

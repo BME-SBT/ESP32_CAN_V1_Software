@@ -72,11 +72,16 @@ void gpio_set_dir(int gpio, int mode){
 
 
 // clamps potmeter data to MAX_REV MIN_REV, and maps it to the same range linearly
-static inline uint32_t clamp_map(int x) {
+static inline uint16_t clamp_map(uint8_t x) {
   if (x > MAX_PULSEWIDTH_US) return MAX_REV;
   if (x < MIN_PULSEWIDTH_US) return MIN_REV;
   return (x - MIN_PULSEWIDTH_US) * ((MAX_REV - MIN_REV) / (MAX_PULSEWIDTH_US - MIN_PULSEWIDTH_US)) + MIN_REV;
 }
+/*
+ * Question:
+ * if I get an 8 bit number what am I really testing for here with
+ * max min pulsewidth? or was the existing code just bad?
+ */
 
 // initializing the timer, operator, generator, comperator for pwm pulse generation
 mcpwm_timer_handle_t timer = NULL;
@@ -142,7 +147,7 @@ void vTaskSetThrottle(void* pvParameters) {
   init_pwm();
 
   // TODO get potmeter (throttle) position from CAN
-  int potmeterData = 123;
+  uint8_t potmeterData = 123;
 
   while (1) {
 
