@@ -1,0 +1,2 @@
+source /home/kovacsm/can_solar/Resources/Apps/Set_throttle/build/bootloader/gdbinit/symbols
+source /home/kovacsm/can_solar/Resources/Apps/Set_throttle/build/bootloader/gdbinit/connect

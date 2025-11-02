@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/kovacsm/can_solar/Resources/Apps/Set_throttle/build/CMakeFiles/bootloader
+/home/kovacsm/can_solar/Resources/Apps/Set_throttle/build/CMakeFiles/bootloader.rule
+/home/kovacsm/can_solar/Resources/Apps/Set_throttle/build/CMakeFiles/bootloader-complete.rule
+/home/kovacsm/can_solar/Resources/Apps/Set_throttle/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/kovacsm/can_solar/Resources/Apps/Set_throttle/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/kovacsm/can_solar/Resources/Apps/Set_throttle/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/kovacsm/can_solar/Resources/Apps/Set_throttle/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/kovacsm/can_solar/Resources/Apps/Set_throttle/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/kovacsm/can_solar/Resources/Apps/Set_throttle/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/kovacsm/can_solar/Resources/Apps/Set_throttle/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
