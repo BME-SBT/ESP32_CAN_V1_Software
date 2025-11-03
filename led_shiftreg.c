@@ -121,25 +121,25 @@ void led_task(void *pvParameters)
 {
     while (1)
     {
-        switch (get_current_error()) {
-            case can_error:
-                morse_CAN();
-                break;
+    switch (get_current_error()) {
+        case can_error:
+            morse_CAN();
+            break;
 
-            case motor_error:
-                morse_Motor();
-                break;
+        case motor_error:
+            morse_Motor();
+            break;
 
-            case general_error:
-                morse_General();
-                break;
+        case general_error:
+            morse_General();
+            break;
 
-            default:
-            // Normal heartbeat: blink by toggling LED state
-                ledState = !ledState;                      // invert previous value
-                setOut(USER_LED_BIT, ledState);            // update shift register or LED pin
-                vTaskDelay(pdMS_TO_TICKS(500));            // heartbeat rate (0.5s ON/OFF)
-                break;
+        default:
+        // Normal heartbeat: blink by toggling LED state
+            ledState = !ledState;                      // invert previous value
+            setOut(USER_LED_BIT, ledState);            // update shift register or LED pin
+            vTaskDelay(pdMS_TO_TICKS(500));            // heartbeat rate (0.5s ON/OFF)
+            break;
         }
     }
 }
