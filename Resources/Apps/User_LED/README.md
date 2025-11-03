@@ -1,12 +1,5 @@
 # README
 
-write code for shiftreg
+this is the app for blinking the leds, and updating the output
 
-update heartbeat based on varaible
-
-patterns:
-
-normal
-
-error
 

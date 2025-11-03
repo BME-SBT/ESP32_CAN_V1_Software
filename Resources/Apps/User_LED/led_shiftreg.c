@@ -112,9 +112,9 @@ void dash() {
 }
 
 // morse-inspired patterns
-void morse_CAN() { dash(); dot(); dash(); dot(); vTaskDelay(pdMS_TO_TICKS(600)); }      // CAN
-void morse_Motor() { dash(); dash(); dash(); vTaskDelay(pdMS_TO_TICKS(600)); }       // Motor
-void morse_General() { dot(); dot(); dot(); vTaskDelay(pdMS_TO_TICKS(600)); } // General
+void morse_CAN() { dash(); dot(); dash(); dot(); vTaskDelay(pdMS_TO_TICKS(500)); }      // CAN
+void morse_Motor() { dash(); dash(); dash(); vTaskDelay(pdMS_TO_TICKS(500)); }       // Motor
+void morse_General() { dot(); dot(); dot(); vTaskDelay(pdMS_TO_TICKS(500)); } // General
 
 //led control
 void led_task(void *pvParameters)
