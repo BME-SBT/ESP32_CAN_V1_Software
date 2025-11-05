@@ -700,7 +700,7 @@
             "managed_reqs": [],
             "managed_priv_reqs": [],
             "file": "/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/main/libmain.a",
-            "sources": [ "/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/main/twai_alert_and_recovery_example_main.c" ],
+            "sources": [ "/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/main/main.c" ],
             "include_dirs": [ "." ]
         },
         "mbedtls": {

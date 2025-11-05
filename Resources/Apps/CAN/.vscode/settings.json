@@ -15,5 +15,10 @@
     "--background-index",
     "--query-driver=/Users/prithul0218/.espressif/tools/xtensa-esp-elf/esp-14.2.0_20241119/xtensa-esp-elf/bin/xtensa-esp32-elf-gcc",
     "--compile-commands-dir=${workspaceFolder}/build"
-  ]
+  ],
+  "files.associations": {
+    "task.h": "c",
+    "format": "c",
+    "twai.h": "c"
+  }
 }
