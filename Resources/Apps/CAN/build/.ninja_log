@@ -1,769 +1,900 @@
 # ninja log v6
-16	3783	1761409176038904998	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/main/cmake_install.cmake	425eb24419bbd06e
-16	3783	1761409176033467272	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_driver_twai/cmake_install.cmake	425eb24419bbd06e
-16	3783	1761409176031913642	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_driver_usb_serial_jtag/cmake_install.cmake	425eb24419bbd06e
-16	3783	1761409176031629391	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_driver_parlio/cmake_install.cmake	425eb24419bbd06e
-16	3783	1761409176031279973	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_driver_ledc/cmake_install.cmake	425eb24419bbd06e
-16	3783	1761409176027785044	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_driver_i2c/cmake_install.cmake	425eb24419bbd06e
-16	3783	1761409176026151081	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_driver_sdm/cmake_install.cmake	425eb24419bbd06e
-16	3783	1761409176024758076	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_driver_tsens/cmake_install.cmake	425eb24419bbd06e
-16	3783	1761409176024429866	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_driver_rmt/cmake_install.cmake	425eb24419bbd06e
-16	3783	1761409176022428276	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_driver_bitscrambler/cmake_install.cmake	425eb24419bbd06e
-16	3783	1761409176029548009	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_driver_uart/cmake_install.cmake	425eb24419bbd06e
-16	3783	1761409176022104025	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_driver_dac/cmake_install.cmake	425eb24419bbd06e
-16	3783	1761409176020311478	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_driver_sdio/cmake_install.cmake	425eb24419bbd06e
-16	3783	1761409176019031765	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_driver_sdspi/cmake_install.cmake	425eb24419bbd06e
-16	3783	1761409176017548927	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_driver_sdmmc/cmake_install.cmake	425eb24419bbd06e
-16	3783	1761409176016159964	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/sdmmc/cmake_install.cmake	425eb24419bbd06e
-16	3783	1761409176014364041	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_driver_i2s/cmake_install.cmake	425eb24419bbd06e
-16	3783	1761409176012908661	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_driver_ana_cmpr/cmake_install.cmake	425eb24419bbd06e
-16	3783	1761409176010908904	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_driver_spi/cmake_install.cmake	425eb24419bbd06e
-16	3783	1761409176003706380	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/cxx/cmake_install.cmake	425eb24419bbd06e
-16	3783	1761409175996964732	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/freertos/cmake_install.cmake	425eb24419bbd06e
-16	3783	1761409175993809347	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_hw_support/cmake_install.cmake	425eb24419bbd06e
-16	3783	1761409175985231901	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/heap/cmake_install.cmake	425eb24419bbd06e
-16	3783	1761409175980937803	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/hal/cmake_install.cmake	425eb24419bbd06e
-16	3783	1761409175973207319	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_system/port/soc/esp32/cmake_install.cmake	425eb24419bbd06e
-16	3783	1761409175972700192	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_system/cmake_install.cmake	425eb24419bbd06e
-16	3783	1761409175951316037	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_app_format/cmake_install.cmake	425eb24419bbd06e
-16	3783	1761409175949707240	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/partition_table/cmake_install.cmake	425eb24419bbd06e
-16	3783	1761409175948676320	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/bootloader/cmake_install.cmake	425eb24419bbd06e
-16	3783	1761409175948322485	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/mbedtls/mbedtls/pkgconfig/cmake_install.cmake	425eb24419bbd06e
-16	3783	1761409175947984484	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/mbedtls/mbedtls/library/cmake_install.cmake	425eb24419bbd06e
-16	3783	1761409175932055722	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/mbedtls/mbedtls/include/cmake_install.cmake	425eb24419bbd06e
-16	3783	1761409175931484012	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/mbedtls/cmake_install.cmake	425eb24419bbd06e
-16	3783	1761409175929525297	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/xtensa/cmake_install.cmake	425eb24419bbd06e
-16	3783	1761409175926977830	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/cmake_install.cmake	425eb24419bbd06e
-16	3783	1761409175926487829	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/cmake_install.cmake	425eb24419bbd06e
-16	3783	1761409176048495697	build.ninja	425eb24419bbd06e
-605	690	1761038330694566135	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/esp_cpu_intr.c.obj	9c52df9aedebb976
-3858	3912	1761038333948019760	esp-idf/esp_bootloader_format/libesp_bootloader_format.a	b714af19e38ca255
-49	218	1761038330139126307	esp-idf/cxx/CMakeFiles/__idf_cxx.dir/cxx_init.cpp.obj	3859f22ff1013176
-3924	4051	1761038334014124600	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/lms.c.obj	7ecfb8b90dd88f13
-1535	1674	1761038331625337749	esp-idf/hal/CMakeFiles/__idf_hal.dir/mmu_hal.c.obj	c408fd4dca84b28d
+16	29	1761038330118288969	project_elf_src_esp32.c	bbe081153301a3c2
+16	29	1761038330118288969	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/project_elf_src_esp32.c	bbe081153301a3c2
+16	48	1761038330136634865	esp-idf/esp_system/ld/sections.ld.in	368f90095c9d8235
+16	48	1761038330136634865	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_system/ld/sections.ld.in	368f90095c9d8235
+16	48	1761038330136564031	esp-idf/esp_system/ld/memory.ld	4e5d61cb623d2c06
+16	48	1761038330136564031	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_system/ld/memory.ld	4e5d61cb623d2c06
 16	183	1761038330151440474	partition_table/partition-table.bin	d499d8e24e099401
-16	3783	1761409175960894153	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/bootloader_support/cmake_install.cmake	425eb24419bbd06e
-1519	1705	1761038331608914498	esp-idf/esp_hw_support/libesp_hw_support.a	f566d4d25f407fe4
-3683	3809	1761038333773016517	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/cipher_wrap.c.obj	f327dac781bcc7d2
-1211	1267	1761038331300534896	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/adc_periph.c.obj	5f581fca64c30132
-5908	6068	1761038335997980616	esp-idf/esp_driver_mcpwm/CMakeFiles/__idf_esp_driver_mcpwm.dir/src/mcpwm_cmpr.c.obj	829fcacb798b4435
-1371	1452	1761038331460710029	esp-idf/log/CMakeFiles/__idf_log.dir/src/os/log_timestamp.c.obj	889e912c439976d
-184	256	1761038330273528177	esp-idf/newlib/CMakeFiles/__idf_newlib.dir/src/init.c.obj	1f5ad68566417fa9
-2861	2938	1761038332950936762	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/flash_partitions.c.obj	e2cae062f9d2f71d
-6382	6826	1761038336472145574	esp-idf/esp_driver_rmt/CMakeFiles/__idf_esp_driver_rmt.dir/src/rmt_tx.c.obj	47b7bb95c71a699c
-16	3783	1761409175962599367	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_mm/cmake_install.cmake	425eb24419bbd06e
-3053	3120	1761038333143153430	esp-idf/esp_bootloader_format/CMakeFiles/__idf_esp_bootloader_format.dir/esp_bootloader_desc.c.obj	d6a3bb111a0b63b
-3290	3406	1761038333379970427	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedx509.dir/x509_create.c.obj	6421e43517772b4
-48	205	1761038330138014795	esp-idf/esp_pm/CMakeFiles/__idf_esp_pm.dir/pm_locks.c.obj	7bc883e4a8ef960
-376	446	1761038330465838595	esp-idf/newlib/CMakeFiles/__idf_newlib.dir/src/newlib_init.c.obj	6ce9381fd386f5cf
-2455	2533	1761038332544681746	esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/spi_flash_chip_winbond.c.obj	8ec74e8c1ec11cb9
-2931	3057	1761038333021341896	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32/esp_efuse_utility.c.obj	a6d8228a330e58b6
-16	3783	1761409175953284294	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_bootloader_format/cmake_install.cmake	425eb24419bbd06e
-1818	1884	1761038331908286633	esp-idf/hal/CMakeFiles/__idf_hal.dir/aes_hal.c.obj	e89f05a67f1463a0
-439	1236	1761038330528719070	esp-idf/freertos/CMakeFiles/__idf_freertos.dir/FreeRTOS-Kernel/tasks.c.obj	4e4b3eebbabb77cc
-4049	4169	1761038334139354335	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/pkcs12.c.obj	1cfc169769e0571c
-48	207	1761038330138367049	esp-idf/esp_pm/CMakeFiles/__idf_esp_pm.dir/pm_trace.c.obj	5a4769ea63444b53
-1190	1256	1761038331280456733	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/gpio_periph.c.obj	6afee469c23136fd
-16	3783	1761409175936006736	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/mbedtls/mbedtls/3rdparty/p256-m/cmake_install.cmake	425eb24419bbd06e
-1546	1629	1761038331635992066	esp-idf/hal/CMakeFiles/__idf_hal.dir/esp32/cache_hal_esp32.c.obj	521fa028503712b
-1600	1686	1761038331689836698	esp-idf/hal/CMakeFiles/__idf_hal.dir/spi_flash_encrypt_hal_iram.c.obj	ab1d202c3accdc5f
-49	733	1761038330138870179	esp-idf/cxx/CMakeFiles/__idf_cxx.dir/cxx_guards.cpp.obj	ce4384d2a0ac8d96
-49	259	1761038330138706344	esp-idf/cxx/CMakeFiles/__idf_cxx.dir/cxx_exception_stubs.cpp.obj	5e90bcf4ba3e045d
-3912	3959	1761038334002109270	esp-idf/esp_app_format/libesp_app_format.a	cbe6000f45a8dda3
-5823	6026	1761038335912730788	esp-idf/esp_driver_gptimer/CMakeFiles/__idf_esp_driver_gptimer.dir/src/gptimer.c.obj	7a0f3fd96f32ab0
 16	183	1761038330151440474	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/partition_table/partition-table.bin	d499d8e24e099401
-6951	7073	1761038337040854955	esp-idf/driver/CMakeFiles/__idf_driver.dir/touch_sensor/touch_sensor_common.c.obj	1ea06b8116b3382b
-7047	7247	1761038337137575566	esp-idf/driver/CMakeFiles/__idf_driver.dir/twai/twai.c.obj	3c81d218140a29cc
-1969	2063	1761038332058862085	esp-idf/log/liblog.a	751cb8b43fcb917b
-4556	4625	1761038334646344670	esp-idf/mbedtls/mbedtls/library/libmbedx509.a	64088bf67952cf58
-2370	2469	1761038332459950590	esp-idf/esp_timer/CMakeFiles/__idf_esp_timer.dir/src/ets_timer_legacy.c.obj	c5b67904c73ee0ce
+48	205	1761038330138014795	esp-idf/esp_pm/CMakeFiles/__idf_esp_pm.dir/pm_locks.c.obj	7bc883e4a8ef960
+48	207	1761038330138367049	esp-idf/esp_pm/CMakeFiles/__idf_esp_pm.dir/pm_trace.c.obj	5a4769ea63444b53
+51	211	1761038330141198911	esp-idf/pthread/CMakeFiles/__idf_pthread.dir/pthread_semaphore.c.obj	577e0bfd3baddc16
+50	215	1761038330140426778	esp-idf/pthread/CMakeFiles/__idf_pthread.dir/pthread_rwlock.c.obj	65ea44c27ab8dbe3
+49	218	1761038330139126307	esp-idf/cxx/CMakeFiles/__idf_cxx.dir/cxx_init.cpp.obj	3859f22ff1013176
 50	222	1761038330140231318	esp-idf/pthread/CMakeFiles/__idf_pthread.dir/pthread_local_storage.c.obj	f646a7ca259e055d
-1886	1981	1761038331976164367	esp-idf/hal/CMakeFiles/__idf_hal.dir/touch_sensor_hal.c.obj	e079927d215b0810
-1733	1799	1761038331822533176	esp-idf/hal/CMakeFiles/__idf_hal.dir/pcnt_hal.c.obj	bacfe1a98ef152bd
-2252	2333	1761038332342476351	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/arch/xtensa/expression_with_stack.c.obj	668a79c29463a259
-5333	5392	1761038335422640501	esp-idf/xtensa/CMakeFiles/__idf_xtensa.dir/xtensa_intr_asm.S.obj	3f78aa6012491992
-391	536	1761038330481030375	esp-idf/freertos/CMakeFiles/__idf_freertos.dir/port_common.c.obj	e189f9373b319b9
-2152	2252	1761038332242483957	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/panic_handler.c.obj	61b74f42094d49a8
-4581	4649	1761038334671267299	esp-idf/mbedtls/mbedtls/3rdparty/p256-m/CMakeFiles/p256m.dir/p256-m/p256-m.c.obj	6015ab957dd276ce
-49	344	1761038330139387226	esp-idf/pthread/CMakeFiles/__idf_pthread.dir/pthread.c.obj	84b9397f8cfe9f0c
-2025	2155	1761038332114738404	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/esp_ipc.c.obj	163484e55c82ca70
-16	3783	1761409175949145238	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esptool_py/cmake_install.cmake	425eb24419bbd06e
-3082	3144	1761038333172293102	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/mps_trace.c.obj	e1c74e4cf879c031
-1004	1161	1761038331094171417	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/rtc_clk_init.c.obj	ca9db5f63bb316d7
-1702	1769	1761038331792172866	esp-idf/hal/CMakeFiles/__idf_hal.dir/i2c_hal_iram.c.obj	4c0aec6dd1a6be93
-284	462	1761038330373591239	esp-idf/newlib/CMakeFiles/__idf_newlib.dir/src/stdatomic.c.obj	f529d6ae8c28d534
-4151	4904	1761038334241134290	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/psa_crypto.c.obj	97cf2cfc165157f9
-1481	1546	1761038331570513690	esp-idf/log/CMakeFiles/__idf_log.dir/src/log_level/tag_log_level/tag_log_level.c.obj	a03d42dd43aff19c
-2235	2391	1761038332325419011	esp-idf/hal/libhal.a	53196173d3eff22a
-5819	6258	1761038335909366629	esp-idf/esp_driver_pcnt/CMakeFiles/__idf_esp_driver_pcnt.dir/src/pulse_cnt.c.obj	64b703a99aefced6
-2520	2658	1761038332610068704	esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/cache_utils.c.obj	8b1128433dfdabba
-215	361	1761038330305004831	esp-idf/newlib/CMakeFiles/__idf_newlib.dir/src/locks.c.obj	86d905abbf2f0205
-4608	4661	1761038334697750361	esp-idf/mbedtls/mbedtls/3rdparty/everest/CMakeFiles/everest.dir/library/Hacl_Curve25519_joined.c.obj	7eda2d7447e999a9
-6810	7284	1761038336899828809	esp-idf/driver/CMakeFiles/__idf_driver.dir/deprecated/i2s_legacy.c.obj	e985894bff26544a
-1339	1485	1761038331429200041	esp-idf/heap/CMakeFiles/__idf_heap.dir/heap_caps_init.c.obj	30d59268bb1fbe18
-1371	1473	1761038331465604495	esp-idf/log/CMakeFiles/__idf_log.dir/src/log_timestamp_common.c.obj	4a8c1f6bd8e7eda
-311	384	1761038330401394897	esp-idf/newlib/CMakeFiles/__idf_newlib.dir/src/syscalls.c.obj	1bcbf4b0318b7793
+184	256	1761038330273528177	esp-idf/newlib/CMakeFiles/__idf_newlib.dir/src/init.c.obj	1f5ad68566417fa9
+49	259	1761038330138706344	esp-idf/cxx/CMakeFiles/__idf_cxx.dir/cxx_exception_stubs.cpp.obj	5e90bcf4ba3e045d
 50	266	1761038330139877981	esp-idf/pthread/CMakeFiles/__idf_pthread.dir/pthread_cond_var.c.obj	167814a32bbf0e24
-1211	1267	1761038331301283112	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/spi_periph.c.obj	2d67d18728a5983f
-5332	5411	1761038335422492249	esp-idf/xtensa/CMakeFiles/__idf_xtensa.dir/xtensa_context.S.obj	82f48bebc69c6288
-6480	6575	1761038336570046072	esp-idf/esp_driver_uart/CMakeFiles/__idf_esp_driver_uart.dir/src/uart_wakeup.c.obj	43142891c72ce366
-2306	2377	1761038332396371984	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/soc/esp32/highint_hdl.S.obj	cfacc132b601c186
-3739	3800	1761038333829375800	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/des.c.obj	9b93e1e510e6f330
-2193	2261	1761038332283233080	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/arch/xtensa/esp_ipc_isr_port.c.obj	c6b9f9fdf683e34d
-16	3783	1761409175974468865	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_common/cmake_install.cmake	425eb24419bbd06e
-3884	3957	1761038333973945691	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/hkdf.c.obj	be11e17aa9e9f70d
-342	431	1761038330431497829	esp-idf/newlib/CMakeFiles/__idf_newlib.dir/src/port/esp_time_impl.c.obj	4eaff498c7342c7b
+207	283	1761038330296952707	esp-idf/newlib/CMakeFiles/__idf_newlib.dir/src/assert.c.obj	138fa345aa69723e
+218	285	1761038330307715025	esp-idf/newlib/CMakeFiles/__idf_newlib.dir/src/poll.c.obj	ad24168dbf4318f3
+205	290	1761038330295402816	esp-idf/newlib/CMakeFiles/__idf_newlib.dir/src/abort.c.obj	f2ba32d0812f20a1
+212	295	1761038330301557712	esp-idf/newlib/CMakeFiles/__idf_newlib.dir/src/heap.c.obj	e194abebf1411275
+223	300	1761038330312532783	esp-idf/newlib/CMakeFiles/__idf_newlib.dir/src/pthread.c.obj	e81b8ac57db271d3
+266	311	1761038330355953517	esp-idf/newlib/CMakeFiles/__idf_newlib.dir/src/termios.c.obj	56756ada77225f27
+259	322	1761038330348729152	esp-idf/newlib/CMakeFiles/__idf_newlib.dir/src/getentropy.c.obj	ada72681a3b18456
+49	337	1761038330138548009	esp-idf/esp_pm/CMakeFiles/__idf_esp_pm.dir/pm_impl.c.obj	157d639c9ec8efb6
+256	339	1761038330346121708	esp-idf/newlib/CMakeFiles/__idf_newlib.dir/src/random.c.obj	ef0736662b7cf151
+49	344	1761038330139387226	esp-idf/pthread/CMakeFiles/__idf_pthread.dir/pthread.c.obj	84b9397f8cfe9f0c
+215	361	1761038330305004831	esp-idf/newlib/CMakeFiles/__idf_newlib.dir/src/locks.c.obj	86d905abbf2f0205
+290	376	1761038330380322724	esp-idf/newlib/CMakeFiles/__idf_newlib.dir/src/sysconf.c.obj	24255f4e700e8ecc
+295	377	1761038330385394942	esp-idf/newlib/CMakeFiles/__idf_newlib.dir/src/realpath.c.obj	6b967daa1e09049b
+311	384	1761038330401394897	esp-idf/newlib/CMakeFiles/__idf_newlib.dir/src/syscalls.c.obj	1bcbf4b0318b7793
 300	391	1761038330389684236	esp-idf/newlib/CMakeFiles/__idf_newlib.dir/src/scandir.c.obj	aef2c0925008c663
-3269	3332	1761038333358786045	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/Users/prithul0218/esp/v5.5.1/esp-idf/components/mbedtls/port/esp_platform_time.c.obj	a494e3fa21aed60c
-344	436	1761038330434136981	esp-idf/newlib/CMakeFiles/__idf_newlib.dir/src/flockfile.c.obj	3c3610fd179485d6
-4567	4657	1761038334657095196	esp-idf/mbedtls/mbedtls/3rdparty/p256-m/CMakeFiles/p256m.dir/p256-m_driver_entrypoints.c.obj	8ce726b8bbe813bb
-257	3162	1761396734818637817	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_system/ld/sections.ld	c28e19ec5b5b000
-1629	1702	1761038331718673450	esp-idf/hal/CMakeFiles/__idf_hal.dir/uart_hal_iram.c.obj	d7042dca12e78555
 323	412	1761038330412599136	esp-idf/newlib/CMakeFiles/__idf_newlib.dir/src/reent_syscalls.c.obj	1d474d35f210509d
+342	431	1761038330431497829	esp-idf/newlib/CMakeFiles/__idf_newlib.dir/src/port/esp_time_impl.c.obj	4eaff498c7342c7b
+344	436	1761038330434136981	esp-idf/newlib/CMakeFiles/__idf_newlib.dir/src/flockfile.c.obj	3c3610fd179485d6
+361	439	1761038330451300572	esp-idf/newlib/CMakeFiles/__idf_newlib.dir/src/reent_init.c.obj	24bc876e7318fa4d
+376	446	1761038330465838595	esp-idf/newlib/CMakeFiles/__idf_newlib.dir/src/newlib_init.c.obj	6ce9381fd386f5cf
+284	462	1761038330373591239	esp-idf/newlib/CMakeFiles/__idf_newlib.dir/src/stdatomic.c.obj	f529d6ae8c28d534
 285	471	1761038330375081587	esp-idf/newlib/CMakeFiles/__idf_newlib.dir/src/time.c.obj	1607c26088c1e782
 377	473	1761038330466581520	esp-idf/freertos/CMakeFiles/__idf_freertos.dir/heap_idf.c.obj	4282d1bf51589914
-1828	1887	1761038331918332319	esp-idf/hal/CMakeFiles/__idf_hal.dir/brownout_hal.c.obj	34b555e8863a8f7b
-259	322	1761038330348729152	esp-idf/newlib/CMakeFiles/__idf_newlib.dir/src/getentropy.c.obj	ada72681a3b18456
-803	893	1761038330892760572	esp-idf/pthread/libpthread.a	fc9cc7687c7df199
-49	337	1761038330138548009	esp-idf/esp_pm/CMakeFiles/__idf_esp_pm.dir/pm_impl.c.obj	157d639c9ec8efb6
-1736	1814	1761038331826174671	esp-idf/hal/CMakeFiles/__idf_hal.dir/mcpwm_hal.c.obj	b0b84ad634fa65f9
-3817	4233	1761038333907261844	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/ecp_curves.c.obj	3194d21a8aff2437
-7202	7257	1761038337291788596	esp-idf/esp_driver_uart/libesp_driver_uart.a	e3d1e055b26043b7
 384	480	1761038330474300515	esp-idf/freertos/CMakeFiles/__idf_freertos.dir/app_startup.c.obj	4543bba48b703ca1
-45	217	1761396731720529607	esp-idf/main/CMakeFiles/__idf_main.dir/main.c.obj	4921976c5a0cfe79
-2101	2146	1761038332191367144	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/stack_check.c.obj	c886d1e596ed3e66
-1814	1880	1761038331904285176	esp-idf/hal/CMakeFiles/__idf_hal.dir/sha_hal.c.obj	a0fa0879d45d7410
-922	1017	1761038331012339125	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/sleep_event.c.obj	c4433e28460621b
-431	567	1761038330521376203	esp-idf/freertos/CMakeFiles/__idf_freertos.dir/FreeRTOS-Kernel/list.c.obj	66b7ec4f20b50a4a
-16	48	1761038330136564031	esp-idf/esp_system/ld/memory.ld	4e5d61cb623d2c06
-5123	5252	1761038335332416581	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/mbedtls/x509_crt_bundle	4df8e20cf230f63d
-813	922	1761038330903084386	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/clk_utils.c.obj	a39a32dd4c1b6968
-2130	2205	1761038332219785392	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/ubsan.c.obj	622c8f095ac67217
-501	576	1761038330590590784	esp-idf/freertos/CMakeFiles/__idf_freertos.dir/FreeRTOS-Kernel/portable/xtensa/xtensa_init.c.obj	3464e1fbb252891e
-1852	2036	1761038331942438065	esp-idf/hal/CMakeFiles/__idf_hal.dir/spi_hal_iram.c.obj	bd1b2508fecd35d7
-446	606	1761038330535683641	esp-idf/freertos/CMakeFiles/__idf_freertos.dir/FreeRTOS-Kernel/timers.c.obj	ecbcd0082a44a978
-361	439	1761038330451300572	esp-idf/newlib/CMakeFiles/__idf_newlib.dir/src/reent_init.c.obj	24bc876e7318fa4d
-223	300	1761038330312532783	esp-idf/newlib/CMakeFiles/__idf_newlib.dir/src/pthread.c.obj	e81b8ac57db271d3
-16	3783	1761409175956428179	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_partition/cmake_install.cmake	425eb24419bbd06e
-520	606	1761038330609817355	esp-idf/freertos/CMakeFiles/__idf_freertos.dir/FreeRTOS-Kernel/portable/xtensa/xtensa_overlay_os_hook.c.obj	70568e9ee255a8f8
-5440	5823	1761038335530173222	esp-idf/sdmmc/CMakeFiles/__idf_sdmmc.dir/sdmmc_cmd.c.obj	dab9cbe22e0dc401
-1705	1780	1761038331795542442	esp-idf/esp_security/libesp_security.a	ff44454145624955
-536	623	1761038330625581057	esp-idf/freertos/CMakeFiles/__idf_freertos.dir/esp_additions/freertos_compatibility.c.obj	52f49bcdbd121deb
-6364	6513	1761038336454467936	esp-idf/esp_driver_rmt/CMakeFiles/__idf_esp_driver_rmt.dir/src/rmt_encoder_simple.c.obj	bc271559d9223509
-2397	2443	1761038332486758280	esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/flash_brownout_hook.c.obj	14b72a9395427787
-6050	6212	1761038336140398276	esp-idf/esp_driver_sdmmc/CMakeFiles/__idf_esp_driver_sdmmc.dir/src/sdmmc_transaction.c.obj	bf07ba07b4484f28
-576	663	1761038330665739425	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/cpu.c.obj	75c9217a227985f4
-1161	1211	1761038331250713055	esp-idf/soc/CMakeFiles/__idf_soc.dir/dport_access_common.c.obj	8cdefec615134160
-556	649	1761038330645771638	esp-idf/freertos/CMakeFiles/__idf_freertos.dir/esp_additions/idf_additions_event_groups.c.obj	4c13359dba9b91fa
-6604	6658	1761038336694000586	esp-idf/esp_driver_gptimer/libesp_driver_gptimer.a	4f1aa81f2d14186a
-3031	3110	1761038333120844119	esp-idf/app_update/CMakeFiles/__idf_app_update.dir/esp_ota_app_desc.c.obj	2c76176c34b7652a
-207	283	1761038330296952707	esp-idf/newlib/CMakeFiles/__idf_newlib.dir/src/assert.c.obj	138fa345aa69723e
-4278	4421	1761038334368188501	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/psa_crypto_slot_management.c.obj	6f5b72bb34f8b8ef
-16	48	1761038330136564031	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_system/ld/memory.ld	4e5d61cb623d2c06
-1764	1828	1761038331854258124	esp-idf/hal/CMakeFiles/__idf_hal.dir/sdmmc_hal.c.obj	82dd7c7a5afcb858
-471	641	1761038330561378486	esp-idf/freertos/CMakeFiles/__idf_freertos.dir/FreeRTOS-Kernel/stream_buffer.c.obj	c821c2d49d02458c
-475	676	1761038330564633853	esp-idf/freertos/CMakeFiles/__idf_freertos.dir/FreeRTOS-Kernel/portable/xtensa/port.c.obj	fbc7edf624d0228b
-4233	4349	1761038334323509338	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/psa_crypto_mac.c.obj	30128a9b5e93cea3
-665	773	1761038330754690790	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/mac_addr.c.obj	29c42f9139456fa7
-2027	2101	1761038332117377140	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/esp_system_console.c.obj	1f2bac488c0139a5
-205	290	1761038330295402816	esp-idf/newlib/CMakeFiles/__idf_newlib.dir/src/abort.c.obj	f2ba32d0812f20a1
-676	738	1761038330765591359	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/revision.c.obj	ddbe4ddb5498a87e
-2522	2628	1761038332612206392	esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/flash_mmap.c.obj	e2ec0cbfb16f1a16
-46	111	1761396731721212399	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	98a028a3551e5de5
-3074	3134	1761038333164014309	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/debug.c.obj	60dc0d9d41a73c9b
-623	752	1761038330713040407	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/esp_clk.c.obj	3f429320af724b32
-212	295	1761038330301557712	esp-idf/newlib/CMakeFiles/__idf_newlib.dir/src/heap.c.obj	e194abebf1411275
-4492	4642	1761038334581906263	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/Users/prithul0218/esp/v5.5.1/esp-idf/components/mbedtls/port/sha/parallel_engine/esp_sha512.c.obj	31972a1e4bbc768c
-1361	1437	1761038331451225474	esp-idf/heap/CMakeFiles/__idf_heap.dir/port/memory_layout_utils.c.obj	adce8362b77aa7ab
-1532	1629	1761038331621932256	esp-idf/hal/CMakeFiles/__idf_hal.dir/esp32/efuse_hal.c.obj	c15e1ed5a484012d
-6184	6253	1761038336273773927	esp-idf/esp_driver_i2s/libesp_driver_i2s.a	67ca1080e0439cf5
-3857	3917	1761038333946614204	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/entropy_poll.c.obj	4bb25286739dd42d
-5334	5808	1761038335424243808	esp-idf/esp_driver_spi/CMakeFiles/__idf_esp_driver_spi.dir/src/gpspi/spi_common.c.obj	74d200857001f750
-745	813	1761038330834545646	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/io_mux.c.obj	8192c1adb761a1b4
-4480	4556	1761038334570381604	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/Users/prithul0218/esp/v5.5.1/esp-idf/components/mbedtls/port/bignum/bignum_alt.c.obj	6e70d3766c03dc5e
-2891	2966	1761038332980621398	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/esp32/secure_boot_secure_features.c.obj	b5fc46464b7d591b
-1377	1472	1761038331466996676	esp-idf/log/CMakeFiles/__idf_log.dir/src/os/log_lock.c.obj	4592bdffc50fe24d
-4051	4171	1761038334141020977	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/pkcs5.c.obj	981fec1df3d70cc1
-1117	1222	1761038331207451031	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/sar_periph_ctrl.c.obj	e648524e572f530f
-2391	2471	1761038332481243391	esp-idf/esp_rom/libesp_rom.a	a091430303a7291b
-2833	3130	1761038332922662765	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_utility.c.obj	d51bcb9823a0f739
-2336	2619	1761038332426394832	esp-idf/esp_timer/CMakeFiles/__idf_esp_timer.dir/src/esp_timer.c.obj	901466654a85419a
-957	1052	1761038331047477775	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/mspi_timing_tuning/mspi_timing_tuning.c.obj	54f7b6cfac8519d
-256	339	1761038330346121708	esp-idf/newlib/CMakeFiles/__idf_newlib.dir/src/random.c.obj	ef0736662b7cf151
-4360	4437	1761038334450125295	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/sha512.c.obj	25ab32c7d79f387
-825	922	1761038330914536378	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp_clk_tree_common.c.obj	34bbf0e15f86a62b
-916	962	1761038331005703849	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/sleep_usb.c.obj	bbd2e9bb3ede4ba6
-2754	2833	1761038332844435676	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_efuse.c.obj	17f6ba8d2f075090
-16	48	1761038330136634865	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_system/ld/sections.ld.in	368f90095c9d8235
-1265	1321	1761038331355148203	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/timer_periph.c.obj	b66cd396dac5d858
-16	3783	1761409175954900174	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/app_update/cmake_install.cmake	425eb24419bbd06e
-913	962	1761038331003330075	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/sleep_console.c.obj	284f6da963d81ddc
-1305	1369	1761038331394878066	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/twai_periph.c.obj	4293994103821072
-6447	6604	1761038336537036319	esp-idf/esp_driver_i2c/CMakeFiles/__idf_esp_driver_i2c.dir/i2c_common.c.obj	460faaa77c748e67
 337	501	1761038330427349370	esp-idf/esp_pm/libesp_pm.a	2e382fa995ef5ff0
-963	1153	1761038331052485867	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/esp_clock_output.c.obj	ef37c28219f3aa74
-962	1100	1761038331051636650	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/sleep_wake_stub.c.obj	48eddee84236bbed
-2620	3374	1761038332709632594	esp-idf/esp_driver_gpio/CMakeFiles/__idf_esp_driver_gpio.dir/src/gpio.c.obj	58ffcb8d2990c6d3
+412	520	1761038330502262342	esp-idf/freertos/CMakeFiles/__idf_freertos.dir/port_systick.c.obj	17a2b2e9328eb780
+391	536	1761038330481030375	esp-idf/freertos/CMakeFiles/__idf_freertos.dir/port_common.c.obj	e189f9373b319b9
+480	556	1761038330570159159	esp-idf/freertos/CMakeFiles/__idf_freertos.dir/FreeRTOS-Kernel/portable/xtensa/portasm.S.obj	cc9ca85d08ef55c6
+431	567	1761038330521376203	esp-idf/freertos/CMakeFiles/__idf_freertos.dir/FreeRTOS-Kernel/list.c.obj	66b7ec4f20b50a4a
+501	576	1761038330590590784	esp-idf/freertos/CMakeFiles/__idf_freertos.dir/FreeRTOS-Kernel/portable/xtensa/xtensa_init.c.obj	3464e1fbb252891e
+462	604	1761038330551975224	esp-idf/freertos/CMakeFiles/__idf_freertos.dir/FreeRTOS-Kernel/event_groups.c.obj	fc086c506de6bc6f
+446	606	1761038330535683641	esp-idf/freertos/CMakeFiles/__idf_freertos.dir/FreeRTOS-Kernel/timers.c.obj	ecbcd0082a44a978
+520	606	1761038330609817355	esp-idf/freertos/CMakeFiles/__idf_freertos.dir/FreeRTOS-Kernel/portable/xtensa/xtensa_overlay_os_hook.c.obj	70568e9ee255a8f8
+536	623	1761038330625581057	esp-idf/freertos/CMakeFiles/__idf_freertos.dir/esp_additions/freertos_compatibility.c.obj	52f49bcdbd121deb
+471	641	1761038330561378486	esp-idf/freertos/CMakeFiles/__idf_freertos.dir/FreeRTOS-Kernel/stream_buffer.c.obj	c821c2d49d02458c
+556	649	1761038330645771638	esp-idf/freertos/CMakeFiles/__idf_freertos.dir/esp_additions/idf_additions_event_groups.c.obj	4c13359dba9b91fa
+576	663	1761038330665739425	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/cpu.c.obj	75c9217a227985f4
+606	665	1761038330696292778	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/cpu_region_protect.c.obj	be54ea129180aa2f
+606	668	1761038330695746814	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/esp_memory_utils.c.obj	51f3ef9ba3968505
+475	676	1761038330564633853	esp-idf/freertos/CMakeFiles/__idf_freertos.dir/FreeRTOS-Kernel/portable/xtensa/port.c.obj	fbc7edf624d0228b
+567	676	1761038330657069587	esp-idf/freertos/CMakeFiles/__idf_freertos.dir/esp_additions/idf_additions.c.obj	62301eda91a2bdaf
+605	690	1761038330694566135	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/esp_cpu_intr.c.obj	9c52df9aedebb976
+49	733	1761038330138870179	esp-idf/cxx/CMakeFiles/__idf_cxx.dir/cxx_guards.cpp.obj	ce4384d2a0ac8d96
+676	738	1761038330765591359	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/revision.c.obj	ddbe4ddb5498a87e
+436	741	1761038330526261128	esp-idf/freertos/CMakeFiles/__idf_freertos.dir/FreeRTOS-Kernel/queue.c.obj	d9d42724236afae7
+649	745	1761038330739296758	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/hw_random.c.obj	e733bbff9b7dd164
+623	752	1761038330713040407	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/esp_clk.c.obj	3f429320af724b32
+665	773	1761038330754690790	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/mac_addr.c.obj	29c42f9139456fa7
+641	794	1761038330730735296	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/clk_ctrl_os.c.obj	d0ac2f93a7915456
+738	799	1761038330827744327	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/esp_gpio_reserve.c.obj	39aba8e6b0c2f6af
+733	803	1761038330822693692	esp-idf/cxx/libcxx.a	a53f07ba4fa654e5
+745	813	1761038330834545646	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/io_mux.c.obj	8192c1adb761a1b4
+690	824	1761038330779945381	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/regi2c_ctrl.c.obj	6f54b489c8ca387
+676	827	1761038330765950905	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/rtc_module.c.obj	395882c89b435ca4
+668	829	1761038330757914490	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/periph_ctrl.c.obj	8db10eedce6aa426
+741	835	1761038330830756107	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/sar_periph_ctrl_common.c.obj	49f6dceb19f8b5f7
+753	866	1761038330842487435	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/esp_clk_tree.c.obj	8f7fba132436f5bb
+803	893	1761038330892760572	esp-idf/pthread/libpthread.a	fc9cc7687c7df199
 794	913	1761038330883948983	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/dma/gdma_link.c.obj	c5c468c180f14a73
+835	916	1761038330924591564	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/sleep_modem.c.obj	512e95e0b3241fa0
+813	922	1761038330903084386	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/clk_utils.c.obj	a39a32dd4c1b6968
+825	922	1761038330914536378	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp_clk_tree_common.c.obj	34bbf0e15f86a62b
+829	937	1761038330918555252	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/adc_share_hw_ctrl.c.obj	b9c73c1f79b703de
+773	957	1761038330863148229	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/dma/esp_dma_utils.c.obj	e0a041980d1c90be
+916	962	1761038331005703849	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/sleep_usb.c.obj	bbd2e9bb3ede4ba6
+913	962	1761038331003330075	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/sleep_console.c.obj	284f6da963d81ddc
+827	980	1761038330917189572	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/spi_share_hw_ctrl.c.obj	2ba69b5dd68a8030
+800	1002	1761038330889565373	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/spi_bus_lock.c.obj	bb83d2d4bfd1db87
+893	1004	1761038330983018993	esp-idf/newlib/libnewlib.a	499f17bb4d040449
+922	1017	1761038331012339125	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/sleep_event.c.obj	c4433e28460621b
+663	1031	1761038330753136232	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/intr_alloc.c.obj	fb93bd0d1c120178
+937	1046	1761038331026661938	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/rtc_wdt.c.obj	b3382dfa1ed66971
+957	1052	1761038331047477775	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/mspi_timing_tuning/mspi_timing_tuning.c.obj	54f7b6cfac8519d
+962	1100	1761038331051636650	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/sleep_wake_stub.c.obj	48eddee84236bbed
+980	1117	1761038331070188006	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/power_supply/brownout.c.obj	b29f71ee0a4241f0
+1017	1121	1761038331107029507	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/rtc_init.c.obj	d3dc6b70edac760b
 922	1135	1761038331011784786	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/sleep_gpio.c.obj	6e38354319f77b20
-6450	6694	1761038336539669471	esp-idf/esp_driver_i2c/CMakeFiles/__idf_esp_driver_i2c.dir/i2c_slave.c.obj	d033aec132919e90
-46	111	1761396731721212399	bootloader/bootloader.elf	98a028a3551e5de5
-3234	3290	1761038333324009357	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_tls13_client.c.obj	657c4c2a9f5a4982
+1052	1139	1761038331141865904	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/chip_info.c.obj	a748e7c7de378d2f
+963	1153	1761038331052485867	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/esp_clock_output.c.obj	ef37c28219f3aa74
+1004	1161	1761038331094171417	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/rtc_clk_init.c.obj	ca9db5f63bb316d7
+1135	1177	1761038331225477089	esp-idf/esp_security/CMakeFiles/__idf_esp_security.dir/src/esp_crypto_lock.c.obj	41348e56c2fc0998
 1032	1190	1761038331121523071	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/rtc_sleep.c.obj	5df5b36ba6073003
-6409	6991	1761038336498820138	esp-idf/esp_driver_i2c/CMakeFiles/__idf_esp_driver_i2c.dir/i2c_master.c.obj	643845fa72c6e569
 1100	1193	1761038331189651808	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/cache_sram_mmu.c.obj	c11e91272293b23d
 1153	1206	1761038331242825683	esp-idf/soc/CMakeFiles/__idf_soc.dir/lldesc.c.obj	f1dcbc775628c33f
-1309	1371	1761038331399025025	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/wdt_periph.c.obj	a4d230360f989cb8
-4301	4413	1761038334390644480	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/psa_util.c.obj	321a02455d2db5a8
-217	257	1761396731892715862	esp-idf/main/libmain.a	fe5aac60db23fecc
+1161	1211	1761038331250713055	esp-idf/soc/CMakeFiles/__idf_soc.dir/dport_access_common.c.obj	8cdefec615134160
 1121	1211	1761038331211125818	esp-idf/esp_security/CMakeFiles/__idf_esp_security.dir/src/init.c.obj	7ec976cc86642742
-2950	3030	1761038333040374299	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/esp_efuse_fields.c.obj	861612a734b8190b
-266	311	1761038330355953517	esp-idf/newlib/CMakeFiles/__idf_newlib.dir/src/termios.c.obj	56756ada77225f27
-5733	5990	1761038335823510754	esp-idf/sdmmc/CMakeFiles/__idf_sdmmc.dir/sdmmc_io.c.obj	6293c26bb499b319
-1884	1959	1761038331974192388	esp-idf/hal/CMakeFiles/__idf_hal.dir/esp32/touch_sensor_hal.c.obj	7331f08ecc66361d
-1887	1987	1761038331977282045	esp-idf/hal/CMakeFiles/__idf_hal.dir/touch_sens_hal.c.obj	fadddd77a2ac23e6
 1139	1211	1761038331229435963	esp-idf/esp_security/CMakeFiles/__idf_esp_security.dir/src/esp_crypto_periph_clk.c.obj	d6b4100749ac161a
-16	3783	1761409175967047257	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/spi_flash/cmake_install.cmake	425eb24419bbd06e
+1117	1222	1761038331207451031	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/sar_periph_ctrl.c.obj	e648524e572f530f
 1177	1224	1761038331267281140	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/interrupts.c.obj	ef60126d67e2c95a
-1674	1757	1761038331763969204	esp-idf/hal/CMakeFiles/__idf_hal.dir/ledc_hal.c.obj	1578ec17b1165cb3
-3464	3557	1761038333553787074	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/aesce.c.obj	8b4e8c33937e23c
-3132	3256	1761038333221516479	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_ticket.c.obj	fce006c0779817e
-6514	6657	1761038336603568122	esp-idf/esp_driver_twai/CMakeFiles/__idf_esp_driver_twai.dir/esp_twai.c.obj	49b5e46d84b97dbc
-16	3783	1761409175988318203	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/soc/cmake_install.cmake	425eb24419bbd06e
-1211	1262	1761038331300953775	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/emac_periph.c.obj	7a7fd3754278c04b
-1517	1610	1761038331607184272	esp-idf/hal/CMakeFiles/__idf_hal.dir/hal_utils.c.obj	f1b4b036dc82b261
+439	1236	1761038330528719070	esp-idf/freertos/CMakeFiles/__idf_freertos.dir/FreeRTOS-Kernel/tasks.c.obj	4e4b3eebbabb77cc
+1046	1247	1761038331136085720	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/rtc_time.c.obj	673596eec943d395
 1193	1248	1761038331282981217	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/uart_periph.c.obj	c1aea92fca03b315
+1190	1256	1761038331280456733	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/gpio_periph.c.obj	6afee469c23136fd
+1211	1262	1761038331300953775	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/emac_periph.c.obj	7a7fd3754278c04b
 1206	1265	1761038331296479563	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/dport_access.c.obj	702c7acf772ed83b
+1211	1267	1761038331300534896	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/adc_periph.c.obj	5f581fca64c30132
+1211	1267	1761038331301283112	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/spi_periph.c.obj	2d67d18728a5983f
+1222	1280	1761038331312428684	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/ledc_periph.c.obj	6596b88bd5468cbc
+1225	1282	1761038331314576289	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/pcnt_periph.c.obj	4d066f85103002a1
 1248	1291	1761038331338214905	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/sdm_periph.c.obj	22ce406d7943fa09
-2938	3077	1761038333028316634	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/esp_efuse_api.c.obj	47a3a752c6d2a3a7
-668	829	1761038330757914490	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/periph_ctrl.c.obj	8db10eedce6aa426
-295	377	1761038330385394942	esp-idf/newlib/CMakeFiles/__idf_newlib.dir/src/realpath.c.obj	6b967daa1e09049b
-1267	1317	1761038331357331933	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/mcpwm_periph.c.obj	bb83bfe2f08f79b4
-773	957	1761038330863148229	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/dma/esp_dma_utils.c.obj	e0a041980d1c90be
-121	142	1761396731816419000	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	b86f8d76df802e20
 1256	1305	1761038331346248404	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/i2s_periph.c.obj	ad714502102b54c8
-3134	4007	1761038333223704709	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_tls.c.obj	a5924dbf7d5d89ee
-3570	3607	1761396735244887906	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esptool_py/CMakeFiles/app_check_size	d42effb130342287
-1635	1852	1761038331725436103	esp-idf/hal/CMakeFiles/__idf_hal.dir/rtc_io_hal.c.obj	cfe8a90ddc8ca4c4
-3264	3347	1761038333354316999	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/Users/prithul0218/esp/v5.5.1/esp-idf/components/mbedtls/port/mbedtls_debug.c.obj	fde47b42533ee1f6
 1002	1308	1761038331091996479	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/rtc_clk.c.obj	d91cbd9c2d80337e
-1797	1883	1761038331887260002	esp-idf/hal/CMakeFiles/__idf_hal.dir/adc_oneshot_hal.c.obj	cef9274386bd0496
-1883	1974	1761038331973345255	esp-idf/hal/CMakeFiles/__idf_hal.dir/spi_slave_hal_iram.c.obj	f5bd1c1e5c9911b2
-290	376	1761038330380322724	esp-idf/newlib/CMakeFiles/__idf_newlib.dir/src/sysconf.c.obj	24255f4e700e8ecc
-5990	6275	1761038336080242746	esp-idf/esp_driver_mcpwm/CMakeFiles/__idf_esp_driver_mcpwm.dir/src/mcpwm_oper.c.obj	7ad907973687dcbe
-3131	3559	1761038333220581094	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_msg.c.obj	3041afd271fe4103
+1262	1312	1761038331352486801	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/i2c_periph.c.obj	5f845ee828b2bfa1
 1248	1314	1761038331337519690	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/rmt_periph.c.obj	6736968b228b5f8f
-676	827	1761038330765950905	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/rtc_module.c.obj	395882c89b435ca4
-2862	3120	1761038332951854730	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/esp_image_format.c.obj	21350db07a20cfd
+1267	1317	1761038331357331933	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/mcpwm_periph.c.obj	bb83bfe2f08f79b4
+1265	1321	1761038331355148203	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/timer_periph.c.obj	b66cd396dac5d858
 1267	1328	1761038331357057056	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/lcd_periph.c.obj	59ca75c8713a354d
-3120	3264	1761038333210303740	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_cookie.c.obj	77a85965012dcc9c
+1281	1334	1761038331370824488	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/mpi_periph.c.obj	fd5784466761b1a0
 1291	1339	1761038331380797214	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/touch_sensor_periph.c.obj	75be890a310f32f
-16	3783	1761409175989740708	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_security/cmake_install.cmake	425eb24419bbd06e
-218	285	1761038330307715025	esp-idf/newlib/CMakeFiles/__idf_newlib.dir/src/poll.c.obj	ad24168dbf4318f3
-1017	1121	1761038331107029507	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/rtc_init.c.obj	d3dc6b70edac760b
-412	520	1761038330502262342	esp-idf/freertos/CMakeFiles/__idf_freertos.dir/port_systick.c.obj	17a2b2e9328eb780
-3374	3427	1761038333464009701	esp-idf/esp_driver_gpio/libesp_driver_gpio.a	854c43e35f6445f9
 1236	1346	1761038331326369826	esp-idf/freertos/libfreertos.a	1f91ff738290fb22
-5396	5582	1761038335486233482	esp-idf/esp_driver_spi/CMakeFiles/__idf_esp_driver_spi.dir/src/gpspi/spi_dma.c.obj	d569b4b573e0a622
 1282	1349	1761038331371741372	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/sdmmc_periph.c.obj	23a4513c4c2ea59f
-3933	4049	1761038334022576811	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/md.c.obj	9591813c0610f986
 1313	1361	1761038331402497852	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/dac_periph.c.obj	3e9528724da5077
-6338	6506	1761038336428078583	esp-idf/esp_driver_rmt/CMakeFiles/__idf_esp_driver_rmt.dir/src/rmt_encoder_copy.c.obj	98ddc8c6f966b3
+1305	1369	1761038331394878066	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/twai_periph.c.obj	4293994103821072
+1322	1370	1761038331411752321	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/power_supply_periph.c.obj	2ddd5624892181c5
+1309	1371	1761038331399025025	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/wdt_periph.c.obj	a4d230360f989cb8
 1314	1377	1761038331404339121	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/rtc_io_periph.c.obj	4907dceafa155566
-111	121	1761396731786356996	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	eec49e23bb8566be
-2063	2150	1761038332153065879	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/startup.c.obj	fe02ffc540db01d0
-3906	4022	1761038333996133125	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/hmac_drbg.c.obj	fcec9289d67f1ff7
-827	980	1761038330917189572	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/spi_share_hw_ctrl.c.obj	2ba69b5dd68a8030
-50	215	1761038330140426778	esp-idf/pthread/CMakeFiles/__idf_pthread.dir/pthread_rwlock.c.obj	65ea44c27ab8dbe3
-4610	4632	1761038334720834263	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir	6a16a8a58aa618e1
-2970	3074	1761038333060068333	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/efuse_controller/keys/without_key_purposes/three_key_blocks/esp_efuse_api_key.c.obj	47f8609871608d65
-1974	2025	1761038332064165389	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_efuse.c.obj	8fc6f970a2759c63
-1337	1644	1761038331427027394	esp-idf/heap/CMakeFiles/__idf_heap.dir/heap_caps.c.obj	b3c35345284ed872
-16	3783	1761409175931781596	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/mbedtls/mbedtls/cmake_install.cmake	425eb24419bbd06e
-4473	4567	1761038334562929612	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/Users/prithul0218/esp/v5.5.1/esp-idf/components/mbedtls/port/sha/esp_sha.c.obj	40543cb4cc2fb5a0
-1378	1454	1761038331467980436	esp-idf/log/CMakeFiles/__idf_log.dir/src/buffer/log_buffers.c.obj	64a149cb6fdd136d
-1437	1480	1761038331526553367	esp-idf/log/CMakeFiles/__idf_log.dir/src/util.c.obj	38fa4381d7550d76
-3579	3658	1761038333668580244	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/bignum_mod_raw.c.obj	bba493a48c2f9285
-2454	2525	1761038332543662819	esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/spi_flash_chip_gd.c.obj	9105c6a3de4d912c
-16	29	1761038330118288969	project_elf_src_esp32.c	bbe081153301a3c2
-866	1519	1761038330955783673	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/sleep_modes.c.obj	26f9ebb1410a5f0f
-980	1117	1761038331070188006	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/power_supply/brownout.c.obj	b29f71ee0a4241f0
-5808	6128	1761038335898324141	esp-idf/sdmmc/CMakeFiles/__idf_sdmmc.dir/sdmmc_sd.c.obj	15a1495f0cde409b
-641	794	1761038330730735296	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/clk_ctrl_os.c.obj	d0ac2f93a7915456
-5332	5399	1761038335422174621	esp-idf/xtensa/CMakeFiles/__idf_xtensa.dir/eri.c.obj	38d156ca87a57bbf
-4437	4608	1761038334526722826	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/Users/prithul0218/esp/v5.5.1/esp-idf/components/mbedtls/port/aes/block/esp_aes.c.obj	236eba7b24f752be
-2045	2130	1761038332135354656	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/esp_system.c.obj	190808c592d41057
-1347	1525	1761038331436516157	esp-idf/heap/CMakeFiles/__idf_heap.dir/multi_heap.c.obj	bdef042d3c3a5e0
-51	211	1761038330141198911	esp-idf/pthread/CMakeFiles/__idf_pthread.dir/pthread_semaphore.c.obj	577e0bfd3baddc16
-3296	3436	1761038333385970197	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedx509.dir/x509_crl.c.obj	bf0205f0a2c42ab2
-16	29	1761038330118288969	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/project_elf_src_esp32.c	bbe081153301a3c2
-1880	1957	1761038331969814636	esp-idf/hal/CMakeFiles/__idf_hal.dir/spi_slave_hal.c.obj	ff696e4153bc5163
-1929	2011	1761038332019073596	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_sys.c.obj	7316efe234d1f8fa
-741	835	1761038330830756107	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/sar_periph_ctrl_common.c.obj	49f6dceb19f8b5f7
-4169	4289	1761038334258941971	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/psa_crypto_aead.c.obj	347045fa77c6edf6
-1485	1558	1761038331574976652	esp-idf/log/CMakeFiles/__idf_log.dir/src/log_level/tag_log_level/linked_list/log_linked_list.c.obj	c4ba0977c1f50e38
-2304	2397	1761038332393987293	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/arch/xtensa/trax.c.obj	52f3d67379281828
-4653	4669	1761038334758126060	bootloader-prefix/src/bootloader-stamp/bootloader-update	2f997719d6d9a2ba
+1317	1378	1761038331407085066	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/sdio_slave_periph.c.obj	b217e0d2b3f38fcb
 1369	1435	1761038331459411349	esp-idf/heap/CMakeFiles/__idf_heap.dir/port/esp32/memory_layout.c.obj	4635ac67e50243d7
-7032	7273	1761038337121982990	esp-idf/driver/CMakeFiles/__idf_driver.dir/touch_sensor/esp32/touch_sensor.c.obj	ee9b5f48e51f134f
-3658	3726	1761038333747940262	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/camellia.c.obj	dce29dcf64e52980
-1530	1586	1761038331619565523	esp-idf/hal/CMakeFiles/__idf_hal.dir/efuse_hal.c.obj	d0a0a704a8b8fab2
-606	668	1761038330695746814	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/esp_memory_utils.c.obj	51f3ef9ba3968505
-1987	2027	1761038332077391065	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_longjmp.S.obj	6f584040120ae55a
-2267	2312	1761038332357095042	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/arch/xtensa/debug_helpers_asm.S.obj	e59ee8aefe7df931
-5874	5946	1761038335963798976	esp-idf/esp_driver_spi/libesp_driver_spi.a	55d595252364cef1
-4007	4098	1761038334097098071	esp-idf/mbedtls/mbedtls/library/libmbedtls.a	2e7260cf7b48601
+1361	1437	1761038331451225474	esp-idf/heap/CMakeFiles/__idf_heap.dir/port/memory_layout_utils.c.obj	adce8362b77aa7ab
+1328	1441	1761038331418332430	esp-idf/heap/CMakeFiles/__idf_heap.dir/heap_caps_base.c.obj	c95cb05e7d7974fb
+1371	1452	1761038331460710029	esp-idf/log/CMakeFiles/__idf_log.dir/src/os/log_timestamp.c.obj	889e912c439976d
+1378	1454	1761038331467980436	esp-idf/log/CMakeFiles/__idf_log.dir/src/buffer/log_buffers.c.obj	64a149cb6fdd136d
+1377	1472	1761038331466996676	esp-idf/log/CMakeFiles/__idf_log.dir/src/os/log_lock.c.obj	4592bdffc50fe24d
+1371	1473	1761038331465604495	esp-idf/log/CMakeFiles/__idf_log.dir/src/log_timestamp_common.c.obj	4a8c1f6bd8e7eda
+1437	1480	1761038331526553367	esp-idf/log/CMakeFiles/__idf_log.dir/src/util.c.obj	38fa4381d7550d76
+1339	1485	1761038331429200041	esp-idf/heap/CMakeFiles/__idf_heap.dir/heap_caps_init.c.obj	30d59268bb1fbe18
+1441	1510	1761038331530955037	esp-idf/log/CMakeFiles/__idf_log.dir/src/log_format_text.c.obj	da9ce46fa17161e9
+1452	1517	1761038331541939315	esp-idf/log/CMakeFiles/__idf_log.dir/src/log_print.c.obj	2b52d59b6a65de98
+866	1519	1761038330955783673	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/sleep_modes.c.obj	26f9ebb1410a5f0f
+1347	1525	1761038331436516157	esp-idf/heap/CMakeFiles/__idf_heap.dir/multi_heap.c.obj	bdef042d3c3a5e0
+1435	1530	1761038331524700723	esp-idf/log/CMakeFiles/__idf_log.dir/src/os/util.c.obj	21a2b73d10ae2c81
+1472	1531	1761038331562450816	esp-idf/log/CMakeFiles/__idf_log.dir/src/os/log_write.c.obj	f6f45a4418c1b197
 1454	1533	1761038331544484925	esp-idf/log/CMakeFiles/__idf_log.dir/src/log.c.obj	781bce67d2c07193
-829	937	1761038330918555252	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/adc_share_hw_ctrl.c.obj	b9c73c1f79b703de
-649	745	1761038330739296758	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/hw_random.c.obj	e733bbff9b7dd164
+1473	1535	1761038331563368117	esp-idf/log/CMakeFiles/__idf_log.dir/src/log_level/log_level.c.obj	5c89dd408d80645b
+1481	1546	1761038331570513690	esp-idf/log/CMakeFiles/__idf_log.dir/src/log_level/tag_log_level/tag_log_level.c.obj	a03d42dd43aff19c
+1485	1558	1761038331574976652	esp-idf/log/CMakeFiles/__idf_log.dir/src/log_level/tag_log_level/linked_list/log_linked_list.c.obj	c4ba0977c1f50e38
+1510	1582	1761038331599885489	esp-idf/log/CMakeFiles/__idf_log.dir/src/log_level/tag_log_level/cache/log_binary_heap.c.obj	8e959e4491e134ce
+1530	1586	1761038331619565523	esp-idf/hal/CMakeFiles/__idf_hal.dir/efuse_hal.c.obj	d0a0a704a8b8fab2
+1525	1599	1761038331614560889	esp-idf/hal/CMakeFiles/__idf_hal.dir/mpu_hal.c.obj	f59f9fa9ce03537e
+1517	1610	1761038331607184272	esp-idf/hal/CMakeFiles/__idf_hal.dir/hal_utils.c.obj	f1b4b036dc82b261
+1558	1613	1761038331647846812	esp-idf/hal/CMakeFiles/__idf_hal.dir/color_hal.c.obj	f9802e2ab3e03144
+1532	1629	1761038331621932256	esp-idf/hal/CMakeFiles/__idf_hal.dir/esp32/efuse_hal.c.obj	c15e1ed5a484012d
+1546	1629	1761038331635992066	esp-idf/hal/CMakeFiles/__idf_hal.dir/esp32/cache_hal_esp32.c.obj	521fa028503712b
+1534	1635	1761038331623540439	esp-idf/hal/CMakeFiles/__idf_hal.dir/wdt_hal_iram.c.obj	52f5dfe333630c47
+1337	1644	1761038331427027394	esp-idf/heap/CMakeFiles/__idf_heap.dir/heap_caps.c.obj	b3c35345284ed872
+1535	1674	1761038331625337749	esp-idf/hal/CMakeFiles/__idf_hal.dir/mmu_hal.c.obj	c408fd4dca84b28d
 1582	1681	1761038331671644679	esp-idf/hal/CMakeFiles/__idf_hal.dir/spi_flash_hal.c.obj	9fe425fb9aaabe13
-16	3783	1761409175963986080	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_driver_gpio/cmake_install.cmake	425eb24419bbd06e
-835	916	1761038330924591564	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/sleep_modem.c.obj	512e95e0b3241fa0
+1600	1686	1761038331689836698	esp-idf/hal/CMakeFiles/__idf_hal.dir/spi_flash_encrypt_hal_iram.c.obj	ab1d202c3accdc5f
+1629	1702	1761038331718673450	esp-idf/hal/CMakeFiles/__idf_hal.dir/uart_hal_iram.c.obj	d7042dca12e78555
+1519	1705	1761038331608914498	esp-idf/esp_hw_support/libesp_hw_support.a	f566d4d25f407fe4
+1586	1730	1761038331675809805	esp-idf/hal/CMakeFiles/__idf_hal.dir/spi_flash_hal_iram.c.obj	c598f721b7f7493b
+1629	1732	1761038331719051162	esp-idf/hal/CMakeFiles/__idf_hal.dir/gpio_hal.c.obj	68edfdfcf62362e1
 1644	1736	1761038331733777021	esp-idf/hal/CMakeFiles/__idf_hal.dir/timer_hal.c.obj	b20d59c43f34d3bc
 1613	1737	1761038331702558161	esp-idf/hal/CMakeFiles/__idf_hal.dir/uart_hal.c.obj	f2291ff1fc8ac503
-3959	4023	1761038334048697703	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/nist_kw.c.obj	6af619bb3095fade
-2919	3001	1761038333008768268	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32/esp_efuse_fields.c.obj	75b3954b9a80e40e
-4421	4494	1761038334511194834	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/Users/prithul0218/esp/v5.5.1/esp-idf/components/mbedtls/port/esp_timing.c.obj	3af09821e0ce1b3c
 1611	1754	1761038331701308690	esp-idf/hal/CMakeFiles/__idf_hal.dir/esp32/clk_tree_hal.c.obj	9589d58b94a60f1b
-1629	1732	1761038331719051162	esp-idf/hal/CMakeFiles/__idf_hal.dir/gpio_hal.c.obj	68edfdfcf62362e1
-5332	5680	1761038335421726325	esp-idf/mbedtls/CMakeFiles/__idf_mbedtls.dir/esp_crt_bundle/esp_crt_bundle.c.obj	4dbafca3b9b63421
+1674	1757	1761038331763969204	esp-idf/hal/CMakeFiles/__idf_hal.dir/ledc_hal.c.obj	1578ec17b1165cb3
 1681	1764	1761038331771363779	esp-idf/hal/CMakeFiles/__idf_hal.dir/ledc_hal_iram.c.obj	43adf11f62200ef6
-3739	3856	1761038333829009755	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/ctr_drbg.c.obj	464340cdbfe5a861
-3567	3817	1761038333656996960	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/bignum_core.c.obj	8b7eafcdcce05076
+1702	1769	1761038331792172866	esp-idf/hal/CMakeFiles/__idf_hal.dir/i2c_hal_iram.c.obj	4c0aec6dd1a6be93
+1705	1780	1761038331795542442	esp-idf/esp_security/libesp_security.a	ff44454145624955
+1686	1797	1761038331776162411	esp-idf/hal/CMakeFiles/__idf_hal.dir/i2c_hal.c.obj	337d9bc7d389c9eb
+1733	1799	1761038331822533176	esp-idf/hal/CMakeFiles/__idf_hal.dir/pcnt_hal.c.obj	bacfe1a98ef152bd
 1757	1812	1761038331847288928	esp-idf/hal/CMakeFiles/__idf_hal.dir/sdm_hal.c.obj	d66995a09a0de693
-4653	4669	1761038334758126060	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-update	2f997719d6d9a2ba
-2808	2892	1761038332897786387	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_random_esp32.c.obj	52149a4d4465fbbf
-800	1002	1761038330889565373	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/spi_bus_lock.c.obj	bb83d2d4bfd1db87
-462	604	1761038330551975224	esp-idf/freertos/CMakeFiles/__idf_freertos.dir/FreeRTOS-Kernel/event_groups.c.obj	fc086c506de6bc6f
+1736	1814	1761038331826174671	esp-idf/hal/CMakeFiles/__idf_hal.dir/mcpwm_hal.c.obj	b0b84ad634fa65f9
+1730	1818	1761038331820483697	esp-idf/hal/CMakeFiles/__idf_hal.dir/rmt_hal.c.obj	684b0db2d0f21386
+1764	1828	1761038331854258124	esp-idf/hal/CMakeFiles/__idf_hal.dir/sdmmc_hal.c.obj	82dd7c7a5afcb858
+1770	1846	1761038331859520886	esp-idf/hal/CMakeFiles/__idf_hal.dir/adc_hal_common.c.obj	c7f49f871af8fca0
+1635	1852	1761038331725436103	esp-idf/hal/CMakeFiles/__idf_hal.dir/rtc_io_hal.c.obj	cfe8a90ddc8ca4c4
+1814	1880	1761038331904285176	esp-idf/hal/CMakeFiles/__idf_hal.dir/sha_hal.c.obj	a0fa0879d45d7410
+1797	1883	1761038331887260002	esp-idf/hal/CMakeFiles/__idf_hal.dir/adc_oneshot_hal.c.obj	cef9274386bd0496
 1349	1884	1761038331438955099	esp-idf/heap/CMakeFiles/__idf_heap.dir/tlsf/tlsf.c.obj	145165a664095440
-2993	3121	1761038333083336820	esp-idf/esp_partition/CMakeFiles/__idf_esp_partition.dir/partition.c.obj	69b488d3b8435501
+1818	1884	1761038331908286633	esp-idf/hal/CMakeFiles/__idf_hal.dir/aes_hal.c.obj	e89f05a67f1463a0
 1812	1886	1761038331901807151	esp-idf/hal/CMakeFiles/__idf_hal.dir/mpi_hal.c.obj	a4bd244d7b346d63
-16	48	1761038330136634865	esp-idf/esp_system/ld/sections.ld.in	368f90095c9d8235
-606	665	1761038330696292778	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/cpu_region_protect.c.obj	be54ea129180aa2f
-2735	2831	1761038332825274731	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_clock_init.c.obj	e9616c7e6fad6557
-1472	1531	1761038331562450816	esp-idf/log/CMakeFiles/__idf_log.dir/src/os/log_write.c.obj	f6f45a4418c1b197
+1828	1887	1761038331918332319	esp-idf/hal/CMakeFiles/__idf_hal.dir/brownout_hal.c.obj	34b555e8863a8f7b
+1780	1888	1761038331869805824	esp-idf/soc/libsoc.a	53ab492372decb06
+1754	1919	1761038331844221438	esp-idf/hal/CMakeFiles/__idf_hal.dir/i2s_hal.c.obj	a27e4f9e37d8a039
+1799	1929	1761038331889429441	esp-idf/hal/CMakeFiles/__idf_hal.dir/adc_hal.c.obj	2fd165b955a421c9
+1737	1937	1761038331827225057	esp-idf/hal/CMakeFiles/__idf_hal.dir/twai_hal_sja1000.c.obj	919cc21017af0a81
 1846	1956	1761038331936229668	esp-idf/hal/CMakeFiles/__idf_hal.dir/spi_hal.c.obj	3343ee9f7ecdfebc
-1317	1378	1761038331407085066	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/sdio_slave_periph.c.obj	b217e0d2b3f38fcb
+1880	1957	1761038331969814636	esp-idf/hal/CMakeFiles/__idf_hal.dir/spi_slave_hal.c.obj	ff696e4153bc5163
+1884	1959	1761038331974192388	esp-idf/hal/CMakeFiles/__idf_hal.dir/esp32/touch_sensor_hal.c.obj	7331f08ecc66361d
+1888	1969	1761038331977594756	esp-idf/heap/libheap.a	e2865607bf0d9d02
+1883	1974	1761038331973345255	esp-idf/hal/CMakeFiles/__idf_hal.dir/spi_slave_hal_iram.c.obj	f5bd1c1e5c9911b2
+1886	1981	1761038331976164367	esp-idf/hal/CMakeFiles/__idf_hal.dir/touch_sensor_hal.c.obj	e079927d215b0810
+1887	1987	1761038331977282045	esp-idf/hal/CMakeFiles/__idf_hal.dir/touch_sens_hal.c.obj	fadddd77a2ac23e6
+1956	2004	1761038332046106538	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_crc.c.obj	60ec81b3a9ad0fcb
+1929	2011	1761038332019073596	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_sys.c.obj	7316efe234d1f8fa
+1919	2016	1761038332009058869	esp-idf/hal/CMakeFiles/__idf_hal.dir/esp32/gpio_hal_workaround.c.obj	99a1460e2bd5eafe
+1974	2025	1761038332064165389	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_efuse.c.obj	8fc6f970a2759c63
+1987	2027	1761038332077391065	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_longjmp.S.obj	6f584040120ae55a
+1938	2028	1761038332027711142	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_print.c.obj	958215b762f44d8a
+1852	2036	1761038331942438065	esp-idf/hal/CMakeFiles/__idf_hal.dir/spi_hal_iram.c.obj	bd1b2508fecd35d7
 1957	2040	1761038332047205758	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_uart.c.obj	31f00eb05c7bf90d
 1981	2045	1761038332070733289	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_gpio.c.obj	fa39263f2399d306
+1969	2063	1761038332058862085	esp-idf/log/liblog.a	751cb8b43fcb917b
+2011	2079	1761038332100598760	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/esp_err.c.obj	eb423e973bd1a3fc
 2004	2099	1761038332093962401	esp-idf/esp_common/CMakeFiles/__idf_esp_common.dir/src/esp_err_to_name.c.obj	22511c6812fd3a00
-3917	4035	1761038334006751108	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/lmots.c.obj	b37084cb7868bfcc
-1754	1919	1761038331844221438	esp-idf/hal/CMakeFiles/__idf_hal.dir/i2s_hal.c.obj	a27e4f9e37d8a039
-2040	2152	1761038332129565514	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/panic.c.obj	6c0ae39a66f6965d
-3429	3516	1761038333518632924	esp-idf/esp_mm/libesp_mm.a	61bf2e9c4d21119c
-4414	4481	1761038334503809342	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/Users/prithul0218/esp/v5.5.1/esp-idf/components/mbedtls/port/esp_hardware.c.obj	3cffc15e3069ba13
-1534	1635	1761038331623540439	esp-idf/hal/CMakeFiles/__idf_hal.dir/wdt_hal_iram.c.obj	52f5dfe333630c47
-1686	1797	1761038331776162411	esp-idf/hal/CMakeFiles/__idf_hal.dir/i2c_hal.c.obj	337d9bc7d389c9eb
-1510	1582	1761038331599885489	esp-idf/log/CMakeFiles/__idf_log.dir/src/log_level/tag_log_level/cache/log_binary_heap.c.obj	8e959e4491e134ce
-2036	2169	1761038332126106979	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/int_wdt.c.obj	c5e8315adc67c60e
-4325	4407	1761038334415016062	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/rsa_alt_helpers.c.obj	6598fbf6e115c8b4
+2027	2101	1761038332117377140	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/esp_system_console.c.obj	1f2bac488c0139a5
+2016	2130	1761038332106093941	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/crosscore_int.c.obj	71d3be0fbd8b535d
+2045	2130	1761038332135354656	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/esp_system.c.obj	190808c592d41057
 2028	2143	1761038332117653893	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/freertos_hooks.c.obj	8351a26e051305af
-6827	6909	1761038336916607022	esp-idf/esp_driver_rmt/libesp_driver_rmt.a	b076f4c5a07104a9
-2240	2336	1761038332329985141	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/arch/xtensa/panic_arch.c.obj	da79462a3ffc8637
-16	3783	1761409176006536806	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_ringbuf/cmake_install.cmake	425eb24419bbd06e
-4181	4306	1761038334271143845	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/psa_crypto_ecp.c.obj	d5df536416f14c6d
+2101	2146	1761038332191367144	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/stack_check.c.obj	c886d1e596ed3e66
+2063	2150	1761038332153065879	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/startup.c.obj	fe02ffc540db01d0
+2040	2152	1761038332129565514	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/panic.c.obj	6c0ae39a66f6965d
+2025	2155	1761038332114738404	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/esp_ipc.c.obj	163484e55c82ca70
+2036	2169	1761038332126106979	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/int_wdt.c.obj	c5e8315adc67c60e
+1959	2185	1761038332049537906	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_spiflash.c.obj	b29a902eacfa51a8
+2099	2193	1761038332189315290	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/system_time.c.obj	1b461d715140c707
+2130	2205	1761038332219785392	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/ubsan.c.obj	622c8f095ac67217
 2130	2231	1761038332220446357	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/xt_wdt.c.obj	b8d9cda8573aade2
-2652	2782	1761038332741909173	esp-idf/esp_mm/CMakeFiles/__idf_esp_mm.dir/esp_cache_msync.c.obj	b29238d6420183ea
 1884	2235	1761038331973851927	esp-idf/hal/CMakeFiles/__idf_hal.dir/sdio_slave_hal.c.obj	345bfabcd41261f6
+2079	2240	1761038332168753830	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/startup_funcs.c.obj	7acc9eab3468404a
+2152	2252	1761038332242483957	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/panic_handler.c.obj	61b74f42094d49a8
 2169	2252	1761038332259171335	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/image_process.c.obj	157072c63b800d51
-46	111	1761396731721212399	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.map	98a028a3551e5de5
+2193	2261	1761038332283233080	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/arch/xtensa/esp_ipc_isr_port.c.obj	c6b9f9fdf683e34d
+2205	2265	1761038332295077868	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/arch/xtensa/esp_ipc_isr_handler.S.obj	e354a5d22660dda9
 2231	2267	1761038332320694254	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/arch/xtensa/esp_ipc_isr_routines.S.obj	4773c2dcf3d650f
 2252	2302	1761038332341574425	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/arch/xtensa/panic_handler_asm.S.obj	966c66fd39085e68
-6863	7175	1761038336953282896	esp-idf/driver/CMakeFiles/__idf_driver.dir/deprecated/pcnt_legacy.c.obj	b00fecd435558eb6
+2262	2304	1761038332351609403	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/arch/xtensa/expression_with_stack_asm.S.obj	cba5b54488799736
+2155	2305	1761038332244576770	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/esp_system_chip.c.obj	bca88497295868aa
 2146	2312	1761038332235875306	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/task_wdt/task_wdt_impl_timergroup.c.obj	e895b9e7ba1aa6d3
-2312	2520	1761038332401590912	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/soc/esp32/clk.c.obj	7bc218d057a200b0
+2267	2312	1761038332357095042	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/arch/xtensa/debug_helpers_asm.S.obj	e59ee8aefe7df931
 2185	2314	1761038332274764994	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/esp_ipc_isr.c.obj	20d789580b0dd2a9
-1956	2004	1761038332046106538	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_crc.c.obj	60ec81b3a9ad0fcb
-1435	1530	1761038331524700723	esp-idf/log/CMakeFiles/__idf_log.dir/src/os/util.c.obj	21a2b73d10ae2c81
+2252	2333	1761038332342476351	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/arch/xtensa/expression_with_stack.c.obj	668a79c29463a259
+2240	2336	1761038332329985141	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/arch/xtensa/panic_arch.c.obj	da79462a3ffc8637
+2150	2338	1761038332240211809	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/cpu_start.c.obj	29cd789af0e2eda1
+2302	2370	1761038332392381902	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/arch/xtensa/debug_stubs.c.obj	3818f9205344b392
+2306	2377	1761038332396371984	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/soc/esp32/highint_hdl.S.obj	cfacc132b601c186
+2312	2384	1761038332401889123	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/soc/esp32/reset_reason.c.obj	f99b9a43a0fb25ec
 2265	2388	1761038332355359732	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/arch/xtensa/debug_helpers.c.obj	d23858d2d4610381
-733	803	1761038330822693692	esp-idf/cxx/libcxx.a	a53f07ba4fa654e5
-2522	2670	1761038332611627387	esp-idf/esp_system/libesp_system.a	faa905b1453f327e
-937	1046	1761038331026661938	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/rtc_wdt.c.obj	b3382dfa1ed66971
-6148	6198	1761038336237987354	esp-idf/esp_driver_sdspi/CMakeFiles/__idf_esp_driver_sdspi.dir/src/sdspi_crc.c.obj	5b50f623dba31857
+2235	2391	1761038332325419011	esp-idf/hal/libhal.a	53196173d3eff22a
+2304	2397	1761038332393987293	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/arch/xtensa/trax.c.obj	52f3d67379281828
 2338	2413	1761038332428373935	esp-idf/esp_timer/CMakeFiles/__idf_esp_timer.dir/src/esp_timer_init.c.obj	79191f67bbf8aff7
+2333	2421	1761038332423048422	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/soc/esp32/cache_err_int.c.obj	303c8c7ec1a3d49
+2397	2443	1761038332486758280	esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/flash_brownout_hook.c.obj	14b72a9395427787
+2385	2451	1761038332474768575	esp-idf/esp_timer/CMakeFiles/__idf_esp_timer.dir/src/esp_timer_impl_common.c.obj	df0d24b10c5463f9
 2314	2454	1761038332403868602	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/soc/esp32/system_internal.c.obj	12732513d9e737c
 2377	2455	1761038332467465084	esp-idf/esp_timer/CMakeFiles/__idf_esp_timer.dir/src/system_time.c.obj	c4d7de1d3324dca5
+2370	2469	1761038332459950590	esp-idf/esp_timer/CMakeFiles/__idf_esp_timer.dir/src/ets_timer_legacy.c.obj	c5b67904c73ee0ce
+2391	2471	1761038332481243391	esp-idf/esp_rom/libesp_rom.a	a091430303a7291b
 2143	2474	1761038332233005485	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/task_wdt/task_wdt.c.obj	228f7ac74a594b85
+2413	2477	1761038332502626400	esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/spi_flash_chip_drivers.c.obj	16f834832610e344
 2443	2507	1761038332532705374	esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/spi_flash_chip_issi.c.obj	6af388a57f2de0aa
-6069	6616	1761038336158650837	esp-idf/esp_driver_sdmmc/CMakeFiles/__idf_esp_driver_sdmmc.dir/src/sdmmc_host.c.obj	be195b647adce4fd
-1737	1937	1761038331827225057	esp-idf/hal/CMakeFiles/__idf_hal.dir/twai_hal_sja1000.c.obj	919cc21017af0a81
-3810	3858	1761038333899574391	esp-idf/app_update/libapp_update.a	ac1a591c3d4fd192
-16	3783	1761409175999984659	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/newlib/src/port/cmake_install.cmake	425eb24419bbd06e
-436	741	1761038330526261128	esp-idf/freertos/CMakeFiles/__idf_freertos.dir/FreeRTOS-Kernel/queue.c.obj	d9d42724236afae7
+2312	2520	1761038332401590912	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/soc/esp32/clk.c.obj	7bc218d057a200b0
 2471	2521	1761038332561024662	esp-idf/esp_common/libesp_common.a	b81568840dc99c55
 2451	2522	1761038332541254627	esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/spi_flash_chip_mxic.c.obj	d0e8f034c93a8007
-5412	5691	1761038335501635848	esp-idf/esp_driver_i2s/CMakeFiles/__idf_esp_driver_i2s.dir/i2s_platform.c.obj	ff0c1b971f810980
-6909	7032	1761038336998872777	esp-idf/driver/CMakeFiles/__idf_driver.dir/deprecated/sigma_delta_legacy.c.obj	e479db0df2fdedde
-738	799	1761038330827744327	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/esp_gpio_reserve.c.obj	39aba8e6b0c2f6af
-2413	2477	1761038332502626400	esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/spi_flash_chip_drivers.c.obj	16f834832610e344
-4145	4202	1761038334235117770	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/poly1305.c.obj	ba35c76997b64cea
+2454	2525	1761038332543662819	esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/spi_flash_chip_gd.c.obj	9105c6a3de4d912c
+2455	2533	1761038332544681746	esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/spi_flash_chip_winbond.c.obj	8ec74e8c1ec11cb9
 2478	2534	1761038332567609938	esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/spi_flash_chip_th.c.obj	cc831a1eca817974
+2469	2538	1761038332558638263	esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/spi_flash_chip_boya.c.obj	2a7a6e96f5b96580
 2507	2589	1761038332596612025	esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/memspi_host_driver.c.obj	3e17f366016e9c29
-1225	1282	1761038331314576289	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/pcnt_periph.c.obj	4d066f85103002a1
 2475	2607	1761038332564557490	esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/spi_flash_chip_mxic_opi.c.obj	690bdddeda6ad764
-3716	3795	1761038333806384649	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/constant_time.c.obj	dad6bca4d274d005
-690	824	1761038330779945381	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/regi2c_ctrl.c.obj	6f54b489c8ca387
+2336	2619	1761038332426394832	esp-idf/esp_timer/CMakeFiles/__idf_esp_timer.dir/src/esp_timer.c.obj	901466654a85419a
+2391	2620	1761038332480998180	esp-idf/esp_timer/CMakeFiles/__idf_esp_timer.dir/src/esp_timer_impl_lac.c.obj	9b7829c8e42e6057
+2533	2621	1761038332623430382	esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/spi_flash_wrap.c.obj	9589a2312308df3
+2522	2628	1761038332612206392	esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/flash_mmap.c.obj	e2ec0cbfb16f1a16
 2525	2639	1761038332614689876	esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/flash_ops.c.obj	681b41611db845a7
 2421	2652	1761038332510829984	esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/spi_flash_chip_generic.c.obj	a3ddf97440ddcc2c
-1222	1280	1761038331312428684	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/ledc_periph.c.obj	6596b88bd5468cbc
-3462	3544	1761038333552254559	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/aesni.c.obj	f792d61c3caafb45
-663	1031	1761038330753136232	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/intr_alloc.c.obj	fb93bd0d1c120178
+2520	2658	1761038332610068704	esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/cache_utils.c.obj	8b1128433dfdabba
+2522	2670	1761038332611627387	esp-idf/esp_system/libesp_system.a	faa905b1453f327e
 2607	2672	1761038332697213092	esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/spi_flash_os_func_noos.c.obj	c4832c397029ae9e
-3662	3804	1761038333752524559	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/ccm.c.obj	38e58c1310af456f
-1046	1247	1761038331136085720	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/rtc_time.c.obj	673596eec943d395
-1888	1969	1761038331977594756	esp-idf/heap/libheap.a	e2865607bf0d9d02
-3484	3683	1761038333574457827	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/aria.c.obj	492ac2065a3dde65
 2639	2695	1761038332729011750	esp-idf/esp_mm/CMakeFiles/__idf_esp_mm.dir/port/esp32/ext_mem_layout.c.obj	c5b95e4c7659a419
+2620	2696	1761038332710309267	esp-idf/esp_driver_gpio/CMakeFiles/__idf_esp_driver_gpio.dir/src/gpio_glitch_filter_ops.c.obj	5f843aa12c21664f
 2670	2733	1761038332759940065	esp-idf/esp_timer/libesp_timer.a	e6fa8d7e08f930ba
-2150	2338	1761038332240211809	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/cpu_start.c.obj	29cd789af0e2eda1
 2672	2735	1761038332761842793	esp-idf/esp_mm/CMakeFiles/__idf_esp_mm.dir/cache_esp32.c.obj	dc6ce1bf261e10b1
 2589	2750	1761038332679197367	esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/spi_flash_os_func_app.c.obj	67e9a0a2a2c66301
-3655	3716	1761038333744859939	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/block_cipher.c.obj	130953527acf381d
-4367	4424	1761038334457065782	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/threading.c.obj	c4821b75a45a2b6
-3306	3823	1761038333396128759	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedx509.dir/x509_crt.c.obj	cd084c4de2ab5aea
-2620	2696	1761038332710309267	esp-idf/esp_driver_gpio/CMakeFiles/__idf_esp_driver_gpio.dir/src/gpio_glitch_filter_ops.c.obj	5f843aa12c21664f
-2847	2950	1761038332937048787	esp-idf/spi_flash/libspi_flash.a	d85dccb02c24083b
-3223	3269	1761038333312792159	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_tls13_keys.c.obj	5568e7aa63536cc4
-1730	1818	1761038331820483697	esp-idf/hal/CMakeFiles/__idf_hal.dir/rmt_hal.c.obj	684b0db2d0f21386
-2831	3013	1761038332921422711	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/bootloader_flash/src/bootloader_flash_config_esp32.c.obj	81b17cd65c0f57
-2385	2451	1761038332474768575	esp-idf/esp_timer/CMakeFiles/__idf_esp_timer.dir/src/esp_timer_impl_common.c.obj	df0d24b10c5463f9
-3013	3286	1761038333102725726	esp-idf/app_update/CMakeFiles/__idf_app_update.dir/esp_ota_ops.c.obj	793568bdcb75b0cf
+2538	2753	1761038332628341265	esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/esp_flash_spi_init.c.obj	e64a87bc93937071
+2695	2754	1761038332785009487	esp-idf/esp_mm/CMakeFiles/__idf_esp_mm.dir/heap_align_hw.c.obj	24fab35550192203
+2658	2757	1761038332747891192	esp-idf/esp_mm/CMakeFiles/__idf_esp_mm.dir/esp_cache_utils.c.obj	2904cd53933f8393
+2652	2782	1761038332741909173	esp-idf/esp_mm/CMakeFiles/__idf_esp_mm.dir/esp_cache_msync.c.obj	b29238d6420183ea
 2750	2808	1761038332840293301	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_mem.c.obj	6e942714011bd899
-2262	2304	1761038332351609403	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/arch/xtensa/expression_with_stack_asm.S.obj	cba5b54488799736
-3406	3576	1761038333496250154	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedx509.dir/x509write_crt.c.obj	e89406996b9e1315
+2696	2809	1761038332786140249	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_common.c.obj	adac7de7477d516f
+2753	2830	1761038332842550199	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_random.c.obj	316d641b15562fd7
+2735	2831	1761038332825274731	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_clock_init.c.obj	e9616c7e6fad6557
+2754	2833	1761038332844435676	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_efuse.c.obj	17f6ba8d2f075090
+2534	2847	1761038332623824594	esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/esp_flash_api.c.obj	a38cfad2f5ea2ae8
 2757	2861	1761038332847296164	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/flash_encrypt.c.obj	7362b57a76ef5b0d
 2782	2862	1761038332872052125	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/secure_boot.c.obj	56171ce4f0e198ff
-567	676	1761038330657069587	esp-idf/freertos/CMakeFiles/__idf_freertos.dir/esp_additions/idf_additions.c.obj	62301eda91a2bdaf
-1135	1177	1761038331225477089	esp-idf/esp_security/CMakeFiles/__idf_esp_security.dir/src/esp_crypto_lock.c.obj	41348e56c2fc0998
-6754	7230	1761038336844551412	esp-idf/driver/CMakeFiles/__idf_driver.dir/i2c/i2c.c.obj	e247dc4cf21c1fa7
 2733	2877	1761038332823151751	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_common_loader.c.obj	fd1a5cb4e245ad67
-1799	1929	1761038331889429441	esp-idf/hal/CMakeFiles/__idf_hal.dir/adc_hal.c.obj	2fd165b955a421c9
-46	111	1761396731721212399	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.elf	98a028a3551e5de5
 2628	2890	1761038332718335933	esp-idf/esp_mm/CMakeFiles/__idf_esp_mm.dir/esp_mmu_map.c.obj	9db35dc2a1b50289
-1452	1517	1761038331541939315	esp-idf/log/CMakeFiles/__idf_log.dir/src/log_print.c.obj	2b52d59b6a65de98
-3795	3924	1761038333885124660	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/ecdh.c.obj	4a5eef6fd4659678
-4500	4581	1761038334589629884	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/Users/prithul0218/esp/v5.5.1/esp-idf/components/mbedtls/port/md/esp_md.c.obj	6ea48fbbf9328e8c
-6380	6702	1761038336469658215	esp-idf/esp_driver_rmt/CMakeFiles/__idf_esp_driver_rmt.dir/src/rmt_rx.c.obj	4b89bff5fbf54dc7
+2808	2892	1761038332897786387	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_random_esp32.c.obj	52149a4d4465fbbf
 2621	2919	1761038332710786231	esp-idf/esp_driver_gpio/CMakeFiles/__idf_esp_driver_gpio.dir/src/rtc_io.c.obj	c929c3236d63e4fe
-4413	4477	1761038334503420672	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/version_features.c.obj	cd424b6b850dc75c
-121	142	1761396731816419000	CMakeFiles/bootloader-complete	b86f8d76df802e20
-1558	1613	1761038331647846812	esp-idf/hal/CMakeFiles/__idf_hal.dir/color_hal.c.obj	f9802e2ab3e03144
 2830	2931	1761038332919871487	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/bootloader_flash/src/flash_qio_mode.c.obj	e6d917503472e8f4
+2861	2938	1761038332950936762	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/flash_partitions.c.obj	e2cae062f9d2f71d
+2847	2950	1761038332937048787	esp-idf/spi_flash/libspi_flash.a	d85dccb02c24083b
+2891	2966	1761038332980621398	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/esp32/secure_boot_secure_features.c.obj	b5fc46464b7d591b
 2892	2970	1761038332982024829	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32/esp_efuse_table.c.obj	3e4354ba0cd2f84a
-3557	3678	1761038333647177985	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/asn1write.c.obj	de7289ac450c6b12
-480	556	1761038330570159159	esp-idf/freertos/CMakeFiles/__idf_freertos.dir/FreeRTOS-Kernel/portable/xtensa/portasm.S.obj	cc9ca85d08ef55c6
-2534	2847	1761038332623824594	esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/esp_flash_api.c.obj	a38cfad2f5ea2ae8
-2976	3053	1761038333065673140	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/esp_efuse_startup.c.obj	86123161d2674631
-1770	1846	1761038331859520886	esp-idf/hal/CMakeFiles/__idf_hal.dir/adc_hal_common.c.obj	c7f49f871af8fca0
+2877	2976	1761038332967174011	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_sha.c.obj	2431ac2ea34510ca
 2809	2993	1761038332898869981	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/bootloader_flash/src/bootloader_flash.c.obj	c732ad16d1acad8
-3077	3131	1761038333167247926	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/mps_reader.c.obj	874e6a1dfdd1c56d
-5064	5093	1761038335154033137	esp-idf/mbedtls/mbedtls/3rdparty/p256-m/libp256m.a	77e8a0c115be67d
-16	3783	1761409175983283645	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/log/cmake_install.cmake	425eb24419bbd06e
-3232	3282	1761038333322388340	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_tls13_server.c.obj	91686454e5ead315
-16	3783	1761409175968656304	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_timer/cmake_install.cmake	425eb24419bbd06e
-893	1004	1761038330983018993	esp-idf/newlib/libnewlib.a	499f17bb4d040449
-3001	3105	1761038333091356944	esp-idf/esp_partition/CMakeFiles/__idf_esp_partition.dir/partition_target.c.obj	e4c9b30d4e60ec9
-6616	6692	1761038336706129751	esp-idf/esp_driver_mcpwm/libesp_driver_mcpwm.a	e0549eb8535cc3c8
-3257	3306	1761038333346578337	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_tls13_generic.c.obj	30c8491d8dd7fd5d
-16	3783	1761409175994078431	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_hw_support/port/esp32/cmake_install.cmake	425eb24419bbd06e
-3347	3464	1761038333437209136	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedx509.dir/x509write.c.obj	841b6a63af4fc938
-2391	2620	1761038332480998180	esp-idf/esp_timer/CMakeFiles/__idf_esp_timer.dir/src/esp_timer_impl_lac.c.obj	9b7829c8e42e6057
-3282	3417	1761038333372358933	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedx509.dir/pkcs7.c.obj	8ffc3173f0ae1cc5
-16	3783	1761409175958362686	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/efuse/cmake_install.cmake	425eb24419bbd06e
-2312	2384	1761038332401889123	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/soc/esp32/reset_reason.c.obj	f99b9a43a0fb25ec
-3120	3296	1761038333209749609	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_client.c.obj	9a7da500346b0d93
-3333	3462	1761038333422632612	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedx509.dir/x509_csr.c.obj	1e4b59aa62a81d41
-7114	7175	1761038337204251079	esp-idf/esp_driver_ledc/libesp_driver_ledc.a	852f4c35c6d8b195
-3146	3578	1761038333236329380	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_tls12_server.c.obj	d76f0ff172503b2d
-3162	3452	1761396734837287886	CAN.elf	49089e0fa61cd217
-3436	3567	1761038333525687288	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/aes.c.obj	e26f3eab4f278f3e
-2079	2240	1761038332168753830	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/startup_funcs.c.obj	7acc9eab3468404a
-2333	2421	1761038332423048422	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/soc/esp32/cache_err_int.c.obj	303c8c7ec1a3d49
-4098	4300	1761038334188217250	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/pkparse.c.obj	247af83ff9031f38
-6406	6573	1761038336496536156	esp-idf/esp_driver_sdm/CMakeFiles/__idf_esp_driver_sdm.dir/src/sdm.c.obj	6556f224298846c6
-3863	4027	1761038333953078145	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/error.c.obj	7248ba75bcfbd581
-3516	3643	1761038333605719520	esp-idf/bootloader_support/libbootloader_support.a	ad033ea74672ca0f
-6658	6714	1761038336748012470	esp-idf/esp_driver_sdio/libesp_driver_sdio.a	d1a03ba5245323e9
-5333	5440	1761038335422793461	esp-idf/xtensa/CMakeFiles/__idf_xtensa.dir/xtensa_intr.c.obj	cae88e2cd656dd9c
-3559	3676	1761038333648945086	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/base64.c.obj	3293170bcd520592
-3576	3662	1761038333665792133	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/bignum_mod.c.obj	54d0248b1a4c219b
+2919	3001	1761038333008768268	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32/esp_efuse_fields.c.obj	75b3954b9a80e40e
+2831	3013	1761038332921422711	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/bootloader_flash/src/bootloader_flash_config_esp32.c.obj	81b17cd65c0f57
+2950	3030	1761038333040374299	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/esp_efuse_fields.c.obj	861612a734b8190b
+2976	3053	1761038333065673140	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/esp_efuse_startup.c.obj	86123161d2674631
+2931	3057	1761038333021341896	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32/esp_efuse_utility.c.obj	a6d8228a330e58b6
+2970	3074	1761038333060068333	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/efuse_controller/keys/without_key_purposes/three_key_blocks/esp_efuse_api_key.c.obj	47f8609871608d65
+2938	3077	1761038333028316634	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/esp_efuse_api.c.obj	47a3a752c6d2a3a7
 2966	3082	1761038333056025292	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/esp_efuse_utility.c.obj	20b4e4982373b572
+3001	3105	1761038333091356944	esp-idf/esp_partition/CMakeFiles/__idf_esp_partition.dir/partition_target.c.obj	e4c9b30d4e60ec9
+3031	3110	1761038333120844119	esp-idf/app_update/CMakeFiles/__idf_app_update.dir/esp_ota_app_desc.c.obj	2c76176c34b7652a
+3053	3120	1761038333143153430	esp-idf/esp_bootloader_format/CMakeFiles/__idf_esp_bootloader_format.dir/esp_bootloader_desc.c.obj	d6a3bb111a0b63b
+2862	3120	1761038332951854730	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/esp_image_format.c.obj	21350db07a20cfd
+2993	3121	1761038333083336820	esp-idf/esp_partition/CMakeFiles/__idf_esp_partition.dir/partition.c.obj	69b488d3b8435501
+2833	3130	1761038332922662765	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_utility.c.obj	d51bcb9823a0f739
+3077	3131	1761038333167247926	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/mps_reader.c.obj	874e6a1dfdd1c56d
+3074	3134	1761038333164014309	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/debug.c.obj	60dc0d9d41a73c9b
+3082	3144	1761038333172293102	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/mps_trace.c.obj	e1c74e4cf879c031
+3057	3146	1761038333146971302	esp-idf/esp_app_format/CMakeFiles/__idf_esp_app_format.dir/esp_app_desc.c.obj	12a286eb593cc764
+3110	3223	1761038333199818258	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_ciphersuites.c.obj	8e51f4e8e003ee5
+3121	3232	1761038333210584326	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_debug_helpers_generated.c.obj	97cf8858c7fe82f8
+3105	3234	1761038333194869374	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_cache.c.obj	257e946a207ef8c0
+3132	3256	1761038333221516479	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_ticket.c.obj	fce006c0779817e
+3120	3264	1761038333210303740	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_cookie.c.obj	77a85965012dcc9c
+3223	3269	1761038333312792159	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_tls13_keys.c.obj	5568e7aa63536cc4
+3232	3282	1761038333322388340	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_tls13_server.c.obj	91686454e5ead315
+3013	3286	1761038333102725726	esp-idf/app_update/CMakeFiles/__idf_app_update.dir/esp_ota_ops.c.obj	793568bdcb75b0cf
+3234	3290	1761038333324009357	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_tls13_client.c.obj	657c4c2a9f5a4982
+3120	3296	1761038333209749609	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_client.c.obj	9a7da500346b0d93
+3257	3306	1761038333346578337	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_tls13_generic.c.obj	30c8491d8dd7fd5d
+3269	3332	1761038333358786045	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/Users/prithul0218/esp/v5.5.1/esp-idf/components/mbedtls/port/esp_platform_time.c.obj	a494e3fa21aed60c
+3264	3347	1761038333354316999	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/Users/prithul0218/esp/v5.5.1/esp-idf/components/mbedtls/port/mbedtls_debug.c.obj	fde47b42533ee1f6
+2620	3374	1761038332709632594	esp-idf/esp_driver_gpio/CMakeFiles/__idf_esp_driver_gpio.dir/src/gpio.c.obj	58ffcb8d2990c6d3
+3290	3406	1761038333379970427	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedx509.dir/x509_create.c.obj	6421e43517772b4
+3282	3417	1761038333372358933	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedx509.dir/pkcs7.c.obj	8ffc3173f0ae1cc5
+3374	3427	1761038333464009701	esp-idf/esp_driver_gpio/libesp_driver_gpio.a	854c43e35f6445f9
+3296	3436	1761038333385970197	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedx509.dir/x509_crl.c.obj	bf0205f0a2c42ab2
+3333	3462	1761038333422632612	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedx509.dir/x509_csr.c.obj	1e4b59aa62a81d41
+3347	3464	1761038333437209136	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedx509.dir/x509write.c.obj	841b6a63af4fc938
+3144	3484	1761038333234237984	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_tls12_client.c.obj	909d41c602a2d086
+3429	3516	1761038333518632924	esp-idf/esp_mm/libesp_mm.a	61bf2e9c4d21119c
+3462	3544	1761038333552254559	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/aesni.c.obj	f792d61c3caafb45
+3464	3557	1761038333553787074	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/aesce.c.obj	8b4e8c33937e23c
+3131	3559	1761038333220581094	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_msg.c.obj	3041afd271fe4103
+3417	3562	1761038333507002181	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedx509.dir/x509write_csr.c.obj	a23ecb9c442acc77
+3436	3567	1761038333525687288	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/aes.c.obj	e26f3eab4f278f3e
+3406	3576	1761038333496250154	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedx509.dir/x509write_crt.c.obj	e89406996b9e1315
+3146	3578	1761038333236329380	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_tls12_server.c.obj	d76f0ff172503b2d
+3516	3643	1761038333605719520	esp-idf/bootloader_support/libbootloader_support.a	ad033ea74672ca0f
+3544	3655	1761038333634548314	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/asn1parse.c.obj	e334aa7c1335a8b3
+3579	3658	1761038333668580244	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/bignum_mod_raw.c.obj	bba493a48c2f9285
+3576	3662	1761038333665792133	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/bignum_mod.c.obj	54d0248b1a4c219b
+3559	3676	1761038333648945086	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/base64.c.obj	3293170bcd520592
+3557	3678	1761038333647177985	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/asn1write.c.obj	de7289ac450c6b12
 3286	3679	1761038333375759718	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedx509.dir/x509.c.obj	2c2ed316a02f1770
-1780	1888	1761038331869805824	esp-idf/soc/libsoc.a	53ab492372decb06
-4306	4707	1761038334395654531	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/rsa.c.obj	d6b29e760808e40e
-2695	2754	1761038332785009487	esp-idf/esp_mm/CMakeFiles/__idf_esp_mm.dir/heap_align_hw.c.obj	24fab35550192203
+3484	3683	1761038333574457827	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/aria.c.obj	492ac2065a3dde65
+3655	3716	1761038333744859939	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/block_cipher.c.obj	130953527acf381d
+3658	3726	1761038333747940262	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/camellia.c.obj	dce29dcf64e52980
+3643	3729	1761038333732618856	esp-idf/efuse/libefuse.a	b5d092803e05939e
 3678	3738	1761038333767978591	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/chachapoly.c.obj	f3b583e9a9379e2a
 3676	3739	1761038333766322907	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/chacha20.c.obj	f47c0ada5b26e44c
-6455	7202	1761038336545025567	esp-idf/esp_driver_uart/CMakeFiles/__idf_esp_driver_uart.dir/src/uart.c.obj	37f41f4abb0cede8
-54	240	1761393931022324334	esp-idf/main/CMakeFiles/__idf_main.dir/twai_alert_and_recovery_example_main.c.obj	1333a5cd769e9fc7
 3726	3777	1761038333815792328	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/cmac.c.obj	74cc82e42a38a1d4
-3804	3880	1761038333894076710	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/ecjpake.c.obj	e8182b9433428273
-3680	3860	1761038333769866735	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/cipher.c.obj	6502f6fcece6beb
-3823	3884	1761038333913021445	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/ecp_curves_new.c.obj	4205f71347e63bf3
-3880	4116	1761038333970241403	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/gcm.c.obj	d881b50838192d34
-3563	3906	1761038333652550623	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/bignum.c.obj	7016bdd737a0c322
-46	111	1761396731721212399	bootloader/bootloader.map	98a028a3551e5de5
-3840	3933	1761038333930216953	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/entropy.c.obj	6f78375e51da5690
-5880	6207	1761038335970233749	esp-idf/esp_driver_mcpwm/CMakeFiles/__idf_esp_driver_mcpwm.dir/src/mcpwm_cap.c.obj	869ef27e6957d945
-3800	3943	1761038333890517215	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/ecdsa.c.obj	474cec7df04e3d5e
-1441	1510	1761038331530955037	esp-idf/log/CMakeFiles/__idf_log.dir/src/log_format_text.c.obj	da9ce46fa17161e9
-3943	4024	1761038334033008376	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/md5.c.obj	cb834db72652dace
-2099	2193	1761038332189315290	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/system_time.c.obj	1b461d715140c707
-2469	2538	1761038332558638263	esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/spi_flash_chip_boya.c.obj	2a7a6e96f5b96580
-2205	2265	1761038332295077868	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/arch/xtensa/esp_ipc_isr_handler.S.obj	e354a5d22660dda9
-4027	4102	1761038334117195151	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/pk_ecc.c.obj	35093625bfa72401
-4024	4205	1761038334114099578	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/pk.c.obj	1270dd1be35bc8bf
-4102	4170	1761038334192316375	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/platform.c.obj	28050eeb1eae351b
-4023	4181	1761038334112757606	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/oid.c.obj	db58cf2a0ce67d7e
-6634	6691	1761038336724215811	esp-idf/esp_driver_sdmmc/libesp_driver_sdmmc.a	589c0880a8f10214
-4610	4632	1761038334720834263	bootloader-prefix/src/bootloader-stamp/bootloader-mkdir	6a16a8a58aa618e1
-4171	4259	1761038334261163410	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/psa_crypto_client.c.obj	3aed27ff5153ba99
-4477	4600	1761038334566678691	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/Users/prithul0218/esp/v5.5.1/esp-idf/components/mbedtls/port/bignum/esp_bignum.c.obj	aee9ff77431c67f1
-3144	3484	1761038333234237984	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_tls12_client.c.obj	909d41c602a2d086
-4202	4278	1761038334291730889	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/psa_crypto_ffdh.c.obj	2b630828f3c5689
-6747	7080	1761038336836853125	esp-idf/driver/CMakeFiles/__idf_driver.dir/deprecated/timer_legacy.c.obj	4272c4bd4cf327a1
-4023	4099	1761038334113504030	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/padlock.c.obj	e143311c361e7687
-1473	1535	1761038331563368117	esp-idf/log/CMakeFiles/__idf_log.dir/src/log_level/log_level.c.obj	5c89dd408d80645b
-1919	2016	1761038332009058869	esp-idf/hal/CMakeFiles/__idf_hal.dir/esp32/gpio_hal_workaround.c.obj	99a1460e2bd5eafe
-4205	4305	1761038334295196924	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/psa_crypto_hash.c.obj	21296216db2e1ac6
-5691	5809	1761038335780729193	esp-idf/sdmmc/CMakeFiles/__idf_sdmmc.dir/sdmmc_init.c.obj	256b4403ada9a69e
-2302	2370	1761038332392381902	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/arch/xtensa/debug_stubs.c.obj	3818f9205344b392
-4263	4327	1761038334353384392	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/psa_crypto_se.c.obj	b959c1bb960d411c
-4904	5064	1761038334994461886	esp-idf/mbedtls/mbedtls/library/libmbedcrypto.a	b812feb5d347d263
-4490	4610	1761038334580347497	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/Users/prithul0218/esp/v5.5.1/esp-idf/components/mbedtls/port/sha/parallel_engine/esp_sha256.c.obj	76ea7da965e07ac1
-4632	4653	1761038334741694601	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-download	669ef3b55c1f250e
-4289	4360	1761038334378850193	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/psa_crypto_storage.c.obj	109c523a970c9558
-5583	5819	1761038335673888395	esp-idf/sdmmc/CMakeFiles/__idf_sdmmc.dir/sdmmc_common.c.obj	b0a138ef9595bcec
-4328	4392	1761038334417546088	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/sha1.c.obj	d24451de67cfd19e
-1586	1730	1761038331675809805	esp-idf/hal/CMakeFiles/__idf_hal.dir/spi_flash_hal_iram.c.obj	c598f721b7f7493b
-4246	4325	1761038334336466761	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/psa_crypto_pake.c.obj	8d69fc2170aa9e5f
-2155	2305	1761038332244576770	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/esp_system_chip.c.obj	bca88497295868aa
-1938	2028	1761038332027711142	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_print.c.obj	958215b762f44d8a
-1262	1312	1761038331352486801	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/i2c_periph.c.obj	5f845ee828b2bfa1
-6190	6380	1761038336279696071	esp-idf/esp_driver_sdspi/CMakeFiles/__idf_esp_driver_sdspi.dir/src/sdspi_host.c.obj	b61682efb3d6ec9f
-46	111	1761396731721212399	bootloader/bootloader.bin	98a028a3551e5de5
-4363	4414	1761038334453360370	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/sha3.c.obj	b9fcfd17a79f0cac
-1281	1334	1761038331370824488	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/mpi_periph.c.obj	fd5784466761b1a0
-3957	4024	1761038334047750776	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/memory_buffer_alloc.c.obj	4b77f94e967a2532
-4259	4414	1761038334348828679	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/psa_crypto_rsa.c.obj	d53504e3b0efeda
-4407	4473	1761038334497249359	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/version.c.obj	ddc7f90a04db2811
-6212	6364	1761038336301955298	esp-idf/esp_driver_dac/CMakeFiles/__idf_esp_driver_dac.dir/dac_cosine.c.obj	d39ddfcbd7ab1ec2
-6658	6720	1761038336747629799	esp-idf/esp_driver_sdspi/libesp_driver_sdspi.a	febcb812106da557
-5830	5976	1761038335919997904	esp-idf/esp_driver_gptimer/CMakeFiles/__idf_esp_driver_gptimer.dir/src/gptimer_common.c.obj	62b8d161a7a44707
-16	3783	1761409175999646908	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/newlib/cmake_install.cmake	425eb24419bbd06e
-3809	4490	1761038333898880675	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/ecp.c.obj	8cd050ed19699b81
-6207	6338	1761038336297025164	esp-idf/esp_driver_dac/CMakeFiles/__idf_esp_driver_dac.dir/dac_oneshot.c.obj	55085502fca9218c
-1525	1599	1761038331614560889	esp-idf/hal/CMakeFiles/__idf_hal.dir/mpu_hal.c.obj	f59f9fa9ce03537e
-3110	3223	1761038333199818258	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_ciphersuites.c.obj	8e51f4e8e003ee5
-5411	5933	1761038335501246927	esp-idf/esp_driver_i2s/CMakeFiles/__idf_esp_driver_i2s.dir/i2s_pdm.c.obj	2bfd7e53ddeaab30
-3057	3146	1761038333146971302	esp-idf/esp_app_format/CMakeFiles/__idf_esp_app_format.dir/esp_app_desc.c.obj	12a286eb593cc764
-4426	4492	1761038334516211635	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/Users/prithul0218/esp/v5.5.1/esp-idf/components/mbedtls/port/aes/esp_aes_common.c.obj	2cc95a00327ea38b
-3544	3655	1761038333634548314	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/asn1parse.c.obj	e334aa7c1335a8b3
-5843	5908	1761038335933168788	esp-idf/esp_ringbuf/libesp_ringbuf.a	c648a3cb26223e72
-11160	11183	1761038341250232116	CMakeFiles/CAN.elf.dir/project_elf_src_esp32.c.obj	233df794466e11dc
-6848	7312	1761038336938499620	esp-idf/driver/CMakeFiles/__idf_driver.dir/deprecated/mcpwm_legacy.c.obj	3391e222b4bd36c
-4594	4660	1761038334683674718	esp-idf/mbedtls/mbedtls/3rdparty/everest/CMakeFiles/everest.dir/library/everest.c.obj	973f42f883cce2d
-4669	4684	1761038334772922752	bootloader-prefix/src/bootloader-stamp/bootloader-patch	c3535640c6757033
-7312	7369	1761038337401854135	esp-idf/driver/libdriver.a	6b72e120a2a43402
-5093	5123	1761038335182765014	esp-idf/mbedtls/mbedtls/3rdparty/everest/libeverest.a	788b24644fc774f8
-3105	3234	1761038333194869374	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_cache.c.obj	257e946a207ef8c0
-753	866	1761038330842487435	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/esp_clk_tree.c.obj	8f7fba132436f5bb
-5252	5332	1761038335420527396	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/x509_crt_bundle.S	e92982caa5513305
-5334	5394	1761038335423649427	esp-idf/xtensa/CMakeFiles/__idf_xtensa.dir/xtensa_vectors.S.obj	6cf233838c4ef247
-5976	6310	1761038336065695472	esp-idf/esp_driver_mcpwm/CMakeFiles/__idf_esp_driver_mcpwm.dir/src/mcpwm_gen.c.obj	43aea9ed9f5b512a
-4669	4684	1761038334772922752	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch	c3535640c6757033
-6325	6480	1761038336414918408	esp-idf/esp_driver_rmt/CMakeFiles/__idf_esp_driver_rmt.dir/src/rmt_encoder_bytes.c.obj	c7306dd01b7dd550
-5332	5412	1761038335422338206	esp-idf/xtensa/CMakeFiles/__idf_xtensa.dir/xt_trax.c.obj	6f0a9291b9b53e8e
+3716	3795	1761038333806384649	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/constant_time.c.obj	dad6bca4d274d005
+3739	3800	1761038333829375800	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/des.c.obj	9b93e1e510e6f330
+3662	3804	1761038333752524559	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/ccm.c.obj	38e58c1310af456f
+3683	3809	1761038333773016517	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/cipher_wrap.c.obj	f327dac781bcc7d2
 3729	3809	1761038333818870485	esp-idf/esp_partition/libesp_partition.a	c84f7333ab826076
-16	3783	1761409175932551599	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/mbedtls/mbedtls/3rdparty/cmake_install.cmake	425eb24419bbd06e
-4481	4660	1761038334570708399	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/Users/prithul0218/esp/v5.5.1/esp-idf/components/mbedtls/port/sha/parallel_engine/esp_sha1.c.obj	e82fc6f3de30b01f
-6575	6634	1761038336665383044	esp-idf/esp_driver_pcnt/libesp_driver_pcnt.a	9fc8f0195073cfc0
-6692	6753	1761038336782497488	esp-idf/esp_driver_sdm/libesp_driver_sdm.a	5e9147e66e5c1d4d
-5680	5748	1761038335770439296	esp-idf/mbedtls/libmbedtls.a	e8bd436559a8580f
-4305	4367	1761038334394989525	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/ripemd160.c.obj	db6c66859802c3b7
-4684	7977	1761038338066519452	bootloader-prefix/src/bootloader-stamp/bootloader-configure	df16630ad7b257ac
-4474	4593	1761038334563982747	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/Users/prithul0218/esp/v5.5.1/esp-idf/components/mbedtls/port/sha/parallel_engine/sha.c.obj	cf1ef2bb697a010c
-5334	5787	1761038335423899430	esp-idf/esp_ringbuf/CMakeFiles/__idf_esp_ringbuf.dir/ringbuf.c.obj	7d6d904d50eb0013
-5399	5733	1761038335489479932	esp-idf/esp_driver_i2s/CMakeFiles/__idf_esp_driver_i2s.dir/i2s_std.c.obj	4f49931cf7890d27
-16	3783	1761409176005222468	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_pm/cmake_install.cmake	425eb24419bbd06e
-5392	5830	1761038335482346651	esp-idf/esp_driver_spi/CMakeFiles/__idf_esp_driver_spi.dir/src/gpspi/spi_slave.c.obj	834846a762839108
-257	3162	1761396734818637817	esp-idf/esp_system/ld/sections.ld	c28e19ec5b5b000
-16	3783	1761409176012649327	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_driver_mcpwm/cmake_install.cmake	425eb24419bbd06e
-7073	7185	1761038337163020867	esp-idf/driver/CMakeFiles/__idf_driver.dir/deprecated/adc_i2s_deprecated.c.obj	99d69b166c78854d
-16	3783	1761409176036873533	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/driver/cmake_install.cmake	425eb24419bbd06e
-2016	2130	1761038332106093941	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/crosscore_int.c.obj	71d3be0fbd8b535d
-46	111	1761396731721212399	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.bin	98a028a3551e5de5
-5252	5332	1761038335420527396	x509_crt_bundle.S	e92982caa5513305
-5748	5843	1761038335838469198	esp-idf/xtensa/libxtensa.a	61653101c2838097
-5399	6184	1761038335489150637	esp-idf/esp_driver_i2s/CMakeFiles/__idf_esp_driver_i2s.dir/i2s_common.c.obj	81a54d7daa9ad01f
-5335	5874	1761038335424568187	esp-idf/esp_driver_spi/CMakeFiles/__idf_esp_driver_spi.dir/src/gpspi/spi_master.c.obj	5df5075e7bb05fbe
-2696	2809	1761038332786140249	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_common.c.obj	adac7de7477d516f
-6694	6877	1761038336784457300	esp-idf/driver/CMakeFiles/__idf_driver.dir/deprecated/adc_legacy.c.obj	22ff0701551443b1
-6198	6325	1761038336288151032	esp-idf/esp_driver_sdspi/CMakeFiles/__idf_esp_driver_sdspi.dir/src/sdspi_transaction.c.obj	3806e385684fc3c8
-5809	5880	1761038335899257984	esp-idf/sdmmc/CMakeFiles/__idf_sdmmc.dir/sd_pwr_ctrl/sd_pwr_ctrl.c.obj	96d0cabae0c31bd
-1322	1370	1761038331411752321	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/power_supply_periph.c.obj	2ddd5624892181c5
-1052	1139	1761038331141865904	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/chip_info.c.obj	a748e7c7de378d2f
+3567	3817	1761038333656996960	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/bignum_core.c.obj	8b7eafcdcce05076
+3306	3823	1761038333396128759	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedx509.dir/x509_crt.c.obj	cd084c4de2ab5aea
 3777	3840	1761038333866821307	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/dhm.c.obj	51579a1cf3f840d7
-16	3783	1761409175934256480	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/mbedtls/mbedtls/3rdparty/everest/cmake_install.cmake	425eb24419bbd06e
-121	142	1761396731816419000	bootloader-prefix/src/bootloader-stamp/bootloader-done	b86f8d76df802e20
-5787	5993	1761038335876837172	esp-idf/sdmmc/CMakeFiles/__idf_sdmmc.dir/sdmmc_mmc.c.obj	8d269e8b2641bb57
+3739	3856	1761038333829009755	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/ctr_drbg.c.obj	464340cdbfe5a861
+3810	3858	1761038333899574391	esp-idf/app_update/libapp_update.a	ac1a591c3d4fd192
+3680	3860	1761038333769866735	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/cipher.c.obj	6502f6fcece6beb
+3804	3880	1761038333894076710	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/ecjpake.c.obj	e8182b9433428273
+3823	3884	1761038333913021445	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/ecp_curves_new.c.obj	4205f71347e63bf3
+3563	3906	1761038333652550623	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/bignum.c.obj	7016bdd737a0c322
+3858	3912	1761038333948019760	esp-idf/esp_bootloader_format/libesp_bootloader_format.a	b714af19e38ca255
+3857	3917	1761038333946614204	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/entropy_poll.c.obj	4bb25286739dd42d
+3795	3924	1761038333885124660	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/ecdh.c.obj	4a5eef6fd4659678
+3840	3933	1761038333930216953	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/entropy.c.obj	6f78375e51da5690
+3800	3943	1761038333890517215	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/ecdsa.c.obj	474cec7df04e3d5e
+3884	3957	1761038333973945691	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/hkdf.c.obj	be11e17aa9e9f70d
+3912	3959	1761038334002109270	esp-idf/esp_app_format/libesp_app_format.a	cbe6000f45a8dda3
+3134	4007	1761038333223704709	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_tls.c.obj	a5924dbf7d5d89ee
+3906	4022	1761038333996133125	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/hmac_drbg.c.obj	fcec9289d67f1ff7
+3959	4023	1761038334048697703	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/nist_kw.c.obj	6af619bb3095fade
+3943	4024	1761038334033008376	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/md5.c.obj	cb834db72652dace
+3957	4024	1761038334047750776	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/memory_buffer_alloc.c.obj	4b77f94e967a2532
+3863	4027	1761038333953078145	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/error.c.obj	7248ba75bcfbd581
+3917	4035	1761038334006751108	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/lmots.c.obj	b37084cb7868bfcc
+3933	4049	1761038334022576811	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/md.c.obj	9591813c0610f986
+3924	4051	1761038334014124600	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/lms.c.obj	7ecfb8b90dd88f13
+4007	4098	1761038334097098071	esp-idf/mbedtls/mbedtls/library/libmbedtls.a	2e7260cf7b48601
+4023	4099	1761038334113504030	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/padlock.c.obj	e143311c361e7687
+4027	4102	1761038334117195151	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/pk_ecc.c.obj	35093625bfa72401
+3880	4116	1761038333970241403	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/gcm.c.obj	d881b50838192d34
 4035	4145	1761038334125077940	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/pk_wrap.c.obj	48801fdad598988
-16	3783	1761409176009159982	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_driver_gptimer/cmake_install.cmake	425eb24419bbd06e
-3452	3569	1761396735244157572	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/.bin_timestamp	815a3f990e74d06a
-5993	6189	1761038336082911148	esp-idf/esp_driver_mcpwm/CMakeFiles/__idf_esp_driver_mcpwm.dir/src/mcpwm_sync.c.obj	7434ac9395e19010
-6258	6382	1761038336348446022	esp-idf/esp_driver_dac/CMakeFiles/__idf_esp_driver_dac.dir/dac_common.c.obj	525876bf26729cfa
-6128	6202	1761038336218018317	esp-idf/sdmmc/libsdmmc.a	a56a2ec3bc6cc97b
+4024	4151	1761038334113845492	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/pem.c.obj	f2e57f135d8c704b
+4049	4169	1761038334139354335	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/pkcs12.c.obj	1cfc169769e0571c
+4102	4170	1761038334192316375	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/platform.c.obj	28050eeb1eae351b
+4051	4171	1761038334141020977	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/pkcs5.c.obj	981fec1df3d70cc1
 4116	4172	1761038334205608386	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/platform_util.c.obj	e8f726292497df80
-6714	6848	1761038336804027958	esp-idf/driver/CMakeFiles/__idf_driver.dir/deprecated/dac_common_legacy.c.obj	bc0e23bfc5481ef7
-6275	6406	1761038336364691145	esp-idf/esp_driver_rmt/CMakeFiles/__idf_esp_driver_rmt.dir/src/rmt_common.c.obj	fb3148cf786e7835
-3121	3232	1761038333210584326	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedtls.dir/ssl_debug_helpers_generated.c.obj	97cf8858c7fe82f8
-6991	7047	1761038337080850488	esp-idf/esp_driver_i2c/libesp_driver_i2c.a	8586e4026354e4eb
-5123	5252	1761038335332416581	esp-idf/mbedtls/x509_crt_bundle	4df8e20cf230f63d
-4424	4499	1761038334513886403	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/Users/prithul0218/esp/v5.5.1/esp-idf/components/mbedtls/port/aes/esp_aes_xts.c.obj	b197a9b71e85bd24
+4023	4181	1761038334112757606	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/oid.c.obj	db58cf2a0ce67d7e
+4145	4202	1761038334235117770	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/poly1305.c.obj	ba35c76997b64cea
+4024	4205	1761038334114099578	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/pk.c.obj	1270dd1be35bc8bf
+3817	4233	1761038333907261844	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/ecp_curves.c.obj	3194d21a8aff2437
+4099	4246	1761038334189532930	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/pkwrite.c.obj	f2d398c688824aef
+4171	4259	1761038334261163410	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/psa_crypto_client.c.obj	3aed27ff5153ba99
+4172	4263	1761038334261669457	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/psa_crypto_driver_wrappers_no_static.c.obj	32f42a95e0c1b04a
+4202	4278	1761038334291730889	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/psa_crypto_ffdh.c.obj	2b630828f3c5689
+4169	4289	1761038334258941971	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/psa_crypto_aead.c.obj	347045fa77c6edf6
+4098	4300	1761038334188217250	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/pkparse.c.obj	247af83ff9031f38
+4170	4301	1761038334260289652	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/psa_crypto_cipher.c.obj	8085384eb0a0488c
+4205	4305	1761038334295196924	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/psa_crypto_hash.c.obj	21296216db2e1ac6
+4181	4306	1761038334271143845	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/psa_crypto_ecp.c.obj	d5df536416f14c6d
+4246	4325	1761038334336466761	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/psa_crypto_pake.c.obj	8d69fc2170aa9e5f
+4263	4327	1761038334353384392	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/psa_crypto_se.c.obj	b959c1bb960d411c
+4233	4349	1761038334323509338	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/psa_crypto_mac.c.obj	30128a9b5e93cea3
+4289	4360	1761038334378850193	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/psa_crypto_storage.c.obj	109c523a970c9558
+4300	4363	1761038334390219684	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/psa_its_file.c.obj	59ade2a74218a6c5
+4305	4367	1761038334394989525	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/ripemd160.c.obj	db6c66859802c3b7
+4328	4392	1761038334417546088	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/sha1.c.obj	d24451de67cfd19e
+4325	4407	1761038334415016062	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/rsa_alt_helpers.c.obj	6598fbf6e115c8b4
+4301	4413	1761038334390644480	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/psa_util.c.obj	321a02455d2db5a8
+4363	4414	1761038334453360370	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/sha3.c.obj	b9fcfd17a79f0cac
+4259	4414	1761038334348828679	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/psa_crypto_rsa.c.obj	d53504e3b0efeda
+4278	4421	1761038334368188501	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/psa_crypto_slot_management.c.obj	6f5b72bb34f8b8ef
+4367	4424	1761038334457065782	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/threading.c.obj	c4821b75a45a2b6
+4349	4426	1761038334439337852	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/sha256.c.obj	74de3c073b03a595
+4360	4437	1761038334450125295	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/sha512.c.obj	25ab32c7d79f387
+4407	4473	1761038334497249359	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/version.c.obj	ddc7f90a04db2811
 4392	4474	1761038334481748617	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/timing.c.obj	15c67bab6739abab
-5332	5399	1761038335422000327	esp-idf/mbedtls/CMakeFiles/__idf_mbedtls.dir/__/__/x509_crt_bundle.S.obj	e18e5198c90f52ab
-2753	2830	1761038332842550199	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_random.c.obj	316d641b15562fd7
-3570	3607	1761396735244887906	esp-idf/esptool_py/CMakeFiles/app_check_size	d42effb130342287
+4413	4477	1761038334503420672	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/version_features.c.obj	cd424b6b850dc75c
+4414	4480	1761038334504165138	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/Users/prithul0218/esp/v5.5.1/esp-idf/components/mbedtls/port/esp_mem.c.obj	9ca6810f732f17c
+4414	4481	1761038334503809342	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/Users/prithul0218/esp/v5.5.1/esp-idf/components/mbedtls/port/esp_hardware.c.obj	3cffc15e3069ba13
+3809	4490	1761038333898880675	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/ecp.c.obj	8cd050ed19699b81
+4426	4492	1761038334516211635	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/Users/prithul0218/esp/v5.5.1/esp-idf/components/mbedtls/port/aes/esp_aes_common.c.obj	2cc95a00327ea38b
+4421	4494	1761038334511194834	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/Users/prithul0218/esp/v5.5.1/esp-idf/components/mbedtls/port/esp_timing.c.obj	3af09821e0ce1b3c
+4424	4499	1761038334513886403	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/Users/prithul0218/esp/v5.5.1/esp-idf/components/mbedtls/port/aes/esp_aes_xts.c.obj	b197a9b71e85bd24
+4480	4556	1761038334570381604	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/Users/prithul0218/esp/v5.5.1/esp-idf/components/mbedtls/port/bignum/bignum_alt.c.obj	6e70d3766c03dc5e
+4473	4567	1761038334562929612	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/Users/prithul0218/esp/v5.5.1/esp-idf/components/mbedtls/port/sha/esp_sha.c.obj	40543cb4cc2fb5a0
+4500	4581	1761038334589629884	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/Users/prithul0218/esp/v5.5.1/esp-idf/components/mbedtls/port/md/esp_md.c.obj	6ea48fbbf9328e8c
+4474	4593	1761038334563982747	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/Users/prithul0218/esp/v5.5.1/esp-idf/components/mbedtls/port/sha/parallel_engine/sha.c.obj	cf1ef2bb697a010c
+4477	4600	1761038334566678691	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/Users/prithul0218/esp/v5.5.1/esp-idf/components/mbedtls/port/bignum/esp_bignum.c.obj	aee9ff77431c67f1
+4437	4608	1761038334526722826	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/Users/prithul0218/esp/v5.5.1/esp-idf/components/mbedtls/port/aes/block/esp_aes.c.obj	236eba7b24f752be
+4490	4610	1761038334580347497	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/Users/prithul0218/esp/v5.5.1/esp-idf/components/mbedtls/port/sha/parallel_engine/esp_sha256.c.obj	76ea7da965e07ac1
+4494	4616	1761038334584274621	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/Users/prithul0218/esp/v5.5.1/esp-idf/components/mbedtls/port/aes/esp_aes_gcm.c.obj	3938342c3b9509a8
+4556	4625	1761038334646344670	esp-idf/mbedtls/mbedtls/library/libmbedx509.a	64088bf67952cf58
+4610	4632	1761038334720834263	bootloader-prefix/src/bootloader-stamp/bootloader-mkdir	6a16a8a58aa618e1
+4610	4632	1761038334720834263	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir	6a16a8a58aa618e1
+4492	4642	1761038334581906263	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/Users/prithul0218/esp/v5.5.1/esp-idf/components/mbedtls/port/sha/parallel_engine/esp_sha512.c.obj	31972a1e4bbc768c
+4581	4649	1761038334671267299	esp-idf/mbedtls/mbedtls/3rdparty/p256-m/CMakeFiles/p256m.dir/p256-m/p256-m.c.obj	6015ab957dd276ce
+4632	4653	1761038334741694601	bootloader-prefix/src/bootloader-stamp/bootloader-download	669ef3b55c1f250e
+4632	4653	1761038334741694601	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-download	669ef3b55c1f250e
 4600	4655	1761038334690452787	esp-idf/mbedtls/mbedtls/3rdparty/everest/CMakeFiles/everest.dir/library/x25519.c.obj	c4378449f875f0dc
+4567	4657	1761038334657095196	esp-idf/mbedtls/mbedtls/3rdparty/p256-m/CMakeFiles/p256m.dir/p256-m_driver_entrypoints.c.obj	8ce726b8bbe813bb
+4481	4660	1761038334570708399	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/Users/prithul0218/esp/v5.5.1/esp-idf/components/mbedtls/port/sha/parallel_engine/esp_sha1.c.obj	e82fc6f3de30b01f
+4594	4660	1761038334683674718	esp-idf/mbedtls/mbedtls/3rdparty/everest/CMakeFiles/everest.dir/library/everest.c.obj	973f42f883cce2d
+4608	4661	1761038334697750361	esp-idf/mbedtls/mbedtls/3rdparty/everest/CMakeFiles/everest.dir/library/Hacl_Curve25519_joined.c.obj	7eda2d7447e999a9
+4653	4669	1761038334758126060	bootloader-prefix/src/bootloader-stamp/bootloader-update	2f997719d6d9a2ba
+4653	4669	1761038334758126060	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-update	2f997719d6d9a2ba
+4669	4684	1761038334772922752	bootloader-prefix/src/bootloader-stamp/bootloader-patch	c3535640c6757033
+4669	4684	1761038334772922752	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch	c3535640c6757033
+4306	4707	1761038334395654531	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/rsa.c.obj	d6b29e760808e40e
+4151	4904	1761038334241134290	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/psa_crypto.c.obj	97cf2cfc165157f9
+4904	5064	1761038334994461886	esp-idf/mbedtls/mbedtls/library/libmbedcrypto.a	b812feb5d347d263
+5064	5093	1761038335154033137	esp-idf/mbedtls/mbedtls/3rdparty/p256-m/libp256m.a	77e8a0c115be67d
+5093	5123	1761038335182765014	esp-idf/mbedtls/mbedtls/3rdparty/everest/libeverest.a	788b24644fc774f8
+5123	5252	1761038335332416581	esp-idf/mbedtls/x509_crt_bundle	4df8e20cf230f63d
+5123	5252	1761038335332416581	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/mbedtls/x509_crt_bundle	4df8e20cf230f63d
+5252	5332	1761038335420527396	x509_crt_bundle.S	e92982caa5513305
+5252	5332	1761038335420527396	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/x509_crt_bundle.S	e92982caa5513305
+5333	5392	1761038335422640501	esp-idf/xtensa/CMakeFiles/__idf_xtensa.dir/xtensa_intr_asm.S.obj	3f78aa6012491992
+5334	5394	1761038335423649427	esp-idf/xtensa/CMakeFiles/__idf_xtensa.dir/xtensa_vectors.S.obj	6cf233838c4ef247
+5332	5399	1761038335422000327	esp-idf/mbedtls/CMakeFiles/__idf_mbedtls.dir/__/__/x509_crt_bundle.S.obj	e18e5198c90f52ab
+5332	5399	1761038335422174621	esp-idf/xtensa/CMakeFiles/__idf_xtensa.dir/eri.c.obj	38d156ca87a57bbf
+5332	5411	1761038335422492249	esp-idf/xtensa/CMakeFiles/__idf_xtensa.dir/xtensa_context.S.obj	82f48bebc69c6288
+5332	5412	1761038335422338206	esp-idf/xtensa/CMakeFiles/__idf_xtensa.dir/xt_trax.c.obj	6f0a9291b9b53e8e
+5333	5440	1761038335422793461	esp-idf/xtensa/CMakeFiles/__idf_xtensa.dir/xtensa_intr.c.obj	cae88e2cd656dd9c
+5396	5582	1761038335486233482	esp-idf/esp_driver_spi/CMakeFiles/__idf_esp_driver_spi.dir/src/gpspi/spi_dma.c.obj	d569b4b573e0a622
+5332	5680	1761038335421726325	esp-idf/mbedtls/CMakeFiles/__idf_mbedtls.dir/esp_crt_bundle/esp_crt_bundle.c.obj	4dbafca3b9b63421
+5412	5691	1761038335501635848	esp-idf/esp_driver_i2s/CMakeFiles/__idf_esp_driver_i2s.dir/i2s_platform.c.obj	ff0c1b971f810980
+5399	5733	1761038335489479932	esp-idf/esp_driver_i2s/CMakeFiles/__idf_esp_driver_i2s.dir/i2s_std.c.obj	4f49931cf7890d27
+5680	5748	1761038335770439296	esp-idf/mbedtls/libmbedtls.a	e8bd436559a8580f
+5334	5787	1761038335423899430	esp-idf/esp_ringbuf/CMakeFiles/__idf_esp_ringbuf.dir/ringbuf.c.obj	7d6d904d50eb0013
+5334	5808	1761038335424243808	esp-idf/esp_driver_spi/CMakeFiles/__idf_esp_driver_spi.dir/src/gpspi/spi_common.c.obj	74d200857001f750
+5691	5809	1761038335780729193	esp-idf/sdmmc/CMakeFiles/__idf_sdmmc.dir/sdmmc_init.c.obj	256b4403ada9a69e
+5583	5819	1761038335673888395	esp-idf/sdmmc/CMakeFiles/__idf_sdmmc.dir/sdmmc_common.c.obj	b0a138ef9595bcec
+5440	5823	1761038335530173222	esp-idf/sdmmc/CMakeFiles/__idf_sdmmc.dir/sdmmc_cmd.c.obj	dab9cbe22e0dc401
+5392	5830	1761038335482346651	esp-idf/esp_driver_spi/CMakeFiles/__idf_esp_driver_spi.dir/src/gpspi/spi_slave.c.obj	834846a762839108
+5748	5843	1761038335838469198	esp-idf/xtensa/libxtensa.a	61653101c2838097
+5335	5874	1761038335424568187	esp-idf/esp_driver_spi/CMakeFiles/__idf_esp_driver_spi.dir/src/gpspi/spi_master.c.obj	5df5075e7bb05fbe
+5809	5880	1761038335899257984	esp-idf/sdmmc/CMakeFiles/__idf_sdmmc.dir/sd_pwr_ctrl/sd_pwr_ctrl.c.obj	96d0cabae0c31bd
+5843	5908	1761038335933168788	esp-idf/esp_ringbuf/libesp_ringbuf.a	c648a3cb26223e72
+5411	5933	1761038335501246927	esp-idf/esp_driver_i2s/CMakeFiles/__idf_esp_driver_i2s.dir/i2s_pdm.c.obj	2bfd7e53ddeaab30
+5874	5946	1761038335963798976	esp-idf/esp_driver_spi/libesp_driver_spi.a	55d595252364cef1
+5830	5976	1761038335919997904	esp-idf/esp_driver_gptimer/CMakeFiles/__idf_esp_driver_gptimer.dir/src/gptimer_common.c.obj	62b8d161a7a44707
+5733	5990	1761038335823510754	esp-idf/sdmmc/CMakeFiles/__idf_sdmmc.dir/sdmmc_io.c.obj	6293c26bb499b319
+5787	5993	1761038335876837172	esp-idf/sdmmc/CMakeFiles/__idf_sdmmc.dir/sdmmc_mmc.c.obj	8d269e8b2641bb57
+5823	6026	1761038335912730788	esp-idf/esp_driver_gptimer/CMakeFiles/__idf_esp_driver_gptimer.dir/src/gptimer.c.obj	7a0f3fd96f32ab0
+5933	6050	1761038336023229206	esp-idf/esp_driver_mcpwm/CMakeFiles/__idf_esp_driver_mcpwm.dir/src/mcpwm_com.c.obj	137daaa762efa2ac
+5908	6068	1761038335997980616	esp-idf/esp_driver_mcpwm/CMakeFiles/__idf_esp_driver_mcpwm.dir/src/mcpwm_cmpr.c.obj	829fcacb798b4435
+5808	6128	1761038335898324141	esp-idf/sdmmc/CMakeFiles/__idf_sdmmc.dir/sdmmc_sd.c.obj	15a1495f0cde409b
+5946	6148	1761038336036543592	esp-idf/esp_driver_mcpwm/CMakeFiles/__idf_esp_driver_mcpwm.dir/src/mcpwm_fault.c.obj	59dbd079902486fd
+5399	6184	1761038335489150637	esp-idf/esp_driver_i2s/CMakeFiles/__idf_esp_driver_i2s.dir/i2s_common.c.obj	81a54d7daa9ad01f
+5993	6189	1761038336082911148	esp-idf/esp_driver_mcpwm/CMakeFiles/__idf_esp_driver_mcpwm.dir/src/mcpwm_sync.c.obj	7434ac9395e19010
+6148	6198	1761038336237987354	esp-idf/esp_driver_sdspi/CMakeFiles/__idf_esp_driver_sdspi.dir/src/sdspi_crc.c.obj	5b50f623dba31857
+6128	6202	1761038336218018317	esp-idf/sdmmc/libsdmmc.a	a56a2ec3bc6cc97b
+5880	6207	1761038335970233749	esp-idf/esp_driver_mcpwm/CMakeFiles/__idf_esp_driver_mcpwm.dir/src/mcpwm_cap.c.obj	869ef27e6957d945
+6050	6212	1761038336140398276	esp-idf/esp_driver_sdmmc/CMakeFiles/__idf_esp_driver_sdmmc.dir/src/sdmmc_transaction.c.obj	bf07ba07b4484f28
+6184	6253	1761038336273773927	esp-idf/esp_driver_i2s/libesp_driver_i2s.a	67ca1080e0439cf5
+5819	6258	1761038335909366629	esp-idf/esp_driver_pcnt/CMakeFiles/__idf_esp_driver_pcnt.dir/src/pulse_cnt.c.obj	64b703a99aefced6
+6026	6270	1761038336115670232	esp-idf/esp_driver_mcpwm/CMakeFiles/__idf_esp_driver_mcpwm.dir/src/mcpwm_timer.c.obj	3b81ac443f92d424
+5990	6275	1761038336080242746	esp-idf/esp_driver_mcpwm/CMakeFiles/__idf_esp_driver_mcpwm.dir/src/mcpwm_oper.c.obj	7ad907973687dcbe
+5976	6310	1761038336065695472	esp-idf/esp_driver_mcpwm/CMakeFiles/__idf_esp_driver_mcpwm.dir/src/mcpwm_gen.c.obj	43aea9ed9f5b512a
+6198	6325	1761038336288151032	esp-idf/esp_driver_sdspi/CMakeFiles/__idf_esp_driver_sdspi.dir/src/sdspi_transaction.c.obj	3806e385684fc3c8
+6207	6338	1761038336297025164	esp-idf/esp_driver_dac/CMakeFiles/__idf_esp_driver_dac.dir/dac_oneshot.c.obj	55085502fca9218c
+6212	6364	1761038336301955298	esp-idf/esp_driver_dac/CMakeFiles/__idf_esp_driver_dac.dir/dac_cosine.c.obj	d39ddfcbd7ab1ec2
+6190	6380	1761038336279696071	esp-idf/esp_driver_sdspi/CMakeFiles/__idf_esp_driver_sdspi.dir/src/sdspi_host.c.obj	b61682efb3d6ec9f
+6258	6382	1761038336348446022	esp-idf/esp_driver_dac/CMakeFiles/__idf_esp_driver_dac.dir/dac_common.c.obj	525876bf26729cfa
+6275	6406	1761038336364691145	esp-idf/esp_driver_rmt/CMakeFiles/__idf_esp_driver_rmt.dir/src/rmt_common.c.obj	fb3148cf786e7835
 6202	6409	1761038336292155573	esp-idf/esp_driver_sdio/CMakeFiles/__idf_esp_driver_sdio.dir/src/sdio_slave.c.obj	74de0791bc03d88a
 6310	6447	1761038336400385718	esp-idf/esp_driver_rmt/CMakeFiles/__idf_esp_driver_rmt.dir/src/rmt_encoder.c.obj	9e47f177b4d323da
-3417	3562	1761038333507002181	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedx509.dir/x509write_csr.c.obj	a23ecb9c442acc77
-4172	4263	1761038334261669457	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/psa_crypto_driver_wrappers_no_static.c.obj	32f42a95e0c1b04a
-4170	4301	1761038334260289652	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/psa_crypto_cipher.c.obj	8085384eb0a0488c
-6026	6270	1761038336115670232	esp-idf/esp_driver_mcpwm/CMakeFiles/__idf_esp_driver_mcpwm.dir/src/mcpwm_timer.c.obj	3b81ac443f92d424
-16	3783	1761409175994330015	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_hw_support/lowpower/cmake_install.cmake	425eb24419bbd06e
-6720	6810	1761038336809892226	esp-idf/driver/CMakeFiles/__idf_driver.dir/deprecated/esp32/dac_legacy.c.obj	2d33202d2be0be3a
-16	3783	1761409175972948860	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_system/port/cmake_install.cmake	425eb24419bbd06e
-6702	6863	1761038336792388922	esp-idf/driver/CMakeFiles/__idf_driver.dir/deprecated/adc_dma_legacy.c.obj	b8b0c20835682a2a
-6573	6891	1761038336663230897	esp-idf/esp_driver_twai/CMakeFiles/__idf_esp_driver_twai.dir/esp_twai_onchip.c.obj	8727c12d2bd21135
 6270	6450	1761038336359839596	esp-idf/esp_driver_dac/CMakeFiles/__idf_esp_driver_dac.dir/esp32/dac_dma.c.obj	d4034e281fe5da37
-2011	2079	1761038332100598760	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/esp_err.c.obj	eb423e973bd1a3fc
-2658	2757	1761038332747891192	esp-idf/esp_mm/CMakeFiles/__idf_esp_mm.dir/esp_cache_utils.c.obj	2904cd53933f8393
-4099	4246	1761038334189532930	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/pkwrite.c.obj	f2d398c688824aef
-46	111	1761396731721212399	bootloader-prefix/src/bootloader-stamp/bootloader-build	98a028a3551e5de5
-16	3783	1761409175976508622	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_rom/cmake_install.cmake	425eb24419bbd06e
-2538	2753	1761038332628341265	esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/esp_flash_spi_init.c.obj	e64a87bc93937071
-5946	6148	1761038336036543592	esp-idf/esp_driver_mcpwm/CMakeFiles/__idf_esp_driver_mcpwm.dir/src/mcpwm_fault.c.obj	59dbd079902486fd
-4414	4480	1761038334504165138	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/Users/prithul0218/esp/v5.5.1/esp-idf/components/mbedtls/port/esp_mem.c.obj	9ca6810f732f17c
-6691	6747	1761038336781143766	esp-idf/esp_driver_dac/libesp_driver_dac.a	8a23ac8fc8272f25
-4494	4616	1761038334584274621	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/Users/prithul0218/esp/v5.5.1/esp-idf/components/mbedtls/port/aes/esp_aes_gcm.c.obj	3938342c3b9509a8
-2533	2621	1761038332623430382	esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/spi_flash_wrap.c.obj	9589a2312308df3
-2877	2976	1761038332967174011	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_sha.c.obj	2431ac2ea34510ca
-4632	4653	1761038334741694601	bootloader-prefix/src/bootloader-stamp/bootloader-download	669ef3b55c1f250e
-16	3783	1761409176007809769	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_driver_pcnt/cmake_install.cmake	425eb24419bbd06e
-6877	7308	1761038336967194996	esp-idf/driver/CMakeFiles/__idf_driver.dir/deprecated/rmt_legacy.c.obj	225eadea8b916a6
-4024	4151	1761038334113845492	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/pem.c.obj	f2e57f135d8c704b
-1328	1441	1761038331418332430	esp-idf/heap/CMakeFiles/__idf_heap.dir/heap_caps_base.c.obj	c95cb05e7d7974fb
-4684	7977	1761038338066519452	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure	df16630ad7b257ac
-5933	6050	1761038336023229206	esp-idf/esp_driver_mcpwm/CMakeFiles/__idf_esp_driver_mcpwm.dir/src/mcpwm_com.c.obj	137daaa762efa2ac
-111	121	1761396731786356996	bootloader-prefix/src/bootloader-stamp/bootloader-install	eec49e23bb8566be
-16	3783	1761409176001881041	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/pthread/cmake_install.cmake	425eb24419bbd06e
-6891	6950	1761038336981393724	esp-idf/esp_driver_twai/libesp_driver_twai.a	86974e48f9af0b54
-1959	2185	1761038332049537906	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_spiflash.c.obj	b29a902eacfa51a8
-4300	4363	1761038334390219684	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/psa_its_file.c.obj	59ade2a74218a6c5
 6253	6455	1761038336342830131	esp-idf/esp_driver_dac/CMakeFiles/__idf_esp_driver_dac.dir/dac_continuous.c.obj	876bd7af1148a96f
-4349	4426	1761038334439337852	esp-idf/mbedtls/mbedtls/library/CMakeFiles/mbedcrypto.dir/sha256.c.obj	74de3c073b03a595
-3643	3729	1761038333732618856	esp-idf/efuse/libefuse.a	b5d092803e05939e
-3452	3569	1761396735244157572	.bin_timestamp	815a3f990e74d06a
+6325	6480	1761038336414918408	esp-idf/esp_driver_rmt/CMakeFiles/__idf_esp_driver_rmt.dir/src/rmt_encoder_bytes.c.obj	c7306dd01b7dd550
+6338	6506	1761038336428078583	esp-idf/esp_driver_rmt/CMakeFiles/__idf_esp_driver_rmt.dir/src/rmt_encoder_copy.c.obj	98ddc8c6f966b3
+6364	6513	1761038336454467936	esp-idf/esp_driver_rmt/CMakeFiles/__idf_esp_driver_rmt.dir/src/rmt_encoder_simple.c.obj	bc271559d9223509
+6406	6573	1761038336496536156	esp-idf/esp_driver_sdm/CMakeFiles/__idf_esp_driver_sdm.dir/src/sdm.c.obj	6556f224298846c6
+6480	6575	1761038336570046072	esp-idf/esp_driver_uart/CMakeFiles/__idf_esp_driver_uart.dir/src/uart_wakeup.c.obj	43142891c72ce366
+6447	6604	1761038336537036319	esp-idf/esp_driver_i2c/CMakeFiles/__idf_esp_driver_i2c.dir/i2c_common.c.obj	460faaa77c748e67
+6069	6616	1761038336158650837	esp-idf/esp_driver_sdmmc/CMakeFiles/__idf_esp_driver_sdmmc.dir/src/sdmmc_host.c.obj	be195b647adce4fd
+6575	6634	1761038336665383044	esp-idf/esp_driver_pcnt/libesp_driver_pcnt.a	9fc8f0195073cfc0
+6514	6657	1761038336603568122	esp-idf/esp_driver_twai/CMakeFiles/__idf_esp_driver_twai.dir/esp_twai.c.obj	49b5e46d84b97dbc
+6604	6658	1761038336694000586	esp-idf/esp_driver_gptimer/libesp_driver_gptimer.a	4f1aa81f2d14186a
+6634	6691	1761038336724215811	esp-idf/esp_driver_sdmmc/libesp_driver_sdmmc.a	589c0880a8f10214
+6616	6692	1761038336706129751	esp-idf/esp_driver_mcpwm/libesp_driver_mcpwm.a	e0549eb8535cc3c8
+6450	6694	1761038336539669471	esp-idf/esp_driver_i2c/CMakeFiles/__idf_esp_driver_i2c.dir/i2c_slave.c.obj	d033aec132919e90
+6380	6702	1761038336469658215	esp-idf/esp_driver_rmt/CMakeFiles/__idf_esp_driver_rmt.dir/src/rmt_rx.c.obj	4b89bff5fbf54dc7
+6658	6714	1761038336748012470	esp-idf/esp_driver_sdio/libesp_driver_sdio.a	d1a03ba5245323e9
+6658	6720	1761038336747629799	esp-idf/esp_driver_sdspi/libesp_driver_sdspi.a	febcb812106da557
+6691	6747	1761038336781143766	esp-idf/esp_driver_dac/libesp_driver_dac.a	8a23ac8fc8272f25
+6692	6753	1761038336782497488	esp-idf/esp_driver_sdm/libesp_driver_sdm.a	5e9147e66e5c1d4d
+6720	6810	1761038336809892226	esp-idf/driver/CMakeFiles/__idf_driver.dir/deprecated/esp32/dac_legacy.c.obj	2d33202d2be0be3a
+6382	6826	1761038336472145574	esp-idf/esp_driver_rmt/CMakeFiles/__idf_esp_driver_rmt.dir/src/rmt_tx.c.obj	47b7bb95c71a699c
+6714	6848	1761038336804027958	esp-idf/driver/CMakeFiles/__idf_driver.dir/deprecated/dac_common_legacy.c.obj	bc0e23bfc5481ef7
+6702	6863	1761038336792388922	esp-idf/driver/CMakeFiles/__idf_driver.dir/deprecated/adc_dma_legacy.c.obj	b8b0c20835682a2a
+6694	6877	1761038336784457300	esp-idf/driver/CMakeFiles/__idf_driver.dir/deprecated/adc_legacy.c.obj	22ff0701551443b1
+6573	6891	1761038336663230897	esp-idf/esp_driver_twai/CMakeFiles/__idf_esp_driver_twai.dir/esp_twai_onchip.c.obj	8727c12d2bd21135
+6827	6909	1761038336916607022	esp-idf/esp_driver_rmt/libesp_driver_rmt.a	b076f4c5a07104a9
+6891	6950	1761038336981393724	esp-idf/esp_driver_twai/libesp_driver_twai.a	86974e48f9af0b54
+6409	6991	1761038336498820138	esp-idf/esp_driver_i2c/CMakeFiles/__idf_esp_driver_i2c.dir/i2c_master.c.obj	643845fa72c6e569
+6909	7032	1761038336998872777	esp-idf/driver/CMakeFiles/__idf_driver.dir/deprecated/sigma_delta_legacy.c.obj	e479db0df2fdedde
+6991	7047	1761038337080850488	esp-idf/esp_driver_i2c/libesp_driver_i2c.a	8586e4026354e4eb
+6951	7073	1761038337040854955	esp-idf/driver/CMakeFiles/__idf_driver.dir/touch_sensor/touch_sensor_common.c.obj	1ea06b8116b3382b
+6747	7080	1761038336836853125	esp-idf/driver/CMakeFiles/__idf_driver.dir/deprecated/timer_legacy.c.obj	4272c4bd4cf327a1
 6506	7114	1761038336595758209	esp-idf/esp_driver_ledc/CMakeFiles/__idf_esp_driver_ledc.dir/src/ledc.c.obj	c45a4d7ee57c5fe5
-121	142	1761396731816419000	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/CMakeFiles/bootloader-complete	b86f8d76df802e20
-14	2745	1761409176048495697	build.ninja	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/xtensa/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/mbedtls/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/mbedtls/mbedtls/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/mbedtls/mbedtls/include/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/mbedtls/mbedtls/3rdparty/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/mbedtls/mbedtls/3rdparty/everest/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/mbedtls/mbedtls/3rdparty/p256-m/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/mbedtls/mbedtls/library/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/mbedtls/mbedtls/pkgconfig/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/bootloader/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esptool_py/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/partition_table/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_app_format/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_bootloader_format/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/app_update/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_partition/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/efuse/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/bootloader_support/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_mm/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_driver_gpio/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/spi_flash/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_timer/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_system/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_system/port/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_system/port/soc/esp32/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_common/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_rom/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/hal/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/log/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/heap/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/soc/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_security/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_hw_support/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_hw_support/port/esp32/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_hw_support/lowpower/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/freertos/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/newlib/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/newlib/src/port/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/pthread/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/cxx/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_pm/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_ringbuf/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_driver_pcnt/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_driver_gptimer/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_driver_spi/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_driver_mcpwm/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_driver_ana_cmpr/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_driver_i2s/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/sdmmc/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_driver_sdmmc/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_driver_sdspi/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_driver_sdio/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_driver_dac/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_driver_bitscrambler/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_driver_rmt/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_driver_tsens/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_driver_sdm/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_driver_i2c/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_driver_uart/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_driver_ledc/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_driver_parlio/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_driver_usb_serial_jtag/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_driver_twai/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/driver/cmake_install.cmake	425eb24419bbd06e
-14	2745	1761409176048495697	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/main/cmake_install.cmake	425eb24419bbd06e
-21	62	1761409176090111254	esp-idf/esptool_py/CMakeFiles/app_check_size	d42effb130342287
-21	62	1761409176090111254	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esptool_py/CMakeFiles/app_check_size	d42effb130342287
-21	91	1761409176089656169	bootloader-prefix/src/bootloader-stamp/bootloader-build	98a028a3551e5de5
-21	91	1761409176089656169	bootloader/bootloader.elf	98a028a3551e5de5
-21	91	1761409176089656169	bootloader/bootloader.bin	98a028a3551e5de5
-21	91	1761409176089656169	bootloader/bootloader.map	98a028a3551e5de5
-21	91	1761409176089656169	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	98a028a3551e5de5
-21	91	1761409176089656169	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.elf	98a028a3551e5de5
-21	91	1761409176089656169	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.bin	98a028a3551e5de5
-21	91	1761409176089656169	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.map	98a028a3551e5de5
-91	101	1761409176160102656	bootloader-prefix/src/bootloader-stamp/bootloader-install	eec49e23bb8566be
-91	101	1761409176160102656	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	eec49e23bb8566be
-101	120	1761409176188649000	CMakeFiles/bootloader-complete	b86f8d76df802e20
-101	120	1761409176188649000	bootloader-prefix/src/bootloader-stamp/bootloader-done	b86f8d76df802e20
-101	120	1761409176188649000	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/CMakeFiles/bootloader-complete	b86f8d76df802e20
-101	120	1761409176188649000	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	b86f8d76df802e20
-21	61	1761409399883745553	esp-idf/esptool_py/CMakeFiles/app_check_size	d42effb130342287
-21	61	1761409399883745553	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esptool_py/CMakeFiles/app_check_size	d42effb130342287
-21	80	1761409399883367635	bootloader-prefix/src/bootloader-stamp/bootloader-build	98a028a3551e5de5
-21	80	1761409399883367635	bootloader/bootloader.elf	98a028a3551e5de5
-21	80	1761409399883367635	bootloader/bootloader.bin	98a028a3551e5de5
-21	80	1761409399883367635	bootloader/bootloader.map	98a028a3551e5de5
-21	80	1761409399883367635	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	98a028a3551e5de5
-21	80	1761409399883367635	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.elf	98a028a3551e5de5
-21	80	1761409399883367635	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.bin	98a028a3551e5de5
-21	80	1761409399883367635	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.map	98a028a3551e5de5
-80	89	1761409399943178836	bootloader-prefix/src/bootloader-stamp/bootloader-install	eec49e23bb8566be
-80	89	1761409399943178836	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	eec49e23bb8566be
-89	109	1761409399971345000	CMakeFiles/bootloader-complete	b86f8d76df802e20
-89	109	1761409399971345000	bootloader-prefix/src/bootloader-stamp/bootloader-done	b86f8d76df802e20
-89	109	1761409399971345000	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/CMakeFiles/bootloader-complete	b86f8d76df802e20
-89	109	1761409399971345000	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	b86f8d76df802e20
+6863	7175	1761038336953282896	esp-idf/driver/CMakeFiles/__idf_driver.dir/deprecated/pcnt_legacy.c.obj	b00fecd435558eb6
+7114	7175	1761038337204251079	esp-idf/esp_driver_ledc/libesp_driver_ledc.a	852f4c35c6d8b195
+7080	7185	1761038337170064939	esp-idf/main/CMakeFiles/__idf_main.dir/twai_alert_and_recovery_example_main.c.obj	1333a5cd769e9fc7
+7073	7185	1761038337163020867	esp-idf/driver/CMakeFiles/__idf_driver.dir/deprecated/adc_i2s_deprecated.c.obj	99d69b166c78854d
+6455	7202	1761038336545025567	esp-idf/esp_driver_uart/CMakeFiles/__idf_esp_driver_uart.dir/src/uart.c.obj	37f41f4abb0cede8
+6754	7230	1761038336844551412	esp-idf/driver/CMakeFiles/__idf_driver.dir/i2c/i2c.c.obj	e247dc4cf21c1fa7
+7047	7247	1761038337137575566	esp-idf/driver/CMakeFiles/__idf_driver.dir/twai/twai.c.obj	3c81d218140a29cc
+7202	7257	1761038337291788596	esp-idf/esp_driver_uart/libesp_driver_uart.a	e3d1e055b26043b7
+7032	7273	1761038337121982990	esp-idf/driver/CMakeFiles/__idf_driver.dir/touch_sensor/esp32/touch_sensor.c.obj	ee9b5f48e51f134f
+6810	7284	1761038336899828809	esp-idf/driver/CMakeFiles/__idf_driver.dir/deprecated/i2s_legacy.c.obj	e985894bff26544a
+6877	7308	1761038336967194996	esp-idf/driver/CMakeFiles/__idf_driver.dir/deprecated/rmt_legacy.c.obj	225eadea8b916a6
+6848	7312	1761038336938499620	esp-idf/driver/CMakeFiles/__idf_driver.dir/deprecated/mcpwm_legacy.c.obj	3391e222b4bd36c
+7312	7369	1761038337401854135	esp-idf/driver/libdriver.a	6b72e120a2a43402
+7369	7399	1761038337459325596	esp-idf/main/libmain.a	8f1c0ecb702a8481
+4684	7977	1761038338066519452	bootloader-prefix/src/bootloader-stamp/bootloader-configure	df16630ad7b257ac
+4684	7977	1761038338066519452	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure	df16630ad7b257ac
+7978	9631	1761038338067805549	bootloader-prefix/src/bootloader-stamp/bootloader-build	98a028a3551e5de5
+7978	9631	1761038338067805549	bootloader/bootloader.elf	98a028a3551e5de5
+7978	9631	1761038338067805549	bootloader/bootloader.bin	98a028a3551e5de5
+7978	9631	1761038338067805549	bootloader/bootloader.map	98a028a3551e5de5
+7978	9631	1761038338067805549	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	98a028a3551e5de5
+7978	9631	1761038338067805549	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.elf	98a028a3551e5de5
+7978	9631	1761038338067805549	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.bin	98a028a3551e5de5
+7978	9631	1761038338067805549	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.map	98a028a3551e5de5
+9632	9641	1761038339721649367	bootloader-prefix/src/bootloader-stamp/bootloader-install	eec49e23bb8566be
+9632	9641	1761038339721649367	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	eec49e23bb8566be
+9641	9661	1761038339750596245	CMakeFiles/bootloader-complete	b86f8d76df802e20
+9641	9661	1761038339750596245	bootloader-prefix/src/bootloader-stamp/bootloader-done	b86f8d76df802e20
+9641	9661	1761038339750596245	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/CMakeFiles/bootloader-complete	b86f8d76df802e20
+9641	9661	1761038339750596245	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	b86f8d76df802e20
+7399	11160	1761038341234205869	esp-idf/esp_system/ld/sections.ld	c28e19ec5b5b000
+7399	11160	1761038341234205869	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_system/ld/sections.ld	c28e19ec5b5b000
+11160	11183	1761038341250232116	CMakeFiles/CAN.elf.dir/project_elf_src_esp32.c.obj	233df794466e11dc
+11183	11454	1761038341273193642	CAN.elf	49089e0fa61cd217
+11454	11564	1761038341653279724	.bin_timestamp	815a3f990e74d06a
+11454	11564	1761038341653279724	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/.bin_timestamp	815a3f990e74d06a
+11564	11599	1761038341653994982	esp-idf/esptool_py/CMakeFiles/app_check_size	d42effb130342287
+11564	11599	1761038341653994982	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esptool_py/CMakeFiles/app_check_size	d42effb130342287
+85	151	1761042677712327326	bootloader-prefix/src/bootloader-stamp/bootloader-build	98a028a3551e5de5
+85	151	1761042677712327326	bootloader/bootloader.elf	98a028a3551e5de5
+85	151	1761042677712327326	bootloader/bootloader.bin	98a028a3551e5de5
+85	151	1761042677712327326	bootloader/bootloader.map	98a028a3551e5de5
+85	151	1761042677712327326	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	98a028a3551e5de5
+85	151	1761042677712327326	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.elf	98a028a3551e5de5
+85	151	1761042677712327326	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.bin	98a028a3551e5de5
+85	151	1761042677712327326	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.map	98a028a3551e5de5
+151	160	1761042677778043583	bootloader-prefix/src/bootloader-stamp/bootloader-install	eec49e23bb8566be
+151	160	1761042677778043583	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	eec49e23bb8566be
+160	180	1761042677806713000	CMakeFiles/bootloader-complete	b86f8d76df802e20
+160	180	1761042677806713000	bootloader-prefix/src/bootloader-stamp/bootloader-done	b86f8d76df802e20
+160	180	1761042677806713000	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/CMakeFiles/bootloader-complete	b86f8d76df802e20
+160	180	1761042677806713000	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	b86f8d76df802e20
+20	79	1761042715826447016	bootloader-prefix/src/bootloader-stamp/bootloader-build	98a028a3551e5de5
+20	79	1761042715826447016	bootloader/bootloader.elf	98a028a3551e5de5
+20	79	1761042715826447016	bootloader/bootloader.bin	98a028a3551e5de5
+20	79	1761042715826447016	bootloader/bootloader.map	98a028a3551e5de5
+20	79	1761042715826447016	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	98a028a3551e5de5
+20	79	1761042715826447016	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.elf	98a028a3551e5de5
+20	79	1761042715826447016	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.bin	98a028a3551e5de5
+20	79	1761042715826447016	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.map	98a028a3551e5de5
+79	88	1761042715885010465	bootloader-prefix/src/bootloader-stamp/bootloader-install	eec49e23bb8566be
+79	88	1761042715885010465	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	eec49e23bb8566be
+88	108	1761042715912974000	CMakeFiles/bootloader-complete	b86f8d76df802e20
+88	108	1761042715912974000	bootloader-prefix/src/bootloader-stamp/bootloader-done	b86f8d76df802e20
+88	108	1761042715912974000	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/CMakeFiles/bootloader-complete	b86f8d76df802e20
+88	108	1761042715912974000	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	b86f8d76df802e20
+20	80	1761042736340140544	bootloader-prefix/src/bootloader-stamp/bootloader-build	98a028a3551e5de5
+20	80	1761042736340140544	bootloader/bootloader.elf	98a028a3551e5de5
+20	80	1761042736340140544	bootloader/bootloader.bin	98a028a3551e5de5
+20	80	1761042736340140544	bootloader/bootloader.map	98a028a3551e5de5
+20	80	1761042736340140544	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	98a028a3551e5de5
+20	80	1761042736340140544	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.elf	98a028a3551e5de5
+20	80	1761042736340140544	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.bin	98a028a3551e5de5
+20	80	1761042736340140544	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.map	98a028a3551e5de5
+80	89	1761042736400102189	bootloader-prefix/src/bootloader-stamp/bootloader-install	eec49e23bb8566be
+80	89	1761042736400102189	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	eec49e23bb8566be
+90	108	1761042736427581000	CMakeFiles/bootloader-complete	b86f8d76df802e20
+90	108	1761042736427581000	bootloader-prefix/src/bootloader-stamp/bootloader-done	b86f8d76df802e20
+90	108	1761042736427581000	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/CMakeFiles/bootloader-complete	b86f8d76df802e20
+90	108	1761042736427581000	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	b86f8d76df802e20
+20	162	1761042736339718798	esp-idf/main/CMakeFiles/__idf_main.dir/twai_alert_and_recovery_example_main.c.obj	1333a5cd769e9fc7
+162	266	1761042736481732921	esp-idf/main/libmain.a	8f1c0ecb702a8481
+266	2995	1761042739298787695	esp-idf/esp_system/ld/sections.ld	c28e19ec5b5b000
+266	2995	1761042739298787695	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_system/ld/sections.ld	c28e19ec5b5b000
+2995	3328	1761042739315088666	CAN.elf	49089e0fa61cd217
+3328	3477	1761042739795606317	.bin_timestamp	815a3f990e74d06a
+3328	3477	1761042739795606317	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/.bin_timestamp	815a3f990e74d06a
+3477	3511	1761042739796368685	esp-idf/esptool_py/CMakeFiles/app_check_size	d42effb130342287
+3477	3511	1761042739796368685	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esptool_py/CMakeFiles/app_check_size	d42effb130342287
+19	78	1761042746785135583	bootloader-prefix/src/bootloader-stamp/bootloader-build	98a028a3551e5de5
+19	78	1761042746785135583	bootloader/bootloader.elf	98a028a3551e5de5
+19	78	1761042746785135583	bootloader/bootloader.bin	98a028a3551e5de5
+19	78	1761042746785135583	bootloader/bootloader.map	98a028a3551e5de5
+19	78	1761042746785135583	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	98a028a3551e5de5
+19	78	1761042746785135583	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.elf	98a028a3551e5de5
+19	78	1761042746785135583	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.bin	98a028a3551e5de5
+19	78	1761042746785135583	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.map	98a028a3551e5de5
+78	88	1761042746844071154	bootloader-prefix/src/bootloader-stamp/bootloader-install	eec49e23bb8566be
+78	88	1761042746844071154	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	eec49e23bb8566be
+88	109	1761042746874015000	CMakeFiles/bootloader-complete	b86f8d76df802e20
+88	109	1761042746874015000	bootloader-prefix/src/bootloader-stamp/bootloader-done	b86f8d76df802e20
+88	109	1761042746874015000	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/CMakeFiles/bootloader-complete	b86f8d76df802e20
+88	109	1761042746874015000	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	b86f8d76df802e20
+19	184	1761042746784765086	esp-idf/main/CMakeFiles/__idf_main.dir/twai_alert_and_recovery_example_main.c.obj	1333a5cd769e9fc7
+184	222	1761042746950003574	esp-idf/main/libmain.a	8f1c0ecb702a8481
+222	2934	1761042749684059335	esp-idf/esp_system/ld/sections.ld	c28e19ec5b5b000
+222	2934	1761042749684059335	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_system/ld/sections.ld	c28e19ec5b5b000
+2934	3207	1761042749699321108	CAN.elf	49089e0fa61cd217
+3207	3323	1761042750087976456	.bin_timestamp	815a3f990e74d06a
+3207	3323	1761042750087976456	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/.bin_timestamp	815a3f990e74d06a
+3323	3357	1761042750088843365	esp-idf/esptool_py/CMakeFiles/app_check_size	d42effb130342287
+3323	3357	1761042750088843365	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esptool_py/CMakeFiles/app_check_size	d42effb130342287
+60	124	1761046912477132361	bootloader-prefix/src/bootloader-stamp/bootloader-build	98a028a3551e5de5
+60	124	1761046912477132361	bootloader/bootloader.elf	98a028a3551e5de5
+60	124	1761046912477132361	bootloader/bootloader.bin	98a028a3551e5de5
+60	124	1761046912477132361	bootloader/bootloader.map	98a028a3551e5de5
+60	124	1761046912477132361	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	98a028a3551e5de5
+60	124	1761046912477132361	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.elf	98a028a3551e5de5
+60	124	1761046912477132361	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.bin	98a028a3551e5de5
+60	124	1761046912477132361	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.map	98a028a3551e5de5
+124	134	1761046912541437678	bootloader-prefix/src/bootloader-stamp/bootloader-install	eec49e23bb8566be
+124	134	1761046912541437678	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	eec49e23bb8566be
+134	154	1761046912569573000	CMakeFiles/bootloader-complete	b86f8d76df802e20
+134	154	1761046912569573000	bootloader-prefix/src/bootloader-stamp/bootloader-done	b86f8d76df802e20
+134	154	1761046912569573000	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/CMakeFiles/bootloader-complete	b86f8d76df802e20
+134	154	1761046912569573000	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	b86f8d76df802e20
+25	82	1761046922679904143	bootloader-prefix/src/bootloader-stamp/bootloader-build	98a028a3551e5de5
+25	82	1761046922679904143	bootloader/bootloader.elf	98a028a3551e5de5
+25	82	1761046922679904143	bootloader/bootloader.bin	98a028a3551e5de5
+25	82	1761046922679904143	bootloader/bootloader.map	98a028a3551e5de5
+25	82	1761046922679904143	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	98a028a3551e5de5
+25	82	1761046922679904143	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.elf	98a028a3551e5de5
+25	82	1761046922679904143	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.bin	98a028a3551e5de5
+25	82	1761046922679904143	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.map	98a028a3551e5de5
+82	91	1761046922737482390	bootloader-prefix/src/bootloader-stamp/bootloader-install	eec49e23bb8566be
+82	91	1761046922737482390	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	eec49e23bb8566be
+91	111	1761046922765133000	CMakeFiles/bootloader-complete	b86f8d76df802e20
+91	111	1761046922765133000	bootloader-prefix/src/bootloader-stamp/bootloader-done	b86f8d76df802e20
+91	111	1761046922765133000	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/CMakeFiles/bootloader-complete	b86f8d76df802e20
+91	111	1761046922765133000	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	b86f8d76df802e20
+24	168	1761046922679570890	esp-idf/main/CMakeFiles/__idf_main.dir/twai_alert_and_recovery_example_main.c.obj	1333a5cd769e9fc7
+168	205	1761046922823622050	esp-idf/main/libmain.a	8f1c0ecb702a8481
+205	2908	1761046925545756594	esp-idf/esp_system/ld/sections.ld	c28e19ec5b5b000
+205	2908	1761046925545756594	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_system/ld/sections.ld	c28e19ec5b5b000
+2908	3240	1761046925562954544	CAN.elf	49089e0fa61cd217
+3240	3387	1761046926042050657	.bin_timestamp	815a3f990e74d06a
+3240	3387	1761046926042050657	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/.bin_timestamp	815a3f990e74d06a
+3387	3423	1761046926042727538	esp-idf/esptool_py/CMakeFiles/app_check_size	d42effb130342287
+3387	3423	1761046926042727538	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esptool_py/CMakeFiles/app_check_size	d42effb130342287
+39	100	1761049464270625716	bootloader-prefix/src/bootloader-stamp/bootloader-build	98a028a3551e5de5
+39	100	1761049464270625716	bootloader/bootloader.elf	98a028a3551e5de5
+39	100	1761049464270625716	bootloader/bootloader.bin	98a028a3551e5de5
+39	100	1761049464270625716	bootloader/bootloader.map	98a028a3551e5de5
+39	100	1761049464270625716	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	98a028a3551e5de5
+39	100	1761049464270625716	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.elf	98a028a3551e5de5
+39	100	1761049464270625716	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.bin	98a028a3551e5de5
+39	100	1761049464270625716	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.map	98a028a3551e5de5
+100	109	1761049464331304729	bootloader-prefix/src/bootloader-stamp/bootloader-install	eec49e23bb8566be
+100	109	1761049464331304729	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	eec49e23bb8566be
+109	129	1761049464359441000	CMakeFiles/bootloader-complete	b86f8d76df802e20
+109	129	1761049464359441000	bootloader-prefix/src/bootloader-stamp/bootloader-done	b86f8d76df802e20
+109	129	1761049464359441000	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/CMakeFiles/bootloader-complete	b86f8d76df802e20
+109	129	1761049464359441000	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	b86f8d76df802e20
+27	87	1761049491031335971	bootloader-prefix/src/bootloader-stamp/bootloader-build	98a028a3551e5de5
+27	87	1761049491031335971	bootloader/bootloader.elf	98a028a3551e5de5
+27	87	1761049491031335971	bootloader/bootloader.bin	98a028a3551e5de5
+27	87	1761049491031335971	bootloader/bootloader.map	98a028a3551e5de5
+27	87	1761049491031335971	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	98a028a3551e5de5
+27	87	1761049491031335971	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.elf	98a028a3551e5de5
+27	87	1761049491031335971	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.bin	98a028a3551e5de5
+27	87	1761049491031335971	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.map	98a028a3551e5de5
+87	97	1761049491091565815	bootloader-prefix/src/bootloader-stamp/bootloader-install	eec49e23bb8566be
+87	97	1761049491091565815	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	eec49e23bb8566be
+97	116	1761049491120003000	CMakeFiles/bootloader-complete	b86f8d76df802e20
+97	116	1761049491120003000	bootloader-prefix/src/bootloader-stamp/bootloader-done	b86f8d76df802e20
+97	116	1761049491120003000	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/CMakeFiles/bootloader-complete	b86f8d76df802e20
+97	116	1761049491120003000	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	b86f8d76df802e20
+27	186	1761049491030873427	esp-idf/main/CMakeFiles/__idf_main.dir/twai_alert_and_recovery_example_main.c.obj	1333a5cd769e9fc7
+186	221	1761049491190486811	esp-idf/main/libmain.a	8f1c0ecb702a8481
+221	2931	1761049493921088798	esp-idf/esp_system/ld/sections.ld	c28e19ec5b5b000
+221	2931	1761049493921088798	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_system/ld/sections.ld	c28e19ec5b5b000
+2931	3220	1761049493934921992	CAN.elf	49089e0fa61cd217
+3220	3336	1761049494340167317	.bin_timestamp	815a3f990e74d06a
+3220	3336	1761049494340167317	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/.bin_timestamp	815a3f990e74d06a
+3337	3371	1761049494340830445	esp-idf/esptool_py/CMakeFiles/app_check_size	d42effb130342287
+3337	3371	1761049494340830445	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esptool_py/CMakeFiles/app_check_size	d42effb130342287
+21	83	1761050141958282438	bootloader-prefix/src/bootloader-stamp/bootloader-build	98a028a3551e5de5
+21	83	1761050141958282438	bootloader/bootloader.elf	98a028a3551e5de5
+21	83	1761050141958282438	bootloader/bootloader.bin	98a028a3551e5de5
+21	83	1761050141958282438	bootloader/bootloader.map	98a028a3551e5de5
+21	83	1761050141958282438	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	98a028a3551e5de5
+21	83	1761050141958282438	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.elf	98a028a3551e5de5
+21	83	1761050141958282438	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.bin	98a028a3551e5de5
+21	83	1761050141958282438	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.map	98a028a3551e5de5
+83	93	1761050142020956419	bootloader-prefix/src/bootloader-stamp/bootloader-install	eec49e23bb8566be
+83	93	1761050142020956419	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	eec49e23bb8566be
+93	116	1761050142050912000	CMakeFiles/bootloader-complete	b86f8d76df802e20
+93	116	1761050142050912000	bootloader-prefix/src/bootloader-stamp/bootloader-done	b86f8d76df802e20
+93	116	1761050142050912000	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/CMakeFiles/bootloader-complete	b86f8d76df802e20
+93	116	1761050142050912000	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	b86f8d76df802e20
+21	88	1761050631338275304	bootloader-prefix/src/bootloader-stamp/bootloader-build	98a028a3551e5de5
+21	88	1761050631338275304	bootloader/bootloader.elf	98a028a3551e5de5
+21	88	1761050631338275304	bootloader/bootloader.bin	98a028a3551e5de5
+21	88	1761050631338275304	bootloader/bootloader.map	98a028a3551e5de5
+21	88	1761050631338275304	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	98a028a3551e5de5
+21	88	1761050631338275304	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.elf	98a028a3551e5de5
+21	88	1761050631338275304	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.bin	98a028a3551e5de5
+21	88	1761050631338275304	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.map	98a028a3551e5de5
+89	98	1761050631405628640	bootloader-prefix/src/bootloader-stamp/bootloader-install	eec49e23bb8566be
+89	98	1761050631405628640	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	eec49e23bb8566be
+98	117	1761050631433551000	CMakeFiles/bootloader-complete	b86f8d76df802e20
+98	117	1761050631433551000	bootloader-prefix/src/bootloader-stamp/bootloader-done	b86f8d76df802e20
+98	117	1761050631433551000	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/CMakeFiles/bootloader-complete	b86f8d76df802e20
+98	117	1761050631433551000	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	b86f8d76df802e20
+30	91	1761050798481550160	bootloader-prefix/src/bootloader-stamp/bootloader-build	98a028a3551e5de5
+30	91	1761050798481550160	bootloader/bootloader.elf	98a028a3551e5de5
+30	91	1761050798481550160	bootloader/bootloader.bin	98a028a3551e5de5
+30	91	1761050798481550160	bootloader/bootloader.map	98a028a3551e5de5
+30	91	1761050798481550160	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	98a028a3551e5de5
+30	91	1761050798481550160	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.elf	98a028a3551e5de5
+30	91	1761050798481550160	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.bin	98a028a3551e5de5
+30	91	1761050798481550160	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.map	98a028a3551e5de5
+91	101	1761050798542201714	bootloader-prefix/src/bootloader-stamp/bootloader-install	eec49e23bb8566be
+91	101	1761050798542201714	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	eec49e23bb8566be
+101	120	1761050798570610000	CMakeFiles/bootloader-complete	b86f8d76df802e20
+101	120	1761050798570610000	bootloader-prefix/src/bootloader-stamp/bootloader-done	b86f8d76df802e20
+101	120	1761050798570610000	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/CMakeFiles/bootloader-complete	b86f8d76df802e20
+101	120	1761050798570610000	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	b86f8d76df802e20
+22	83	1761050919828899156	bootloader-prefix/src/bootloader-stamp/bootloader-build	98a028a3551e5de5
+22	83	1761050919828899156	bootloader/bootloader.elf	98a028a3551e5de5
+22	83	1761050919828899156	bootloader/bootloader.bin	98a028a3551e5de5
+22	83	1761050919828899156	bootloader/bootloader.map	98a028a3551e5de5
+22	83	1761050919828899156	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	98a028a3551e5de5
+22	83	1761050919828899156	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.elf	98a028a3551e5de5
+22	83	1761050919828899156	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.bin	98a028a3551e5de5
+22	83	1761050919828899156	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.map	98a028a3551e5de5
+83	92	1761050919889082214	bootloader-prefix/src/bootloader-stamp/bootloader-install	eec49e23bb8566be
+83	92	1761050919889082214	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	eec49e23bb8566be
+92	112	1761050919917382000	CMakeFiles/bootloader-complete	b86f8d76df802e20
+92	112	1761050919917382000	bootloader-prefix/src/bootloader-stamp/bootloader-done	b86f8d76df802e20
+92	112	1761050919917382000	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/CMakeFiles/bootloader-complete	b86f8d76df802e20
+92	112	1761050919917382000	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	b86f8d76df802e20
+17	73	1761050924396336077	bootloader-prefix/src/bootloader-stamp/bootloader-build	98a028a3551e5de5
+17	73	1761050924396336077	bootloader/bootloader.elf	98a028a3551e5de5
+17	73	1761050924396336077	bootloader/bootloader.bin	98a028a3551e5de5
+17	73	1761050924396336077	bootloader/bootloader.map	98a028a3551e5de5
+17	73	1761050924396336077	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	98a028a3551e5de5
+17	73	1761050924396336077	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.elf	98a028a3551e5de5
+17	73	1761050924396336077	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.bin	98a028a3551e5de5
+17	73	1761050924396336077	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.map	98a028a3551e5de5
+34	103	1761050986480461176	bootloader-prefix/src/bootloader-stamp/bootloader-build	98a028a3551e5de5
+34	103	1761050986480461176	bootloader/bootloader.elf	98a028a3551e5de5
+34	103	1761050986480461176	bootloader/bootloader.bin	98a028a3551e5de5
+34	103	1761050986480461176	bootloader/bootloader.map	98a028a3551e5de5
+34	103	1761050986480461176	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	98a028a3551e5de5
+34	103	1761050986480461176	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.elf	98a028a3551e5de5
+34	103	1761050986480461176	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.bin	98a028a3551e5de5
+34	103	1761050986480461176	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.map	98a028a3551e5de5
+103	113	1761050986549227742	bootloader-prefix/src/bootloader-stamp/bootloader-install	eec49e23bb8566be
+103	113	1761050986549227742	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	eec49e23bb8566be
+113	135	1761050986580765000	CMakeFiles/bootloader-complete	b86f8d76df802e20
+113	135	1761050986580765000	bootloader-prefix/src/bootloader-stamp/bootloader-done	b86f8d76df802e20
+113	135	1761050986580765000	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/CMakeFiles/bootloader-complete	b86f8d76df802e20
+113	135	1761050986580765000	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	b86f8d76df802e20
+22	83	1761051243900919997	bootloader-prefix/src/bootloader-stamp/bootloader-build	98a028a3551e5de5
+22	83	1761051243900919997	bootloader/bootloader.elf	98a028a3551e5de5
+22	83	1761051243900919997	bootloader/bootloader.bin	98a028a3551e5de5
+22	83	1761051243900919997	bootloader/bootloader.map	98a028a3551e5de5
+22	83	1761051243900919997	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	98a028a3551e5de5
+22	83	1761051243900919997	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.elf	98a028a3551e5de5
+22	83	1761051243900919997	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.bin	98a028a3551e5de5
+22	83	1761051243900919997	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.map	98a028a3551e5de5
+83	92	1761051243961955200	bootloader-prefix/src/bootloader-stamp/bootloader-install	eec49e23bb8566be
+83	92	1761051243961955200	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	eec49e23bb8566be
+92	112	1761051243990583000	CMakeFiles/bootloader-complete	b86f8d76df802e20
+92	112	1761051243990583000	bootloader-prefix/src/bootloader-stamp/bootloader-done	b86f8d76df802e20
+92	112	1761051243990583000	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/CMakeFiles/bootloader-complete	b86f8d76df802e20
+92	112	1761051243990583000	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	b86f8d76df802e20
+20	81	1761051271179149250	bootloader-prefix/src/bootloader-stamp/bootloader-build	98a028a3551e5de5
+20	81	1761051271179149250	bootloader/bootloader.elf	98a028a3551e5de5
+20	81	1761051271179149250	bootloader/bootloader.bin	98a028a3551e5de5
+20	81	1761051271179149250	bootloader/bootloader.map	98a028a3551e5de5
+20	81	1761051271179149250	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	98a028a3551e5de5
+20	81	1761051271179149250	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.elf	98a028a3551e5de5
+20	81	1761051271179149250	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.bin	98a028a3551e5de5
+20	81	1761051271179149250	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.map	98a028a3551e5de5
+81	90	1761051271239783037	bootloader-prefix/src/bootloader-stamp/bootloader-install	eec49e23bb8566be
+81	90	1761051271239783037	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	eec49e23bb8566be
+90	120	1761051271275986000	CMakeFiles/bootloader-complete	b86f8d76df802e20
+90	120	1761051271275986000	bootloader-prefix/src/bootloader-stamp/bootloader-done	b86f8d76df802e20
+90	120	1761051271275986000	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/CMakeFiles/bootloader-complete	b86f8d76df802e20
+90	120	1761051271275986000	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	b86f8d76df802e20
+21	79	1761052212115989316	bootloader-prefix/src/bootloader-stamp/bootloader-build	98a028a3551e5de5
+21	79	1761052212115989316	bootloader/bootloader.elf	98a028a3551e5de5
+21	79	1761052212115989316	bootloader/bootloader.bin	98a028a3551e5de5
+21	79	1761052212115989316	bootloader/bootloader.map	98a028a3551e5de5
+21	79	1761052212115989316	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	98a028a3551e5de5
+21	79	1761052212115989316	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.elf	98a028a3551e5de5
+21	79	1761052212115989316	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.bin	98a028a3551e5de5
+21	79	1761052212115989316	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.map	98a028a3551e5de5
+79	88	1761052212173568066	bootloader-prefix/src/bootloader-stamp/bootloader-install	eec49e23bb8566be
+79	88	1761052212173568066	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	eec49e23bb8566be
+88	109	1761052212202691000	CMakeFiles/bootloader-complete	b86f8d76df802e20
+88	109	1761052212202691000	bootloader-prefix/src/bootloader-stamp/bootloader-done	b86f8d76df802e20
+88	109	1761052212202691000	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/CMakeFiles/bootloader-complete	b86f8d76df802e20
+88	109	1761052212202691000	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	b86f8d76df802e20
+21	165	1761052212115440276	esp-idf/main/CMakeFiles/__idf_main.dir/twai_alert_and_recovery_example_main.c.obj	1333a5cd769e9fc7
+165	200	1761052212259824440	esp-idf/main/libmain.a	8f1c0ecb702a8481
+200	2892	1761052214972086646	esp-idf/esp_system/ld/sections.ld	c28e19ec5b5b000
+200	2892	1761052214972086646	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_system/ld/sections.ld	c28e19ec5b5b000
+2892	3190	1761052214986559542	CAN.elf	49089e0fa61cd217
+3190	3306	1761052215400275313	.bin_timestamp	815a3f990e74d06a
+3190	3306	1761052215400275313	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/.bin_timestamp	815a3f990e74d06a
+3307	3340	1761052215401096811	esp-idf/esptool_py/CMakeFiles/app_check_size	d42effb130342287
+3307	3340	1761052215401096811	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esptool_py/CMakeFiles/app_check_size	d42effb130342287
+24	89	1761052445701945625	bootloader-prefix/src/bootloader-stamp/bootloader-build	98a028a3551e5de5
+24	89	1761052445701945625	bootloader/bootloader.elf	98a028a3551e5de5
+24	89	1761052445701945625	bootloader/bootloader.bin	98a028a3551e5de5
+24	89	1761052445701945625	bootloader/bootloader.map	98a028a3551e5de5
+24	89	1761052445701945625	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	98a028a3551e5de5
+24	89	1761052445701945625	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.elf	98a028a3551e5de5
+24	89	1761052445701945625	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.bin	98a028a3551e5de5
+24	89	1761052445701945625	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.map	98a028a3551e5de5
+89	98	1761052445767017322	bootloader-prefix/src/bootloader-stamp/bootloader-install	eec49e23bb8566be
+89	98	1761052445767017322	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	eec49e23bb8566be
+98	118	1761052445795849000	CMakeFiles/bootloader-complete	b86f8d76df802e20
+98	118	1761052445795849000	bootloader-prefix/src/bootloader-stamp/bootloader-done	b86f8d76df802e20
+98	118	1761052445795849000	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/CMakeFiles/bootloader-complete	b86f8d76df802e20
+98	118	1761052445795849000	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	b86f8d76df802e20
+23	187	1761052445701384085	esp-idf/main/CMakeFiles/__idf_main.dir/twai_alert_and_recovery_example_main.c.obj	1333a5cd769e9fc7
+187	222	1761052445864916471	esp-idf/main/libmain.a	8f1c0ecb702a8481
+222	3015	1761052448676966240	esp-idf/esp_system/ld/sections.ld	c28e19ec5b5b000
+222	3015	1761052448676966240	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_system/ld/sections.ld	c28e19ec5b5b000
+3015	3301	1761052448693436341	CAN.elf	49089e0fa61cd217
+3301	3432	1761052449109706191	.bin_timestamp	815a3f990e74d06a
+3301	3432	1761052449109706191	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/.bin_timestamp	815a3f990e74d06a
+3432	3467	1761052449110513107	esp-idf/esptool_py/CMakeFiles/app_check_size	d42effb130342287
+3432	3467	1761052449110513107	/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esptool_py/CMakeFiles/app_check_size	d42effb130342287
