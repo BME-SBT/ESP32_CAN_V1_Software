@@ -28,8 +28,8 @@ const static char *TAG = "<BoardName>"; //<BoardName> is the name of the board u
 
 // clamps potmeter data to MAX_REV MIN_REV, and maps it to the same range linearly
 static inline uint16_t clamp_map(uint8_t x) {
-  if (x > MAX_PULSEWIDTH_US) return MAX_REV;
-  if (x < MIN_PULSEWIDTH_US) return MIN_REV;
+  if (x > (uint8_t)MAX_PULSEWIDTH_US) return MAX_REV;
+  if (x < (uint8_t)MIN_PULSEWIDTH_US) return MIN_REV;
   return (x - MIN_PULSEWIDTH_US) * ((MAX_REV - MIN_REV) / (MAX_PULSEWIDTH_US - MIN_PULSEWIDTH_US)) + MIN_REV;
 }
 /*
