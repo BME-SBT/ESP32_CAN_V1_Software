@@ -1,2 +1,2 @@
-source /Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/gdbinit/symbols
-source /Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/gdbinit/connect
+source /Users/prithul0218/Documents/PlatformIO/Solar Boat Team/ESP32_CAN_V1_Software/Resources/Apps/CAN/build/gdbinit/symbols
+source /Users/prithul0218/Documents/PlatformIO/Solar Boat Team/ESP32_CAN_V1_Software/Resources/Apps/CAN/build/gdbinit/connect

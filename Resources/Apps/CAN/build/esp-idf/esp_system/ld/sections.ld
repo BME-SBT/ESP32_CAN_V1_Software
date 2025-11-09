@@ -1,6 +1,6 @@
 /* Automatically generated file; DO NOT EDIT */
 /* Espressif IoT Development Framework Linker Script */
-/* Generated from: /Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/esp_system/ld/sections.ld.in */
+/* Generated from: /Users/prithul0218/Documents/PlatformIO/Solar Boat Team/ESP32_CAN_V1_Software/Resources/Apps/CAN/build/esp-idf/esp_system/ld/sections.ld.in */
 
 /*
  * SPDX-FileCopyrightText: 2021 Espressif Systems (Shanghai) CO LTD

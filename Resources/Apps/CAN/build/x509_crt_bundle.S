@@ -1,4 +1,4 @@
-/* * Data converted from /Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/esp-idf/mbedtls/x509_crt_bundle
+/* * Data converted from /Users/prithul0218/Documents/PlatformIO/Solar Boat Team/ESP32_CAN_V1_Software/Resources/Apps/CAN/build/esp-idf/mbedtls/x509_crt_bundle
  */
 .data
 #if !defined (__APPLE__) && !defined (__linux__)

@@ -10,18 +10,18 @@ if(NOT EXISTS "/Users/prithul0218/esp/v5.5.1/esp-idf/components/bootloader/subpr
   file(MAKE_DIRECTORY "/Users/prithul0218/esp/v5.5.1/esp-idf/components/bootloader/subproject")
 endif()
 file(MAKE_DIRECTORY
-  "/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader"
-  "/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix"
-  "/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/tmp"
-  "/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp"
-  "/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src"
-  "/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp"
+  "/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/ESP32_CAN_V1_Software/Resources/Apps/CAN/build/bootloader"
+  "/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/ESP32_CAN_V1_Software/Resources/Apps/CAN/build/bootloader-prefix"
+  "/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/ESP32_CAN_V1_Software/Resources/Apps/CAN/build/bootloader-prefix/tmp"
+  "/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/ESP32_CAN_V1_Software/Resources/Apps/CAN/build/bootloader-prefix/src/bootloader-stamp"
+  "/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/ESP32_CAN_V1_Software/Resources/Apps/CAN/build/bootloader-prefix/src"
+  "/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/ESP32_CAN_V1_Software/Resources/Apps/CAN/build/bootloader-prefix/src/bootloader-stamp"
 )
 
 set(configSubDirs )
 foreach(subDir IN LISTS configSubDirs)
-    file(MAKE_DIRECTORY "/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/${subDir}")
+    file(MAKE_DIRECTORY "/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/ESP32_CAN_V1_Software/Resources/Apps/CAN/build/bootloader-prefix/src/bootloader-stamp/${subDir}")
 endforeach()
 if(cfgdir)
-  file(MAKE_DIRECTORY "/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp${cfgdir}") # cfgdir has leading slash
+  file(MAKE_DIRECTORY "/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/ESP32_CAN_V1_Software/Resources/Apps/CAN/build/bootloader-prefix/src/bootloader-stamp${cfgdir}") # cfgdir has leading slash
 endif()

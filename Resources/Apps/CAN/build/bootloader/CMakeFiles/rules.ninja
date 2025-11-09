@@ -318,7 +318,7 @@ rule C_STATIC_LIBRARY_LINKER____idf_main_
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = /opt/homebrew/bin/cmake --regenerate-during-build -S/Users/prithul0218/esp/v5.5.1/esp-idf/components/bootloader/subproject -B"/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader"
+  command = /opt/homebrew/bin/cmake --regenerate-during-build -S/Users/prithul0218/esp/v5.5.1/esp-idf/components/bootloader/subproject -B"/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/ESP32_CAN_V1_Software/Resources/Apps/CAN/build/bootloader"
   description = Re-running CMake...
   generator = 1
 

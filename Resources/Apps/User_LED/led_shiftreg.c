@@ -5,13 +5,9 @@
 #include "driver/gpio.h"       //GPIO config/read/write
 #include "esp_rom_sys.h"       //for delay
 #include <stdbool.h>           //for bool
+#include "solar.h"
 
 const static char *TAG = "LED_SHIFTREG";
-
-//pin definition
-#define PIN_CLK GPIO_NUM_8 
-#define PIN_LATCH GPIO_NUM_10 
-#define PIN_DATA GPIO_NUM_11
 
 static uint8_t output_state = 0; // stores current output states
 
@@ -33,26 +29,6 @@ void shiftreg_write(uint8_t data)
     gpio_set_level(PIN_LATCH, 0);
 }
 
-
-//from github main, used instead of gpio_set_direction, this one actually works
-void gpio_set_dir(int gpio, int mode)
-{
-    gpio_config_t io_conf = {
-        .pin_bit_mask = (1ULL << gpio),         // choose which pin(s) to configure
-        .pull_up_en = GPIO_PULLUP_DISABLE,      // no internal pull-up
-        .pull_down_en = GPIO_PULLDOWN_DISABLE,  // no internal pull-down
-        .intr_type = GPIO_INTR_DISABLE,         // no interrupts
-        .mode = GPIO_MODE_OUTPUT                // default mode (can be changed below)
-    };
-
-    if (mode == 1) {
-        io_conf.mode = GPIO_MODE_INPUT;
-    } else if (mode == 2) {
-        io_conf.mode = GPIO_MODE_OUTPUT;
-    }
-
-    gpio_config(&io_conf);  // apply configuration
-}
 
 // this sets the GPIO pins as output so we can control the shift register
 void shiftreg_init(void) {

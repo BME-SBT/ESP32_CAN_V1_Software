@@ -18,8 +18,8 @@ end
 
 # Load bootloader symbols
 set confirm off
-    add-symbol-file /Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader/bootloader.elf
+    add-symbol-file /Users/prithul0218/Documents/PlatformIO/Solar Boat Team/ESP32_CAN_V1_Software/Resources/Apps/CAN/build/bootloader/bootloader.elf
 set confirm on
 
 # Load application symbols
-file /Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/CAN.elf
+file /Users/prithul0218/Documents/PlatformIO/Solar Boat Team/ESP32_CAN_V1_Software/Resources/Apps/CAN/build/CAN.elf
