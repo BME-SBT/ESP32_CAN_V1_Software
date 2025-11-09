@@ -1,13 +1,13 @@
 # Target labels
  bootloader
 # Source files and their labels
-/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/CMakeFiles/bootloader
-/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/CMakeFiles/bootloader.rule
-/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/CMakeFiles/bootloader-complete.rule
-/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
-/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
-/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
-/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
-/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
-/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
-/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/ESP32_CAN_V1_Software/Resources/Apps/CAN/build/CMakeFiles/bootloader
+/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/ESP32_CAN_V1_Software/Resources/Apps/CAN/build/CMakeFiles/bootloader.rule
+/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/ESP32_CAN_V1_Software/Resources/Apps/CAN/build/CMakeFiles/bootloader-complete.rule
+/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/ESP32_CAN_V1_Software/Resources/Apps/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/ESP32_CAN_V1_Software/Resources/Apps/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/ESP32_CAN_V1_Software/Resources/Apps/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/ESP32_CAN_V1_Software/Resources/Apps/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/ESP32_CAN_V1_Software/Resources/Apps/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/ESP32_CAN_V1_Software/Resources/Apps/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Users/prithul0218/Documents/PlatformIO/Solar Boat Team/ESP32_CAN_V1_Software/Resources/Apps/CAN/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
